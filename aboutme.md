@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Why you'd want to go on a date with me
+subtitle: null
 published: true
 ---
 > The highest activity a human being can attain is learning for understanding, because to understand is to be free. -- Baruch Spinoza
