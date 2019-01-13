@@ -9,7 +9,8 @@ layout: null
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #404040;
+  /* color: #404040; */
+  color: #47474A
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
@@ -358,7 +359,8 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  /* font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
+  font-family: 'Lora', 'Times New Roman', serif;
 }
 .post-entry-container {
   display: inline-block;
