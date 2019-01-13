@@ -4,8 +4,11 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 published: true
 ---
+> We loved with a love that was more than love
 
----------------
+
+
+----------------------------
 
 # Reasearch and Education
 
@@ -18,8 +21,6 @@ published: true
 - Member of [**ACM Class**](https://acm.sjtu.edu.cn/), an elite CS program for top 5% talented students.
 - Member of [**Apex Data & Knowledge Management Lab**](http://apex.sjtu.edu.cn/), advised by **[Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu)** and **[Prof. Weinan Zhang](http://wnzhang.net/)**.
 - **Overall GPA** 3.81/4.30, **Ranking** 9/41 (Spring 2018).
-- **Mathematical Courses**: Mathematical Analysis (95), Linear Algebra (92), Introduction to Scientific Computing (96), Probability (93), Probability and Computing (90), Mathematics for the Information Age ([Prof. John E. Hopcroft](http://www.cs.cornell.edu/jeh/), 93).
-- **Major Courses**: Programming (95), Data Structure (93), Programming Practice (97), Machine Learning (94), Operating System (93), Compiler Design and Implementation (90).
 
 ## Research Interests
 
