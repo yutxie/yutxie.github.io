@@ -21,4 +21,3 @@ published: true
 # Research Interests
 
 My research interests lie in areas that help us understand this world better, including the **Natural Language Understanding** (especially the **Machine Reading Comprehension** and **Knowledge Graph**) as well as other Computer Science’s applications in **Natural or Social Science**. Besides, I’m also interested in the general areas of Machine Learning such as the **Deep Representation Learning**, **Multi-task Learning** and **Reinforcement Learning**.
-
