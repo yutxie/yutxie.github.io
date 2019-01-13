@@ -2,15 +2,26 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+---------------
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# Reasearch and Education
 
-What else do you need?
+## Education
 
-### my history
+[**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/), *Sep. 2016 - Jun. 2020 (expected)*
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+*Undergraduate in Computer Science Department*
+
+- Member of [**ACM Class**](https://acm.sjtu.edu.cn/), an elite CS program for top 5% talented students.
+- Member of [**Apex Data & Knowledge Management Lab**](http://apex.sjtu.edu.cn/), advised by **[Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu)** and **[Prof. Weinan Zhang](http://wnzhang.net/)**.
+- **Overall GPA** 3.81/4.30, **Ranking** 9/41 (Spring 2018).
+- **Mathematical Courses**: Mathematical Analysis (95), Linear Algebra (92), Introduction to Scientific Computing (96), Probability (93), Probability and Computing (90), Mathematics for the Information Age ([Prof. John E. Hopcroft](http://www.cs.cornell.edu/jeh/), 93).
+- **Major Courses**: Programming (95), Data Structure (93), Programming Practice (97), Machine Learning (94), Operating System (93), Compiler Design and Implementation (90).
+
+## Research Interests
+
+My research interests lie in areas that help us understand this world better, including the **Natural Language Understanding** (especially the **Machine Reading Comprehension** and **Knowledge Graph**) as well as other Computer Science’s applications in **Natural or Social Science**. Besides, I’m also interested in the general areas of Machine Learning such as the **Deep Representation Learning**, **Multi-task Learning** and **Reinforcement Learning**.
+
