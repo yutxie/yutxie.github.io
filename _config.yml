@@ -17,18 +17,18 @@ baseurl: ""
 title: Yutong Xie
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: The highest activity a human being can attain is learning for understanding, because to understand is to be free. -- Baruch Spinoza
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Posts:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  CV: 
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
