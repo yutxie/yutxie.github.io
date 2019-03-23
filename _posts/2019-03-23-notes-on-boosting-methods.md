@@ -3,6 +3,10 @@ layout: post
 published: false
 title: Notes on Boosting
 ---
+---
+tags: [machine learning, boosting]
+---
+
 [TOC]
 
 ## TBC.
