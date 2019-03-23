@@ -2,6 +2,8 @@
 layout: post
 published: false
 title: Notes on Boosting
+tags:
+  - machine learning - boosting
 ---
 [TOC]
 
@@ -22,6 +24,3 @@ title: Notes on Boosting
 ## References
 
 - [The Elements of  Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/), Chapter 10, Boosting and Additive Trees
-
-
-
