@@ -21,7 +21,7 @@ title: Notes on Boosting
 
 ## References
 
-- [The Elements of  Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- [The Elements of  Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/), Chapter 10, Boosting and Additive Trees
 
 
 
