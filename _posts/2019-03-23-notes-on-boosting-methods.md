@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Notes on Boosting Methods
+title: Notes on Boosting
 ---
 [TOC]
 
@@ -15,6 +15,11 @@ title: Notes on Boosting Methods
 - Relations between such views
 	- AdaBoost and Forward Stagewise Algorithm
     - Forward Stagewise Algorithm and Gradient Boosting
+- 
+- Other issues
+	- Second-order gradient
 
 ## References
+
+
 
