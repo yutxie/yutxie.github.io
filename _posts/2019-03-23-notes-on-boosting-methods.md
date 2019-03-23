@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Notes on Boosting
 tags:
   - machine learning - boosting
