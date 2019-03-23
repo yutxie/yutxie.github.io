@@ -3,10 +3,9 @@ layout: post
 published: true
 title: Notes on Boosting
 tags:
-  - machine learning - boosting
+  - machine learning
+  - boosting
 ---
-[TOC]
-
 ## TBC.
 
 - What is boosting?
