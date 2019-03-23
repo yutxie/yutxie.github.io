@@ -5,7 +5,7 @@ title: Notes on Boosting
 ---
 [TOC]
 
-## TBC
+## TBC.
 
 - What is boosting?
 - Three kind of views
@@ -15,11 +15,13 @@ title: Notes on Boosting
 - Relations between such views
 	- AdaBoost and Forward Stagewise Algorithm
     - Forward Stagewise Algorithm and Gradient Boosting
-- 
 - Other issues
-	- Second-order gradient
+	- Loss functions and robustness
+    - Second-order gradient
 
 ## References
+
+- [The Elements of  Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 
 
