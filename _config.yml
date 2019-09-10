@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://thxyutong.github.io"
+url: "https://yutxie.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -17,15 +17,15 @@ baseurl: ""
 title: Yutong Xie
 
 # Short description of your site
-description: Personal Page
+description: Homepage
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Tag Index: "https://thxyutong.github.io/tags/"
-  CV: "https://raw.githubusercontent.com/thxyutong/thxyutong.github.io/master/files/CV_YutongXie.pdf"
+  Tag Index: "https://yutxie.github.io/tags/"
+  CV: "https://drive.google.com/open?id=1bZwSMMFHtI0l_Ujw_wvfUhpeYmmg5cWb"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
