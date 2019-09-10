@@ -61,7 +61,9 @@ A Deep Learning Framework, *Jul. 2017 -- Aug. 2017*
 # Teaching Experience
 
 CS420: [Machine Learning](http://wnzhang.net/teaching/cs420/index.html), Teaching Assistant, *Spring 2019*
+
 CS120: Introduction to Computer Science, Head Teaching Assistant, *Fall 2018*
+
 CS151: [C++ Programming (A)](https://acm.sjtu.edu.cn/wiki/Programming_2017), Teaching Assistant, *Fall 2017*
 
 # Hornors & Awards
