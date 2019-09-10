@@ -11,13 +11,18 @@ published: true
 # Education
 
 [**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/), *Sep. 2016 - Jun. 2020 (expected)*
-
-*Undergraduate in Computer Science Department*
-
+B.Sc.  in Computer Science
 - Member of [**ACM Class**](https://acm.sjtu.edu.cn/), an elite CS program for top 5% talented students.
-- Member of [**Apex Data & Knowledge Management Lab**](http://apex.sjtu.edu.cn/), advised by **[Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu)** and **[Prof. Weinan Zhang](http://wnzhang.net/)**.
-- **Overall GPA** 3.81/4.30, **Ranking** 9/41 (Spring 2018).
+- Member of [**Zhiyuan Honors Program**](https://zhiyuan.sjtu.edu.cn/), a pilot program for training outstand-ing students in the basic sciences.
+- Major GPA 3.89/4.00.
 
 # Research Interests
 
-My research interests lie in areas that help us understand this world better, including the **Natural Language Understanding** (especially the **Machine Reading Comprehension** and **Knowledge Graph**) as well as other Computer Science’s applications in **Natural or Social Science**. Besides, I’m also interested in the general areas of Machine Learning such as the **Deep Representation Learning**, **Multi-task Learning** and **Reinforcement Learning**.
+My research interests lie in in structural representation learning, e.g. **graph representation learning**, **natural language understanding (NLU)**; and I'm also attracted by general machinelearning problems,  e.g. **multi-task learning (MTL)**, **transfer learning (TL)**, **learning to learn (LRL)**.
+
+# Research Experience
+
+[**Foreseer Group**](http://foreseer.si.umich.edu/), iSchool, University of Michigan, *Jun. 2019 -- Present*
+Research Intern advised by [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/)
+
+
