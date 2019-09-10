@@ -25,11 +25,13 @@ My research interests lie in in structural representation learning, e.g. **graph
 
 [**Foreseer Group**](http://foreseer.si.umich.edu/), iSchool, University of Michigan, *Jun. 2019 -- Present*
 
-- Research Intern advised by [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/)
+- Research intern advised by [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/).
+- Researching on graph representation learning and multi-task learning.
 
 [**Apex Data & Knowledge Management Lab**](http://apex.sjtu.edu.cn), SJTU, *Jun. 2018 -- Present*
 
-- Research Intern advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu), and [Prof. Weinan Zhang](http://wnzhang.net/)
+- Research intern advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu), and [Prof. Weinan Zhang](http://wnzhang.net/)
+- Researching on code comprehension and  natural language processing.
 
 # Publications
 
