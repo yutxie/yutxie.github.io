@@ -66,3 +66,23 @@ CS151: [C++ Programming (A)](https://acm.sjtu.edu.cn/wiki/Programming_2017), Tea
 
 # Hornors & Awards
 
+[Leo Ko-Guan Scholarship](Leo Ko-Guan Scholarship), *2018--2019*
+
+Huawei Scholarship (Top 2), *2017--2018*
+
+Shanghai Jiao Tong University Scholarship, *2017--2018*
+
+Zhiyuan Honorary Scholarship, *2016--2018*
+
+Second Prize, [ACM-ICPC 2016, Nha Trang](https://icpc.baylor.edu/regionals/finder/nha-trang-2016), *Dec. 2016*
+
+Bronze Medal and Best Female Team, [ACM-ICPC 2016, Beijing](http://acm.pku.edu.cn/icpc_pku2016/), *Nov. 2016*
+
+Silver Medal and Best Female Team, [CCPC](http://ccpc.io/) 2016, Hefei, *Oct. 2016*
+
+Bronze Medal, [National Olympiad in Informatics (NOI)](http://www.noi.cn/) 2015, *May. 2015*
+
+Bronze Medal, [Asia-Pacific Informatics Olympiad (APIO) 2015](http://apio2015.org/), *May. 2015*
+
+First Prize, [National Olympiad in Informatics](http://www.noi.cn/) in Provinces (NOIP) 2014, *Dec. 2014*
+
