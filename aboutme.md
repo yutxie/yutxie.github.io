@@ -49,13 +49,13 @@ L. Qiu, D. Ru, Y. Xiao, **Y. Xie**, Q. Long, W. Zhang, K. Tu, Y. Yu
 
 # Projects
 
-A Compiler for Mx*, *May. 2018 -- Jun. 2018*
-- Course project of [Compiler Design and Implementation](https://acm.sjtu.edu.cn/wiki/Compiler_2018). \[[GitHub](https://github.com/yutxie/compiler-lite)\]
+A Compiler for Mx\*, *May. 2018 -- Jun. 2018*, \[[GitHub](https://github.com/yutxie/compiler-lite)\]
+- Course project of [Compiler Design and Implementation](https://acm.sjtu.edu.cn/wiki/Compiler_2018). 
 - Supported to compile a C-and-Java-like language Mx*.
 - Optimized the compiler with register allocation, local value numbering, redundant instruction reducing, function inlining, etc.
 
-A Deep Learning Framework, *Jul. 2017 -- Aug. 2017*
-- Course project of [Programming Practice](https://acm.sjtu.edu.cn/wiki/PPCA_2017). \[[GitHub](https://github.com/yutxie/dl-system-test)\]
+A Deep Learning Framework, *Jul. 2017 -- Aug. 2017*, \[[GitHub](https://github.com/yutxie/dl-system-test)\]
+- Course project of [Programming Practice](https://acm.sjtu.edu.cn/wiki/PPCA_2017).
 - Supported automatic differentiation, Adam optimizer, Convolutional Neural Networks, dropout and other features.
 - Supported TensorFlow-like interface and parallel computation on GPU.
 
