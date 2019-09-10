@@ -24,9 +24,9 @@ description: Homepage
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  CV: "https://raw.githubusercontent.com/yutxie/yutxie.github.io/master/files/Yutong_Xie_s_CV.pdf"
   Archives: "https://yutxie.github.io/"
   Tag Index: "https://yutxie.github.io/tags/"
-  CV: "https://raw.githubusercontent.com/yutxie/yutxie.github.io/master/files/Yutong_Xie_s_CV.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
