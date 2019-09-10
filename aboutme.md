@@ -11,7 +11,9 @@ published: true
 # Education
 
 [**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/), *Sep. 2016 - Jun. 2020 (expected)*
+
 B.Sc.  in Computer Science
+
 - Member of [**ACM Class**](https://acm.sjtu.edu.cn/), an elite CS program for top 5% talented students.
 - Member of [**Zhiyuan Honors Program**](https://zhiyuan.sjtu.edu.cn/), a pilot program for training outstand-ing students in the basic sciences.
 - Major GPA 3.89/4.00.
@@ -25,7 +27,7 @@ My research interests lie in in structural representation learning, e.g. **graph
 [**Foreseer Group**](http://foreseer.si.umich.edu/), iSchool, University of Michigan, *Jun. 2019 -- Present*
 Research Intern advised by [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/)
 
-[**Apex Data \& Knowledge Management Lab**](http://apex.sjtu.edu.cn), SJTU, *Jun. 2018 -- Present*
+[**Apex Data & Knowledge Management Lab**](http://apex.sjtu.edu.cn), SJTU, *Jun. 2018 -- Present*
 Research Intern advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu), and [Prof. Weinan Zhang](http://wnzhang.net/)
 
 # Publications
