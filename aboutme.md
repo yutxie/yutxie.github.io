@@ -68,7 +68,7 @@ A Deep Learning Framework, *Jul. 2017 -- Aug. 2017*, \[[GitHub](https://github.c
 
 # Hornors & Awards
 
-- [Leo Ko-Guan Scholarship](Leo Ko-Guan Scholarship), *2018--2019*
+- [Leo Ko-Guan Scholarship](http://www.leokoguanfoundation.org/), *2018--2019*
 - Huawei Scholarship (Top 2), *2017--2018*
 - Shanghai Jiao Tong University Scholarship, *2017--2018*
 - Zhiyuan Honorary Scholarship, *2016--2018*
