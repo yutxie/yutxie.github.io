@@ -19,7 +19,7 @@ published: true
 
 # Research Interests
 
-My research interests lie in in structural representation learning, e.g. **graph representation learning**, **natural language understanding (NLU)**; and I'm also attracted by general machinelearning problems,  e.g. **multi-task learning (MTL)**, **transfer learning (TL)**, **learning to learn (LRL)**.
+My research interests lie in structural representation learning, e.g. **graph representation learning**, **natural language understanding (NLU)**; and I'm also attracted by general machinelearning problems,  e.g. **multi-task learning (MTL)**, **transfer learning (TL)**, **learning to learn (LRL)**.
 
 # Research Experience
 
@@ -78,4 +78,3 @@ A Deep Learning Framework, *Jul. 2017 -- Aug. 2017*, \[[GitHub](https://github.c
 - Bronze Medal, [National Olympiad in Informatics (NOI)](http://www.noi.cn/) 2015, *May. 2015*
 - Bronze Medal, [Asia-Pacific Informatics Olympiad (APIO) 2015](http://apio2015.org/), *May. 2015*
 - First Prize, [National Olympiad in Informatics](http://www.noi.cn/) in Provinces (NOIP) 2014, *Dec. 2014*
-
