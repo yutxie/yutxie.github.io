@@ -34,14 +34,14 @@ My research interests lie in in structural representation learning, e.g. **graph
 # Publications
 
 Visual Rhythm Prediction with Feature-Aligned Network
-**Y. Xie**, H. Wang, Y. Hao, Z. Xu
+- **Y. Xie**, H. Wang, Y. Hao, Z. Xu
 - Proceedings of [the 16th IAPR International Conference on Machine Vision Applications Conference (MVA 2019)](http://www.mva-org.jp/Proceedings/2019/).
 - Course project of [Computer Vision](http://www.mvig.org/teaching/index.html), advised by [Prof. Cewu Lu](https://www.mvig.org/index.html).
 - Proposed a data-driven visual rhythm prediction method, in which several visual features are considered (including frames and residuals, optical flow, scene change, body pose) and integrated by an end-to-end neural network to predict the visual onsets in a sequence labeling manner.
 - Observed the mis-aligning phenomenon in feature streams, and elaborately designed a feature aligning layer to alleviate this problem.
 
 QA4IE+: A Real-Time Document Level Information Extraction System
-L. Qiu, D. Ru, Y. Xiao, **Y. Xie**, Q. Long, W. Zhang, K. Tu, Y. Yu
+- L. Qiu, D. Ru, Y. Xiao, **Y. Xie**, Q. Long, W. Zhang, K. Tu, Y. Yu
 - Submitted to AAAI 2019.
 - Aimed at implementing a system which can extract structured information from unstructured texts.
 - The framework has been designed as a 4-stage pipeline which first recognizes named entity in articles and selects related relations from a knowledge base, then extracts information with a question answering system, and finally generates reliable tuples by named entity linking.
