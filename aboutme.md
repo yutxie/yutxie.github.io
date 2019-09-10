@@ -47,7 +47,6 @@ QA4IE+: A Real-Time Document Level Information Extraction System
 - Submitted to AAAI 2019.
 - Aimed at implementing a system which can extract structured information from unstructured texts.
 - The framework has been designed as a 4-stage pipeline which first recognizes named entity in articles and selects related relations from a knowledge base, then extracts information with a question answering system, and finally generates reliable tuples by named entity linking.
-- Responsible for the named entity recognition (NER) part, implemented a CNN-BiLSTM-CRF sequence labeling model.
 
 # Projects
 
