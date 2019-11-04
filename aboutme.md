@@ -16,7 +16,7 @@ I am a senior undergraduate student majoring in **Computer Science** at [Shangha
 
 Currently I'm a visiting student at UMich, working with [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/).
 
-I plan to apply for Ph.D. programs in Computer Science that start in Fall 2020, and here is my [curriculum vitae](https://raw.githubusercontent.com/yutxie/yutxie.github.io/master/files/Yutong%20Xie.pdf).
+I plan to apply for Ph.D. programs in Computer Science that start in Fall 2020, and here is my [curriculum vitae](https://raw.githubusercontent.com/yutxie/yutxie.github.io/master/files/YutongXie.pdf).
 
 ----------------------------
 
