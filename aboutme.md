@@ -8,7 +8,7 @@ published: true
 
 > The highest activity a human being can attain is learning for understanding, because to understand is to be free. -- Baruch Spinoza
 
-----------------------------
+---------------------------- 
 
 # Education
 
