@@ -10,7 +10,7 @@ published: true
 
 ----------------------------
 
-<img align="left" src="/img/photo.png" height="280" width="200" margin-right="20">
+<img align="left" src="/img/photo.png" height="280" width="200" style="margin-right:20px">
 
 I am a senior undergraduate student majoring in **Computer Science** at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) as a member of [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn)，which is an elite CS program at SJTU for top 5% talented students.
 
