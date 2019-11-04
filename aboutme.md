@@ -12,7 +12,7 @@ published: true
 
 # Education
 
-*I'm planning to apply for Ph.D. programs in Computer Science which start in Fall 2020.*
+*I'm planning to apply for Ph.D. programs in Computer Science which start in Fall 2020, and here is my [curriculum vitae](https://raw.githubusercontent.com/yutxie/yutxie.github.io/master/files/Yutong%20Xie.pdf)*
 
 [**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/), *Sep. 2016 - Jun. 2020 (expected)*
 
