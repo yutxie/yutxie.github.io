@@ -19,7 +19,7 @@ published: true
 - B.Sc. in Computer Science.
 - Member of [**ACM Class**](https://acm.sjtu.edu.cn/), an elite CS program for top 5% talented students.
 - Member of [**Zhiyuan Honors Program**](https://zhiyuan.sjtu.edu.cn/), a pilot program for training outstand-ing students in the basic sciences.
-- Major GPA 91.67/100.00.
+- Major GPA 91.67/100.
 
 # Research Interests
 
@@ -42,7 +42,8 @@ My reserch interests lie in structural representation learning, e.g. **graph rep
 
 Code Comprehension Graph for Algorithm Detection from Source Code
 - **Y. Xie** *, T. Long*, X. Chen, H. Zhao, W. Zhang, Q. Cao, Y. Yu
-- Submitted to AAAI 2020. • Aimed at identifying algorithms in programs.
+- Submitted to AAAI 2020. 
+- Aimed at identifying algorithms in programs.
 - Proposed an effective program representation named code comprehension graph that consists of three subgraphs (data ﬂow graph, control ﬂow graph and abstract syntax tree) to capture both syntactic and semantic information.
 
 
@@ -76,7 +77,7 @@ Simple Deep Learning Framework, *Jul. 2017 -- Aug. 2017*, \[[GitHub](https://git
 
 Train Tickets Booking System, *Apr. 2017 -- May. 2017*, \[[GitHub](https://github.com/yutxie/TrainTicketsBookingSystem)\]
 - Course project of [Data Structure](https://acm.sjtu.edu.cn/wiki/Data_Structures_2017). 
-- Led a small team to build a train tickets booking system which supports operations on users, trains, schemes and tickets with high eﬃciency. 
+- Led a small team to build a train tickets booking system which supports operations on users, trains, schemes and tickets with high efficiency. 
 - Developed the back-end data structures in C++, and the front-end GUI with Qt.
 
 
