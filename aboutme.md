@@ -5,6 +5,7 @@ subtitle: null
 published: true
 ---
 
+
 > The highest activity a human being can attain is learning for understanding, because to understand is to be free. -- Baruch Spinoza
 
 ----------------------------
@@ -22,7 +23,8 @@ published: true
 
 # Research Interests
 
-My research interests lie in structural representation learning, e.g. **graph representation learning**, **natural language understanding**; and I'm also attracted by general machinelearning problems,  e.g. **multi-task learning**, **transfer learning**, **learning to learn**.
+My reserch interests lie in structural representation learning, e.g. **graph representation learning**, **natural language understanding**; and I’m also attracted by general machine learning problems, e.g. **multi-task learning**, **transfer learning**, **model capacity and generalization ability**.
+
 
 # Research Experience
 
@@ -36,7 +38,13 @@ My research interests lie in structural representation learning, e.g. **graph re
 - Research intern advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu), and [Prof. Weinan Zhang](http://wnzhang.net/)
 - Researching on code comprehension and  natural language processing.
 
-# Publications
+# Research Projects
+
+Code Comprehension Graph for Algorithm Detection from Source Code
+- **Y. Xie** *, T. Long*, X. Chen, H. Zhao, W. Zhang, Q. Cao, Y. Yu
+- Submitted to AAAI 2020. • Aimed at identifying algorithms in programs.
+- Proposed an effective program representation named code comprehension graph that consists of three subgraphs (data ﬂow graph, control ﬂow graph and abstract syntax tree) to capture both syntactic and semantic information.
+
 
 Visual Rhythm Prediction with Feature-Aligned Network
 - **Y. Xie**, H. Wang, Y. Hao, Z. Xu
@@ -53,18 +61,24 @@ QA4IE+: A Real-Time Document Level Information Extraction System
 # Highlighted Projects
 
 Simple Database, *Apr. 2019 -- Jun. 2019*
-- Course project of Database Systems.
-- Supported basic database operations and query optimization, transaction management, etc.
+- Course project of Database Management, advised by [Prof. Feifei Li](http://www.cs.utah.edu/~lifeifei/).
+- Supported common database management system operations and transaction management mechanisms.
 
-A Compiler for Mx\*, *May. 2018 -- Jun. 2018*, \[[GitHub](https://github.com/yutxie/compiler-lite)\]
+Compiler for Mx\*, *May. 2018 -- Jun. 2018*, \[[GitHub](https://github.com/yutxie/compiler-lite)\]
 - Course project of [Compiler Design and Implementation](https://acm.sjtu.edu.cn/wiki/Compiler_2018). 
 - Supported to compile a C-and-Java-like OOP language Mx*.
 - Optimized the compiler with register allocation, local value numbering, redundant instruction reducing, function inlining, etc.
 
-A Deep Learning Framework, *Jul. 2017 -- Aug. 2017*, \[[GitHub](https://github.com/yutxie/dl-system-test)\]
+Simple Deep Learning Framework, *Jul. 2017 -- Aug. 2017*, \[[GitHub](https://github.com/yutxie/dl-system-test)\]
 - Course project of [Programming Practice](https://acm.sjtu.edu.cn/wiki/PPCA_2017).
 - Supported automatic differentiation, Adam optimizer, Convolutional Neural Networks, dropout and other features.
 - Supported TensorFlow-style interface and parallel computation with GPU.
+
+Train Tickets Booking System, *Apr. 2017 -- May. 2017*, \[[GitHub](https://github.com/yutxie/TrainTicketsBookingSystem)\]
+- Course project of [Data Structure](https://acm.sjtu.edu.cn/wiki/Data_Structures_2017). 
+- Led a small team to build a train tickets booking system which supports operations on users, trains, schemes and tickets with high eﬃciency. 
+- Developed the back-end data structures in C++, and the front-end GUI with Qt.
+
 
 # Teaching Experience
 
@@ -74,10 +88,13 @@ A Deep Learning Framework, *Jul. 2017 -- Aug. 2017*, \[[GitHub](https://github.c
 
 # Hornors & Awards
 
-- [Leo Ko-Guan Scholarship](http://www.leokoguanfoundation.org/), *2018, 2019 (twice)*
+Scholarships
+- [Leo Ko-Guan Scholarship](http://www.leokoguanfoundation.org/), *2018, 2019*
 - Huawei Scholarship, *2017*
-- Shanghai Jiao Tong University Scholarship, *2017, 2018 (twice)*
-- Zhiyuan Honorary Scholarship, *2016, 2017, 2018 (3 times)*
+- Shanghai Jiao Tong University Scholarship, *2017, 2018*
+- Zhiyuan Honorary Scholarship, *2016--2018*
+
+Competitions
 - Second Prize, [ACM-ICPC 2016, Nha Trang](https://icpc.baylor.edu/regionals/finder/nha-trang-2016), *Dec. 2016*
 - Bronze Medal and Best Female Team, [ACM-ICPC 2016, Beijing](http://acm.pku.edu.cn/icpc_pku2016/), *Nov. 2016*
 - Silver Medal and Best Female Team, [CCPC](http://ccpc.io/) 2016, Hefei, *Oct. 2016*
