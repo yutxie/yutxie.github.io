@@ -12,15 +12,20 @@ published: true
 
 <img align="left" src="/img/photo.png" height="350" width="250" border="10">
 
+I am a senior undergraduate student majoring in **Computer Science** at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) as a member of [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn)，which is an elite CS program at SJTU for top 5% talented students.
 
-*I'm planning to apply for Ph.D. programs in Computer Science which start in Fall 2020, and here is my [curriculum vitae](https://raw.githubusercontent.com/yutxie/yutxie.github.io/master/files/Yutong%20Xie.pdf).*
+Currently I'm a visiting student at UMich, working with [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/).
+
+I plan to apply for Ph.D. programs in Computer Science that start in Fall 2020, and here is my [curriculum vitae](https://raw.githubusercontent.com/yutxie/yutxie.github.io/master/files/Yutong%20Xie.pdf).
+
+----------------------------
 
 # Education
 
 [**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/), *Sep. 2016 - Jun. 2020 (expected)*
 
 - B.Sc. in Computer Science.
-- Member of [**ACM Class**](https://acm.sjtu.edu.cn/), an elite CS program for top 5% talented students.
+- Member of [**ACM Honors Class**](https://acm.sjtu.edu.cn/), an elite CS program for top 5% talented students.
 - Member of [**Zhiyuan Honors Program**](https://zhiyuan.sjtu.edu.cn/), a pilot program for training outstand-ing students in the basic sciences.
 - Major GPA 3.89/4.0 (91.67/100).
 
