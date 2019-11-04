@@ -8,7 +8,7 @@ published: true
 
 > The highest activity a human being can attain is learning for understanding, because to understand is to be free. -- Baruch Spinoza
 
----------------------------- 
+----------------------------
 
 # Education
 
@@ -19,11 +19,11 @@ published: true
 - B.Sc. in Computer Science.
 - Member of [**ACM Class**](https://acm.sjtu.edu.cn/), an elite CS program for top 5% talented students.
 - Member of [**Zhiyuan Honors Program**](https://zhiyuan.sjtu.edu.cn/), a pilot program for training outstand-ing students in the basic sciences.
-- Major GPA 91.67/100.
+- Major GPA 3.89/4.0 (91.67/100).
 
 # Research Interests
 
-My reserch interests lie in structural representation learning, e.g. **graph representation learning**, **natural language understanding**; and I’m also attracted by general machine learning problems, e.g. **multi-task learning**, **transfer learning**, **model capacity and generalization ability**.
+My reserch interests lie in structural representation learning, e.g. **graph representation learning**, **natural language understanding**; and I’m also attracted by general machine learning problems, e.g. **multi-task learning**, **transfer learning**.
 
 
 # Research Experience
@@ -38,28 +38,44 @@ My reserch interests lie in structural representation learning, e.g. **graph rep
 - Research intern advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu), and [Prof. Weinan Zhang](http://wnzhang.net/)
 - Researching on code comprehension and  natural language processing.
 
-# Research Projects
+# Publications and Manuscripts
 
 Code Comprehension Graph for Algorithm Detection from Source Code
 - **Y. Xie** *, T. Long*, X. Chen, H. Zhao, W. Zhang, Q. Cao, Y. Yu
 - Submitted to AAAI 2020. 
-- Aimed at identifying algorithms in programs.
-- Proposed an effective program representation named code comprehension graph that consists of three subgraphs (data ﬂow graph, control ﬂow graph and abstract syntax tree) to capture both syntactic and semantic information.
-
 
 Visual Rhythm Prediction with Feature-Aligned Network
 - **Y. Xie**, H. Wang, Y. Hao, Z. Xu
 - Proceedings of [the 16th IAPR International Conference on Machine Vision Applications Conference (MVA 2019)](http://www.mva-org.jp/Proceedings/2019/).
-- Course project of [Computer Vision](http://www.mvig.org/teaching/index.html), advised by [Prof. Cewu Lu](https://www.mvig.org/index.html).
-- Proposed a data-driven visual rhythm prediction method, in which several visual features are integrated by an end-to-end neural network to predict the visual onsets in a sequence labeling manner.
 
 QA4IE+: A Real-Time Document Level Information Extraction System
 - L. Qiu, D. Ru, Y. Xiao, **Y. Xie**, Q. Long, W. Zhang, K. Tu, Y. Yu
 - Submitted to AAAI 2019.
+
+# Research Projects
+
+Molecule Property Prediction, *Jun. 2019 – Present*
+- Focusing on the expressiveness and generalization ability of current message-passing-style graph neural networks.
+- Exploring new architectures and algorithms under the inspiration of high-orderWeisfeiler-Lehman algorithm and various graph similarity metrics.
+
+A General Architecture for Multi-Task Learning, *Mar. 2019 – Present*
+- Focusing on the problems of current deep multi-task learning architectures (hardparameter sharing and routing-style models), e.g. model complexity is hard tocontrol, hyperparameters tuning is arduous.
+- Trying to introduce explicit tradeoffs on both model complexity and the extentto share under the inspiration of traditional regularization-based methods.
+
+Algorithm Detection from Source Code
+- Aimed at identifying algorithms in programs.
+- Proposed an effective program representation named code comprehension graph that consists of three subgraphs (data ﬂow graph, control ﬂow graph and abstract syntax tree) to capture both syntactic and semantic information.
+
+
+Visual Rhythm Prediction
+- Course project of [Computer Vision](http://www.mvig.org/teaching/index.html), advised by [Prof. Cewu Lu](https://www.mvig.org/index.html).
+- Proposed a data-driven visual rhythm prediction method, in which several visual features are integrated by an end-to-end neural network to predict the visual onsets in a sequence labeling manner.
+
+Document Level Information Extraction System
 - Aimed at implementing a system which can extract structured information from unstructured texts.
 - The framework has been designed as a 4-stage pipeline which first recognizes named entity in articles and selects related relations from a knowledge base, then extracts information with a question answering system, and finally generates reliable tuples by named entity linking.
 
-# Highlighted Projects
+# Course Projects
 
 Simple Database, *Apr. 2019 -- Jun. 2019*
 - Course project of Database Management, advised by [Prof. Feifei Li](http://www.cs.utah.edu/~lifeifei/).
