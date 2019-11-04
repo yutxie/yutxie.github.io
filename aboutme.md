@@ -57,8 +57,7 @@ Visual Rhythm Prediction with Feature-Aligned Network\\
 Proceedings of [the 16th IAPR International Conference on Machine Vision Applications Conference (MVA 2019)](http://www.mva-org.jp/Proceedings/2019/).
 
 QA4IE+: A Real-Time Document Level Information Extraction System\\
-L. Qiu, D. Ru, Y. Xiao, **Y. Xie**, Q. Long, W. Zhang, K. Tu, Y. Yu\\
-Submitted to AAAI 2019.
+L. Qiu, D. Ru, Y. Xiao, **Y. Xie**, Q. Long, W. Zhang, K. Tu, Y. Yu (Preprint)
 
 
 # Teaching Experience
