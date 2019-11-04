@@ -68,13 +68,10 @@ L. Qiu, D. Ru, Y. Xiao, **Y. Xie**, Q. Long, W. Zhang, K. Tu, Y. Yu (Preprint)
 
 # Hornors & Awards
 
-Scholarships
 - [Leo Ko-Guan Scholarship](http://www.leokoguanfoundation.org/), *2018, 2019*
 - Huawei Scholarship, *2017*
 - Shanghai Jiao Tong University Scholarship, *2017, 2018*
 - Zhiyuan Honorary Scholarship, *2016--2018*
-
-Competitions
 - Second Prize, [ACM-ICPC 2016, Nha Trang](https://icpc.baylor.edu/regionals/finder/nha-trang-2016), *Dec. 2016*
 - Bronze Medal and Best Female Team, [ACM-ICPC 2016, Beijing](http://acm.pku.edu.cn/icpc_pku2016/), *Nov. 2016*
 - Silver Medal and Best Female Team, [CCPC](http://ccpc.io/) 2016, Hefei, *Oct. 2016*
