@@ -10,7 +10,7 @@ published: true
 
 ----------------------------
 
-<img align="left" src="/img/photo.png" height="700" width="500" border="10">
+<img align="left" src="/img/photo.png" height="350" width="250" border="10">
 
 
 *I'm planning to apply for Ph.D. programs in Computer Science which start in Fall 2020, and here is my [curriculum vitae](https://raw.githubusercontent.com/yutxie/yutxie.github.io/master/files/Yutong%20Xie.pdf).*
