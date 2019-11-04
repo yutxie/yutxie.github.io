@@ -24,7 +24,7 @@ description: Homepage
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  CV: "https://raw.githubusercontent.com/yutxie/yutxie.github.io/master/files/Yutong Xie.pdf"
+  CV: "https://raw.githubusercontent.com/yutxie/yutxie.github.io/master/files/YutongXie.pdf"
   # Archives: "https://yutxie.github.io/"
   # Tag Index: "https://yutxie.github.io/tags/"
 
