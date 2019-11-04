@@ -10,6 +10,9 @@ published: true
 
 ----------------------------
 
+<img align="right" src="/img/avatar-icon.png">
+
+
 *I'm planning to apply for Ph.D. programs in Computer Science which start in Fall 2020, and here is my [curriculum vitae](https://raw.githubusercontent.com/yutxie/yutxie.github.io/master/files/Yutong%20Xie.pdf).*
 
 # Education
