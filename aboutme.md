@@ -40,8 +40,8 @@ My reserch interests lie in structural representation learning, e.g. **graph rep
 
 # Publications and Manuscripts
 
-Code Comprehension Graph for Algorithm Detection from Source Code\\
-**Y. Xie** *, T. Long*, X. Chen, H. Zhao, W. Zhang, Q. Cao, Y. Yu\\
+Code Comprehension Graph for Algorithm Detection from Source Code
+**Y. Xie** *, T. Long*, X. Chen, H. Zhao, W. Zhang, Q. Cao, Y. Yu
 Submitted to AAAI 2020. 
 
 Visual Rhythm Prediction with Feature-Aligned Network
