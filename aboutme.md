@@ -54,7 +54,7 @@ Code Comprehension Graph for Algorithm Detection from Source Code\\
 **Y. Xie**\*, T. Long\*, X. Chen, H. Zhao, W. Zhang, Q. Cao, Y. Yu\\
 Submitted to AAAI 2020. 
 
-Visual Rhythm Prediction with Feature-Aligned Network \[[PDF](http://www.mva-org.jp/Proceedings/2019/papers/05-20.pdf)\]\\
+Visual Rhythm Prediction with Feature-Aligned Network [<i class="far fa-file-alt"></i>](http://www.mva-org.jp/Proceedings/2019/papers/05-20.pdf)\\
 **Y. Xie**, H. Wang, Y. Hao, Z. Xu\\
 Proceedings of [the 16th IAPR International Conference on Machine Vision Applications Conference (MVA 2019)](http://www.mva-org.jp/Proceedings/2019/).
 
