@@ -6,6 +6,8 @@ published: true
 ---
 
 
+
+
 > The highest activity a human being can attain is learning for understanding, because to understand is to be free. -- Baruch Spinoza
 
 ----------------------------
@@ -52,12 +54,12 @@ Code Comprehension Graph for Algorithm Detection from Source Code\\
 **Y. Xie**\*, T. Long\*, X. Chen, H. Zhao, W. Zhang, Q. Cao, Y. Yu\\
 Submitted to AAAI 2020. 
 
-Visual Rhythm Prediction with Feature-Aligned Network\\
+Visual Rhythm Prediction with Feature-Aligned Network \[[PDF](http://www.mva-org.jp/Proceedings/2019/papers/05-20.pdf)\]\\
 **Y. Xie**, H. Wang, Y. Hao, Z. Xu\\
 Proceedings of [the 16th IAPR International Conference on Machine Vision Applications Conference (MVA 2019)](http://www.mva-org.jp/Proceedings/2019/).
 
-QA4IE+: A Real-Time Document Level Information Extraction System\\
-L. Qiu, D. Ru, Y. Xiao, **Y. Xie**, Q. Long, W. Zhang, K. Tu, Y. Yu (Preprint)
+QA4IE+: A Real-Time Document Level Information Extraction System (Preprint)\\
+L. Qiu, D. Ru, Y. Xiao, **Y. Xie**, Q. Long, W. Zhang, K. Tu, Y. Yu
 
 
 # Teaching Experience
@@ -78,3 +80,4 @@ L. Qiu, D. Ru, Y. Xiao, **Y. Xie**, Q. Long, W. Zhang, K. Tu, Y. Yu (Preprint)
 - Bronze Medal, [National Olympiad in Informatics (NOI)](http://www.noi.cn/) 2015, *May. 2015*
 - Bronze Medal, [Asia-Pacific Informatics Olympiad (APIO) 2015](http://apio2015.org/), *May. 2015*
 - First Prize, [National Olympiad in Informatics](http://www.noi.cn/) in Provinces (NOIP) 2014, *Dec. 2014*
+atics](http://www.noi.cn/) in Provinces (NOIP) 2014, *Dec. 2014*
