@@ -70,7 +70,7 @@ L. Qiu, D. Ru, Y. Xiao, **Y. Xie**, Q. Long, W. Zhang, K. Tu, Y. Yu
 
 # Hornors & Awards
 
-- [Leo Ko-Guan Scholarship](http://www.leokoguanfoundation.org/), *2018, 2019*
+- [Leo KoGuan Scholarship](http://www.leokoguanfoundation.org/), *2018, 2019*
 - Huawei Scholarship, *2017*
 - Shanghai Jiao Tong University Scholarship, *2017, 2018*
 - Zhiyuan Honorary Scholarship, *2016--2018*
@@ -80,4 +80,3 @@ L. Qiu, D. Ru, Y. Xiao, **Y. Xie**, Q. Long, W. Zhang, K. Tu, Y. Yu
 - Bronze Medal, [National Olympiad in Informatics (NOI)](http://www.noi.cn/) 2015, *May. 2015*
 - Bronze Medal, [Asia-Pacific Informatics Olympiad (APIO) 2015](http://apio2015.org/), *May. 2015*
 - First Prize, [National Olympiad in Informatics](http://www.noi.cn/) in Provinces (NOIP) 2014, *Dec. 2014*
-atics](http://www.noi.cn/) in Provinces (NOIP) 2014, *Dec. 2014*
