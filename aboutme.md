@@ -53,7 +53,7 @@ My reserch interests lie in structural representation learning, e.g. **graph rep
 Code Comprehension Graph for Algorithm Detection from Source Code (Preprint)\\
 **Y. Xie**\*, T. Long\*, X. Chen, H. Zhao, W. Zhang, Q. Cao, Y. Yu
 
-Visual Rhythm Prediction with Feature-Aligned Network <i class="far fa-file-alt" url="http://www.mva-org.jp/Proceedings/2019/papers/05-20.pdf"></i>\\
+Visual Rhythm Prediction with Feature-Aligned Network <a href="http://www.mva-org.jp/Proceedings/2019/papers/05-20.pdf"><i class="far fa-file-alt" ></i></a>\\
 **Y. Xie**, H. Wang, Y. Hao, Z. Xu\\
 Proceedings of [the 16th IAPR International Conference on Machine Vision Applications Conference (MVA 2019)](http://www.mva-org.jp/Proceedings/2019/).
 
