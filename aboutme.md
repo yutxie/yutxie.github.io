@@ -28,7 +28,7 @@ I am planning to apply for Ph.D. programs in Computer Science that start in Fall
 
 - B.Sc. in Computer Science.
 - Member of [**ACM Honors Class**](https://acm.sjtu.edu.cn/), an elite CS program for top 5% talented students.
-- Member of [**Zhiyuan Honors Program**](https://zhiyuan.sjtu.edu.cn/), a pilot program for training outstand-ing students in the basic sciences.
+- Member of [**Zhiyuan Honors Program**](https://zhiyuan.sjtu.edu.cn/), a pilot program for training outstanding students in the basic sciences.
 - Major GPA 3.89/4.0 (91.67/100).
 
 # Research Interests
