@@ -26,10 +26,9 @@ I am planning to apply for Ph.D. programs in Computer Science that start in Fall
 
 [**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/), *Sep. 2016 - Jun. 2020 (expected)*
 
-- B.Sc. in Computer Science.
+- B.Sc. in Computer Science, with major GPA 92/100.
 - Member of [**ACM Honors Class**](https://acm.sjtu.edu.cn/), an elite CS program for top 5% talented students.
 - Member of [**Zhiyuan Honors Program**](https://zhiyuan.sjtu.edu.cn/), a pilot program for training outstanding students in the basic sciences.
-- Major GPA 3.89/4.0 (91.67/100).
 
 # Research Interests
 
