@@ -71,7 +71,7 @@ L. Qiu, D. Ru, Y. Xiao, **Y. Xie**, Q. Long, W. Zhang, K. Tu, Y. Yu
 - [Leo KoGuan Scholarship](http://www.leokoguanfoundation.org/) (Top 0.2% in SJTU), *2018, 2019*
 - Huawei Scholarship (Top 0.2% in SJTU), *2017*
 - Academic Excellence Scholarshi (B) (Top 1.5% in SJTU), *2017, 2018*
-- Zhiyuan Honorary Scholarship  (Top 5% in SJTU), *2016--2018*
+- Zhiyuan Honors Scholarship  (Top 5% in SJTU), *2016--2018*
 - Second Prize, [ACM-ICPC 2016, Nha Trang](https://icpc.baylor.edu/regionals/finder/nha-trang-2016), *Dec. 2016*
 - Bronze Medal and Best Female Team, [ACM-ICPC 2016, Beijing](http://acm.pku.edu.cn/icpc_pku2016/), *Nov. 2016*
 - Silver Medal and Best Female Team, [CCPC](http://ccpc.io/) 2016, Hefei, *Oct. 2016*
