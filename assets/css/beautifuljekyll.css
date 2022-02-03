@@ -52,10 +52,15 @@ a {
 a:hover,
 a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
+  text-decoration: none;
+  text-shadow: 0px 0px 5px rgba(0,0,0,0.20);
 }
 blockquote {
   color: #808080;
   font-style: italic;
+  margin-left: 32px;
+  border-left: 4px solid #CCC;
+  padding-left: 8px;
 }
 blockquote p:first-child {
   margin-top: 0;
@@ -592,6 +597,13 @@ footer .footer-custom-content {
 
 .tag-btn {
   margin: 0.3125rem;
+  background-color: #C1685D;
+  border: none;
+}
+
+.tag-btn:hover {
+  box-shadow: 0px 0px 10px 0 rgba(0,0,0,0.50);
+  background-color: #C1685D;
 }
 
 #full-tags-list {
@@ -1005,7 +1017,7 @@ pre {
   display: none;
   z-index: 999999;
   position: fixed;
-  background: rgba(0,0,0,0.9);
+  background: #F3F1ED;
   left: 0;
   right: 0;
   top: 0;
@@ -1019,27 +1031,29 @@ pre {
   cursor: pointer;
   right: 25%;
   margin-right: 2rem;
-  color: #555;
+  color: #C1685D;
   font-size: 2rem;
   line-height: 2rem;
   font-weight: bold;
 }
 #nav-search-exit:hover {
-  color: #000;
+  color: #C1685D;
+  text-shadow: 0px 0px 5px rgba(0,0,0,0.20);
 }
 #nav-search-input {
   text-align: center;
-  background: #e7edee;
+  background: #F3F1ED;
   margin: auto;
   display: block;
   font-size: 2rem;
   width: 50%;
   transition: width 300ms ease;
-  color: #222;
+  color: #777;
   border-radius: 5rem;
   outline: none;
   border: none;
   padding: 0 3rem;
+  box-shadow: 0px 0.15rem 1rem rgba(0,0,0,0.20);
 }
 @media (max-width: 1199px) {
   #nav-search-input {
@@ -1058,8 +1072,8 @@ pre {
   }
 }
 #nav-search-input:focus {
-  background: #f3f8fe;
-  box-shadow: 0px 0.15rem 1rem #e7f4ff;
+  background: #F3F1ED;
+  box-shadow: 0px 0.15rem 1rem rgba(0,0,0,0.20);
   outline: none;
 }
 
@@ -1071,18 +1085,19 @@ pre {
   list-style: none;
   padding-left: unset;
   margin-top: 1.5rem;
-  color: #fff;
+  color: #C1685D;
   font-size: 1.5rem;
   max-height: calc(100vh - 6.5rem);
   overflow-y: auto;
 }
 #search-results-container a {
-  color: #fff;
+  color: #C1685D;
   text-decoration: none;
 }
 #search-results-container a:hover {
-  color: #fff;
-  text-decoration: underline;
+  color: #C1685D;
+  text-decoration: none;
+  text-shadow: 0px 0px 5px rgba(0,0,0,0.20);
 }
 
 #nav-search-icon {
