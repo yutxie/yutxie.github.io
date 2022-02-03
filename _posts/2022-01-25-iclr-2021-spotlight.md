@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: ICLR 2021 Spotlight | 寻找新颖多样的药物分子 — 多目标约束下的药物分子编辑采样算法
+title: ICLR 2021 Spotlight 寻找新颖多样的药物分子 — 多目标约束下的药物分子编辑采样算法
 date: '2021-07-21'
 tags:
   - machine learning
@@ -16,4 +16,4 @@ tags:
 
 链接：[论文](https://openreview.net/forum?id=kHSu4ebxFXY)、[数据集及代码](https://github.com/yutxie/mars)
 
-![2021-07-21.png]({{site.baseurl}}/img/2021-07-21.png)
+![2021-07-21.png]({{site.baseurl}}/assets/img/2021-07-21.png)
