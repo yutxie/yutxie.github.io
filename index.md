@@ -16,12 +16,16 @@ Links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMA
 
 ----------------------------
 
+**<span style="color:red">NEW!</span>** Our paper on program representation (MVG) was accepted by AAAI 2022!\
+**<span style="color:red">NEW!</span>** Our paper on multi-objective drug discovery ([MARS](https://openreview.net/pdf?id=kHSu4ebxFXY)) was accepted by ICLR 2021 with a **spotlight presentation**! [[SlidesLive](https://iclr.cc/virtual/2021/spotlight/3417)\] 
+
+----------------------------
 
 # Publications
 
 **Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection**\\
 Ting Long\*, **Yutong Xie**\*, Xianyu Chen, Weinan Zhang, Qinxiang Cao, Yong Yu.\\
-AAAI Conference on Artificial Intelligence (AAAI), 2022.\\
+AAAI Conference on Artificial Intelligence (AAAI), 2022 (acceptance rate 15%). \\
 [Code\] [[SlidesLive](https://recorder-v3.slideslive.com/#/share?share=58771&s=075dd214-4812-4b28-a059-831f08e1d247)\]
 
 [**MARS: Markov Molecular Sampling for Multi-objective Drug Discovery**](https://openreview.net/pdf?id=kHSu4ebxFXY)\\
