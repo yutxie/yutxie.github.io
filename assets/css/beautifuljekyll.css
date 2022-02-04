@@ -58,7 +58,7 @@ a:focus {
 blockquote {
   color: #808080;
   font-style: italic;
-  margin-left: 32px;
+  margin-left: 0px;
   border-left: 4px solid #CCC;
   padding-left: 8px;
 }
