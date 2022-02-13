@@ -11,7 +11,9 @@ I am a Ph.D. student in the [School of Information](https://www.si.umich.edu) at
 My research interests lie in machine learning methods for representing, measuring, and generating objects, including graph learning, natural language processing, _etc_. I'm also excited about employing AI techniques to solve natural and social science problems, like drug discovery. 
 
 Email: yutxie AT umich DOT edu / yutongxie98 AT gmail DOT com \\
-Links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Yutong-Xie/3956514), [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/in/yutxie), [<i class="fab fa-github"></i>](https://github.com/yutxie), [<i class="fab fa-twitter"></i>](https://twitter.com/yutxie), [CV](https://drive.google.com/file/d/1h9fF7i_p7Q4kj00bNGRBiG36f4OMVtUz/view?usp=sharing)
+Links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Yutong-Xie/3956514), [<i class="fab fa-github"></i>](https://github.com/yutxie) [<i class="fab fa-twitter"></i>](https://twitter.com/yutxie) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/in/yutxie) 
+
+<!-- [CV](https://drive.google.com/file/d/1h9fF7i_p7Q4kj00bNGRBiG36f4OMVtUz/view?usp=sharing) -->
 
 
 ----------------------------
@@ -21,7 +23,7 @@ Links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMA
 
 ----------------------------
 
-# Publications
+## Publications
 
 [**How Much of the Chemical Space Has Been Covered? Measuring and Improving the Variety of Candidate Set in Molecular Generation**](https://arxiv.org/pdf/2112.12542.pdf) (manuscript, in review)\\
 **Yutong Xie**, Ziqiao Xu, Jiaqi Ma, Qiaozhu Mei.
@@ -45,13 +47,7 @@ IAPR International Conference on Machine Vision Applications Conference (MVA), 2
 
 ----------------------------
 
-# Teaching
+## Invited Talks 
 
-**Graduate Student Instructor**, University of Michigan\\
-[**SIADS 543: Unsupervised Learning**](https://www.coursera.org/learn/siads543/home/welcome), _Fall 2021, Winter 2022_\\
-[**SIADS 542: Supervised Learning**](https://www.coursera.org/learn/siads542/home/welcome), _Fall 2021, Winter 2022_
-
-**Teaching Assitant**, Shanghai Jiao Tong University\\
-[**CS 420: Machine Learning**](http://wnzhang.net/teaching/cs420/index.html), _Spring 2019_\\
-[**CS 120: Introduction to Computer Science**](https://acm.sjtu.edu.cn/wiki/%E8%AF%BE%E7%A8%8B%E4%B8%AD%E5%BF%83), _Fall 2018_\\
-[**CS 151: C++ Programming (A)**](https://acm.sjtu.edu.cn/wiki/Programming_2017), _Fall 2017_
+- [**MARS: Markov Molecular Sampling for Multi-objective Drug Discovery**](https://openreview.net/pdf?id=kHSu4ebxFXY), AI Time PhD Forum, Tsinghua University, 2021. \[[Video](https://www.bilibili.com/video/BV1Eo4y1172a)\]
+- **A Brief Introduction to Graph Machine Learning Methods in Drug Discovery**, ACM Class Student Academic Festival, Shanghai Jiao Tong University, 2019. \[[Video](https://www.bilibili.com/video/BV17t4y1y7nH)\]
