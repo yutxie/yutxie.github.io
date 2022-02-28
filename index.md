@@ -18,17 +18,17 @@ Links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMA
 
 ----------------------------
 
-**<span style="color:red">NEW!</span>** Our paper on program representation (MVG) was accepted by AAAI 2022!\
+**<span style="color:red">NEW!</span>** Our paper on [program representation (MVG)](https://arxiv.org/abs/2202.12481) was accepted by AAAI 2022!\
 **<span style="color:red">NEW!</span>** Our paper on [multi-objective drug discovery (MARS)](https://openreview.net/pdf?id=kHSu4ebxFXY) was accepted by ICLR 2021 with a **spotlight presentation**! [[SlidesLive](https://iclr.cc/virtual/2021/spotlight/3417)\] 
 
 ----------------------------
 
 ## Publications
 
-[**How Much of the Chemical Space Has Been Covered? Measuring and Improving the Variety of Candidate Set in Molecular Generation**](https://arxiv.org/pdf/2112.12542.pdf) (manuscript, in review)\\
+[**How Much of the Chemical Space Has Been Explored? Selecting the Right Exploration Measure for Drug Discovery**](https://arxiv.org/abs/2112.12542) (in review)\\
 **Yutong Xie**, Ziqiao Xu, Jiaqi Ma, Qiaozhu Mei.
 
-**Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection**\\
+[**Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection**](https://arxiv.org/abs/2202.12481)\\
 Ting Long\*, **Yutong Xie**\*, Xianyu Chen, Weinan Zhang, Qinxiang Cao, Yong Yu.\\
 AAAI Conference on Artificial Intelligence (AAAI), 2022 (acceptance rate 15%). \\
 \[[Code](https://github.com/githubg0/mvg)\] \[[SlidesLive](https://recorder-v3.slideslive.com/#/share?share=58771&s=075dd214-4812-4b28-a059-831f08e1d247)\] \[[Poster](https://drive.google.com/file/d/1hmtwlBr709esYcXHez99t09GkF55_WA0/view?usp=sharing)\]
