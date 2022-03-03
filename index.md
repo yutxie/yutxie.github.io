@@ -19,7 +19,7 @@ My research interests lie in machine learning methods for representing, measurin
 ----------------------------
 
 **<span style="color:red">NEW!</span>** Our paper on [program representation (MVG)](https://arxiv.org/abs/2202.12481) was accepted by AAAI 2022!\
-**<span style="color:red">NEW!</span>** Our paper on [multi-objective drug discovery (MARS)](https://openreview.net/pdf?id=kHSu4ebxFXY) was accepted by ICLR 2021 with a **spotlight presentation**! [[SlidesLive](https://iclr.cc/virtual/2021/spotlight/3417)\] 
+**<span style="color:red">NEW!</span>** Our paper on [multi-objective drug discovery (MARS)](https://openreview.net/pdf?id=kHSu4ebxFXY) was accepted by ICLR 2021 with a [**spotlight presentation**](https://iclr.cc/virtual/2021/spotlight/3417)!
 
 ----------------------------
 
@@ -31,13 +31,13 @@ My research interests lie in machine learning methods for representing, measurin
 [**Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection**](https://arxiv.org/abs/2202.12481) [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2202.12481.pdf)\\
 Ting Long\*, **Yutong Xie**\*, Xianyu Chen, Weinan Zhang, Qinxiang Cao, Yong Yu.\\
 AAAI Conference on Artificial Intelligence (AAAI), 2022 (acceptance rate 15%). \\
-\[[Code](https://github.com/githubg0/mvg)\] \[[SlidesLive](https://recorder-v3.slideslive.com/#/share?share=58771&s=075dd214-4812-4b28-a059-831f08e1d247)\] \[[Poster](https://drive.google.com/file/d/1hmtwlBr709esYcXHez99t09GkF55_WA0/view?usp=sharing)\]
+[[Code](https://github.com/githubg0/mvg)\] [[SlidesLive](https://recorder-v3.slideslive.com/#/share?share=58771&s=075dd214-4812-4b28-a059-831f08e1d247)\] [[Poster](https://drive.google.com/file/d/1hmtwlBr709esYcXHez99t09GkF55_WA0/view?usp=sharing)\]
 
 [**MARS: Markov Molecular Sampling for Multi-objective Drug Discovery**](https://openreview.net/forum?id=kHSu4ebxFXY) [<i class="fas fa-file-pdf"></i>](https://openreview.net/pdf?id=kHSu4ebxFXY)\\
 **Yutong Xie**, Chence Shi, Hao Zhou, Yuwei Yang, Weinan Zhang, Yong Yu, Lei Li.\\
 International Conference on Learning Representations (ICLR), 2021.\\
-<span style="color:red">**Spotlight presentation (top 5%).**</span>\\
-\[[Code](https://github.com/yutxie/MARS)\] \[[SlidesLive](https://iclr.cc/virtual/2021/spotlight/3417)\] \[[Poster](https://drive.google.com/file/d/1iCLBQ0RacNZhg0bUIVYaKfPemmWK7Jqc/view?usp=sharing)\] \[[AI Time](https://www.bilibili.com/video/BV1Eo4y1172a)\] \[[WeChat Article](https://mp.weixin.qq.com/s/RfxKVF9nuG0_DkorTeWxJQ)\]
+<a href="https://iclr.cc/virtual/2021/spotlight/3417" style="color:red">**Spotlight presentation (top 5%).** <i class="fas fa-video"></i> </a>\\
+[[Code](https://github.com/yutxie/MARS)\] [[SlidesLive](https://iclr.cc/virtual/2021/spotlight/3417)\] [[Poster](https://drive.google.com/file/d/1iCLBQ0RacNZhg0bUIVYaKfPemmWK7Jqc/view?usp=sharing)\] [[AI Time](https://www.bilibili.com/video/BV1Eo4y1172a)\] [[WeChat Article](https://mp.weixin.qq.com/s/RfxKVF9nuG0_DkorTeWxJQ)\]
 
 [**Visual Rhythm Prediction with Feature-Aligned Network**](https://ieeexplore.ieee.org/abstract/document/8757943) [<i class="fas fa-file-pdf"></i>](http://www.mva-org.jp/Proceedings/2019/papers/05-20.pdf)\\
 **Yutong Xie**, Haiyang Wang, Zihao Xu, Yan Hao.\\
