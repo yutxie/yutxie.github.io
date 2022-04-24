@@ -11,9 +11,7 @@ I am a Ph.D. student in the [School of Information](https://www.si.umich.edu) at
 My research interests lie in machine learning methods for representing, measuring, and generating objects, including graph learning, natural language processing, _etc_. I'm also excited about employing AI techniques to solve natural and social science problems, like drug discovery. 
 
 <i class="fas fa-at"></i> &nbsp; yutxie AT umich DOT edu / yutongxie98 AT gmail DOT com \\
-<i class="fas fa-link"></i> &nbsp; [<i class="fas fa-graduation-cap"></i>(Google Scholar)](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ) [<i class="fas fa-graduation-cap"></i>(Semantic Scholar)](https://www.semanticscholar.org/author/Yutong-Xie/3956514) [<i class="fab fa-github"></i>](https://github.com/yutxie) [<i class="fab fa-twitter"></i>](https://twitter.com/yutxie) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/in/yutxie) 
-
-<!-- [CV](https://drive.google.com/file/d/1h9fF7i_p7Q4kj00bNGRBiG36f4OMVtUz/view?usp=sharing) -->
+<i class="fas fa-link"></i> &nbsp; [<i class="fas fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ) [<i class="fas fa-graduation-cap"></i> Semantic Scholar](https://www.semanticscholar.org/author/Yutong-Xie/3956514) [<i class="fab fa-github"></i> Github](https://github.com/yutxie) [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/yutxie) [<i class="fab fa-linkedin-in"></i> LinkedIn](https://www.linkedin.com/in/yutxie) [<i class="fas fa-file-pdf"></i> CV](https://drive.google.com/file/d/1h9fF7i_p7Q4kj00bNGRBiG36f4OMVtUz/view?usp=sharing)
 
 
 ----------------------------
@@ -25,8 +23,9 @@ My research interests lie in machine learning methods for representing, measurin
 
 ## Publications
 
-[**How Much of the Chemical Space Has Been Explored? Selecting the Right Exploration Measure for Drug Discovery**](https://arxiv.org/abs/2112.12542) [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2112.12542.pdf) (in review)\\
-**Yutong Xie**, Ziqiao Xu, Jiaqi Ma, Qiaozhu Mei.
+[**How Much of the Chemical Space Has Been Explored? Selecting the Right Exploration Measure for Drug Discovery**](https://arxiv.org/abs/2112.12542) [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2112.12542.pdf) \\
+**Yutong Xie**, Ziqiao Xu, Jiaqi Ma, Qiaozhu Mei. \\
+Manuscript under review. 
 
 [**Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection**](https://arxiv.org/abs/2202.12481) [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2202.12481.pdf)\\
 Ting Long\*, **Yutong Xie**\*, Xianyu Chen, Weinan Zhang, Qinxiang Cao, Yong Yu.\\
@@ -45,9 +44,3 @@ IAPR International Conference on Machine Vision Applications Conference (MVA), 2
 
 (\* = equal contribution)
 
-----------------------------
-
-## Invited Talks 
-
-- [**MARS: Markov Molecular Sampling for Multi-objective Drug Discovery**](https://openreview.net/forum?id=kHSu4ebxFXY), AI Time PhD Forum, Tsinghua University, 2021. [<i class="fas fa-video"></i>](https://www.bilibili.com/video/BV1Eo4y1172a)
-- **A Brief Introduction to Graph Machine Learning Methods in Drug Discovery**, ACM Class Student Academic Festival, Shanghai Jiao Tong University, 2019. [<i class="fas fa-video"></i>](https://www.bilibili.com/video/BV17t4y1y7nH)
