@@ -4,11 +4,14 @@ layout: page
 
 **<font size="6"> Yutong Xie </font> &nbsp; <font size="4"> 谢雨桐 </font>**
 
-<img align="left" src="assets/img/photo.jpg" height="200" width="200" style="margin-right:30px;border:4px solid #ddd;border-radius:4px">
+<img align="left" src="assets/img/rocky_4_3.jpg" height="280" width="210" style="margin-right:30px;border:4px solid #ddd;border-radius:4px">
 
+<!-- <div style="text-align: justify"> -->
 I am a Ph.D. student in the [School of Information](https://www.si.umich.edu) at the [University of Michigan](https://umich.edu/). I work with [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/) in the [Foreseer Group](http://foreseer.si.umich.edu/). Prior to this, I received my Bachelor's degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) as a member of the [ACM Honors Class](https://acm.sjtu.edu.cn/home), advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net).
+<!-- </div> -->
 
-I am passionate about the research area of _AI for science_ and _AI for creativity_. My interest includes using AI to solve challenging computational problems in scientific discovery and creative processes. These problems can be formulated as various machine learning problems (like prediction, optimization, or generation). I am also curious about how domain experts (like scientists and artists) would collaborate with AIs and how to boost their collaboration. 
+I am passionate about the research area of _AI for science_ and _AI for creativity_. My interest includes using AI to solve challenging computational problems in scientific discovery and creative processes, which can be formulated as machine learning problems like prediction, optimization, generation, _etc_. I am also curious about how domain experts (_e.g._, scientists and artists) would collaborate with AI and how their collaboration can be further promoted. 
+
 
 <i class="fas fa-at"></i> &nbsp; yutxie AT umich DOT edu, yutongxie98 AT gmail DOT com \\
 <i class="fas fa-link"></i> &nbsp; [<i class="fas fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ) [<i class="fas fa-graduation-cap"></i> Semantic Scholar](https://www.semanticscholar.org/author/Yutong-Xie/3956514) [<i class="fab fa-github"></i> Github](https://github.com/yutxie) [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/yutxie) [<i class="fab fa-linkedin-in"></i> LinkedIn](https://www.linkedin.com/in/yutxie) [<i class="fas fa-file-pdf"></i> CV](https://drive.google.com/file/d/1h9fF7i_p7Q4kj00bNGRBiG36f4OMVtUz/view?usp=sharing)
@@ -27,7 +30,7 @@ I am passionate about the research area of _AI for science_ and _AI for creativi
 [**How Much of the Chemical Space Has Been Explored? Selecting the Right Exploration Measure for Drug Discovery**](https://openreview.net/forum?id=BIBc6KCCwRX) [<i class="fas fa-file-pdf"></i>](https://openreview.net/pdf?id=BIBc6KCCwRX) \\
 **Yutong Xie**, Ziqiao Xu, Jiaqi Ma, Qiaozhu Mei. \\
 International Conference on Machine Learning (ICML) AI for Science Workshop, 2022. \\
-[[Code](https://github.com/yutxie/exploration-measures)\] [[SlidesLive](https://icml.cc/virtual/2022/workshop/13450#wse-detail-19911)\] [[Slides](https://drive.google.com/file/d/1w-MSFSwq4ho3cNCL-_jsId5K6N5IZDZ7/view?usp=sharing)\]
+[[Code](https://github.com/yutxie/exploration-measures)\] [[SlidesLive](https://icml.cc/virtual/2022/workshop/13450#wse-detail-19911)\] [[Slides](https://drive.google.com/file/d/1w-MSFSwq4ho3cNCL-_jsId5K6N5IZDZ7/view?usp=sharing)\] [[Poster](https://drive.google.com/file/d/1wEpjtZkaim2NHozEdB65AfamWXXW02aI/view?usp=sharing)\]
 
 [**Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection**](https://ojs.aaai.org/index.php/AAAI/article/view/20522) [<i class="fas fa-file-pdf"></i>](https://ojs.aaai.org/index.php/AAAI/article/view/20522/20281)\\
 Ting Long\*, **Yutong Xie**\*, Xianyu Chen, Weinan Zhang, Qinxiang Cao, Yong Yu.\\
