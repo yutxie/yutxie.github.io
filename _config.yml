@@ -16,7 +16,7 @@ author: Yutong Xie
 navbar-links:
   Blog: "blog"
   Tags: "tags"
-  # About Me: "aboutme"
+  About Me: "aboutme"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"

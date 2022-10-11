@@ -6,15 +6,19 @@ layout: page
 
 <img align="left" src="assets/img/rocky_4_3.jpg" height="280" width="210" style="margin-right:30px;border:4px solid #ddd;border-radius:4px">
 
-<!-- <div style="text-align: justify"> -->
-I am a Ph.D. student in the [School of Information](https://www.si.umich.edu) at the [University of Michigan](https://umich.edu/). I work with [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/) in the [Foreseer Group](http://foreseer.si.umich.edu/). Prior to this, I received my Bachelor's degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) as a member of the [ACM Honors Class](https://acm.sjtu.edu.cn/home), advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net).
-<!-- </div> -->
+<p style="text-indent: 00px;text-align: justify"> 
+<!-- I am a Ph.D. student in the [School of Information](https://www.si.umich.edu) at the [University of Michigan](https://umich.edu/). I work with [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/) in the [Foreseer Group](http://foreseer.si.umich.edu/). Prior to this, I received my Bachelor's degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) as a member of the [ACM Honors Class](https://acm.sjtu.edu.cn/home), advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net). -->
+I am a Ph.D. student in the <a href="https://www.si.umich.edu">School of Information</a> at the <a href="https://umich.edu/">University of Michigan</a>. I work with <a href="http://www-personal.umich.edu/~qmei/">Prof. Qiaozhu Mei</a> in the <a href="http://foreseer.si.umich.edu/">Foreseer Group</a>. Prior to this, I received my Bachelor's degree from <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> as a member of the <a href="https://acm.sjtu.edu.cn/home">ACM Honors Class</a>, advised by <a href="http://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a> and <a href="http://wnzhang.net">Prof. Weinan Zhang</a>.
+</p>
 
-I am passionate about the research area of _AI for science_ and _AI for creativity_. My interest includes using AI to solve challenging computational problems in scientific discovery and creative processes, which can be formulated as machine learning problems like prediction, optimization, generation, _etc_. I am also curious about how domain experts (_e.g._, scientists and artists) would collaborate with AI and how their collaboration can be further promoted. 
+<p style="text-indent: 00px;text-align: justify"> 
+<!-- I am passionate about the research area of _AI for science_ and _AI for creativity_. My interest includes using AI to solve challenging computational problems in scientific discovery and creative processes, which can be formulated as machine learning problems like prediction, optimization, generation, _etc_. I am also curious about how domain experts (_e.g._, scientists and artists) would collaborate with AI and how their collaboration can be further promoted.  -->
+I am passionate about the research area of <em>AI for science</em> and <em>AI for creativity</em>. My interest includes using AI to solve challenging computational problems in scientific discovery and creative processes, which can be formulated as machine learning problems like prediction, optimization, generation, <em>etc</em>. I am also curious about how domain experts (<em>e.g.</em>, scientists and artists) would collaborate with AI and how their collaboration can be further promoted. 
+</p>
 
 
 <i class="fas fa-at"></i> &nbsp; yutxie AT umich DOT edu, yutongxie98 AT gmail DOT com \\
-<i class="fas fa-link"></i> &nbsp; [<i class="fas fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ) [<i class="fas fa-graduation-cap"></i> Semantic Scholar](https://www.semanticscholar.org/author/Yutong-Xie/3956514) [<i class="fab fa-github"></i> Github](https://github.com/yutxie) [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/yutxie) [<i class="fab fa-linkedin-in"></i> LinkedIn](https://www.linkedin.com/in/yutxie) [<i class="fas fa-file-pdf"></i> CV](https://drive.google.com/file/d/1h9fF7i_p7Q4kj00bNGRBiG36f4OMVtUz/view?usp=sharing)
+<i class="fas fa-link"></i> &nbsp; [<i class="fas fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ) [<i class="fas fa-graduation-cap"></i> Semantic Scholar](https://www.semanticscholar.org/author/Yutong-Xie/3956514) [<i class="fab fa-github"></i> Github](https://github.com/yutxie) [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/yutxie) [<i class="fab fa-linkedin-in"></i> LinkedIn](https://www.linkedin.com/in/yutxie) [<i class="fas fa-file-pdf"></i> CV](https://drive.google.com/file/d/1-1FkJIQoSJNePm4s2RE17UF4TsQAJxAu/view?usp=sharing)
 
 
 ----------------------------
