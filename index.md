@@ -4,7 +4,7 @@ layout: page
 
 **<font size="6"> Yutong Xie </font> &nbsp; <font size="4"> 谢雨桐 </font>**
 
-<img align="left" src="assets/img/rocky_4_3.jpg" height="280" width="210" style="margin-right:30px;border:4px solid #ddd;border-radius:4px">
+<img align="right" src="assets/img/rocky_4_3.jpg" height="280" width="210" style="margin-left:30px;border:4px solid #ddd;border-radius:4px">
 
 <p style="text-indent: 00px;text-align: justify"> 
 <!-- I am a Ph.D. student in the [School of Information](https://www.si.umich.edu) at the [University of Michigan](https://umich.edu/). I work with [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/) in the [Foreseer Group](http://foreseer.si.umich.edu/). Prior to this, I received my Bachelor's degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) as a member of the [ACM Honors Class](https://acm.sjtu.edu.cn/home), advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net). -->
