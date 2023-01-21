@@ -27,7 +27,7 @@ Please check my [<i class="fas fa-file-pdf"></i> curriculum vitae](https://drive
 
 ----------------------------
 
-**<span style="color:red">NEW!</span>** Our paper on [chemical space exploration measures](https://openreview.net/forum?id=Yo06F8kfMa1&noteId=n7T6DRtLCn) was accepted by ICLR 2023 and the ICML 2022 AI4Science Workshop!\
+**<span style="color:red">NEW!</span>** Our paper on [chemical space exploration measures](https://openreview.net/forum?id=Yo06F8kfMa1) was accepted by ICLR 2023 and the ICML 2022 AI4Science Workshop!\
 **<span style="color:red">NEW!</span>** Our paper on [program representation (MVG)](https://arxiv.org/abs/2202.12481) was accepted by AAAI 2022!\
 **<span style="color:red">NEW!</span>** Our paper on [multi-objective drug discovery (MARS)](https://openreview.net/pdf?id=kHSu4ebxFXY) was accepted by ICLR 2021 with a [**spotlight presentation**](https://iclr.cc/virtual/2021/spotlight/3417)!
 
