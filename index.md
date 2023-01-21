@@ -7,27 +7,38 @@ layout: page
 <img align="right" src="assets/img/rocky_4_3.jpg" height="280" width="210" style="margin-left:30px;border:4px solid #ddd;border-radius:4px">
 
 <p style="text-indent: 00px;text-align: justify"> 
-I am a Ph.D. student in the <a href="https://www.si.umich.edu">School of Information</a> at the <a href="https://umich.edu/">University of Michigan</a>. I work with <a href="http://www-personal.umich.edu/~qmei/">Prof. Qiaozhu Mei</a> in the <a href="http://foreseer.si.umich.edu/">Foreseer Group</a>. Prior to this, I received my Bachelor's degree from <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> as a member of the <a href="https://acm.sjtu.edu.cn/home">ACM Honors Class</a>, advised by <a href="http://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a> and <a href="http://wnzhang.net">Prof. Weinan Zhang</a>.
+I am a Ph.D. student in the <a href="https://www.si.umich.edu">School of Information</a> at the <a href="https://umich.edu/">University of Michigan</a>, working with <a href="http://www-personal.umich.edu/~qmei/">Prof. Qiaozhu Mei</a> in the <a href="http://foreseer.si.umich.edu/">Foreseer Group</a>. Prior to this, I received my Bachelor's degree from <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> as a member of the <a href="https://acm.sjtu.edu.cn/home">ACM Honors Class</a>, advised by <a href="http://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a> and <a href="http://wnzhang.net">Prof. Weinan Zhang</a>.
 </p>
 
 <p style="text-indent: 00px;text-align: justify"> 
 I am enthusiastic about exploring the potential of <em>AI for science</em> and <em>AI for creativity</em>. My focus is on using AI to tackle complex computational tasks in scientific research and creative endeavors, which can often be framed as machine learning problems such as prediction, optimization, and generation. I am also interested in examining how AI would collaborate with domain experts such as scientists and artists, and how we can promote such collaborations.
 </p>
 
+Please check my [<i class="fas fa-file-pdf"></i> curriculum vitae](https://drive.google.com/file/d/1-1FkJIQoSJNePm4s2RE17UF4TsQAJxAu/view?usp=sharing) for more information. 
 
-<i class="fas fa-at"></i> &nbsp; yutxie AT umich DOT edu, yutongxie98 AT gmail DOT com \\
-<i class="fas fa-link"></i> &nbsp; [<i class="fas fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ) [<i class="fas fa-graduation-cap"></i> Semantic Scholar](https://www.semanticscholar.org/author/Yutong-Xie/3956514) [<i class="fab fa-github"></i> Github](https://github.com/yutxie) [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/yutxie) [<i class="fab fa-linkedin-in"></i> LinkedIn](https://www.linkedin.com/in/yutxie) [<i class="fas fa-file-pdf"></i> CV](https://drive.google.com/file/d/1-1FkJIQoSJNePm4s2RE17UF4TsQAJxAu/view?usp=sharing)
+<i class="fas fa-at"></i> &nbsp; yutxie AT umich DOT edu | yutongxie98 AT gmail DOT com \\
+<i class="fas fa-link"></i> &nbsp; 
+[<i class="fas fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ) |
+[<i class="fas fa-graduation-cap"></i> Semantic Scholar](https://www.semanticscholar.org/author/Yutong-Xie/3956514) |
+[<i class="fab fa-github"></i> Github](https://github.com/yutxie) |
+[<i class="fab fa-twitter"></i> Twitter](https://twitter.com/yutxie) |
+[<i class="fab fa-linkedin-in"></i> LinkedIn](https://www.linkedin.com/in/yutxie)
 
 
 ----------------------------
 
-**<span style="color:red">NEW!</span>** Our paper on [chemical space exploration measures](https://openreview.net/forum?id=BIBc6KCCwRX) was accepted by the ICML 2022 AI4Science Workshop!\
+**<span style="color:red">NEW!</span>** Our paper on [chemical space exploration measures](https://openreview.net/forum?id=Yo06F8kfMa1&noteId=n7T6DRtLCn) was accepted by ICLR 2023 and the ICML 2022 AI4Science Workshop!\
 **<span style="color:red">NEW!</span>** Our paper on [program representation (MVG)](https://arxiv.org/abs/2202.12481) was accepted by AAAI 2022!\
 **<span style="color:red">NEW!</span>** Our paper on [multi-objective drug discovery (MARS)](https://openreview.net/pdf?id=kHSu4ebxFXY) was accepted by ICLR 2021 with a [**spotlight presentation**](https://iclr.cc/virtual/2021/spotlight/3417)!
 
 ----------------------------
 
 ## Publications
+
+[**How Much Space Has Been Explored? Measuring the Chemical Space Covered by Databases and Machine-Generated Molecules**](https://openreview.net/forum?id=Yo06F8kfMa1) [<i class="fas fa-file-pdf"></i>](https://openreview.net/pdf?id=Yo06F8kfMa1) \\
+**Yutong Xie**, Ziqiao Xu, Jiaqi Ma, Qiaozhu Mei. \\
+International Conference on Learning Representations (ICLR), 2023. 
+
 
 [**How Much of the Chemical Space Has Been Explored? Selecting the Right Exploration Measure for Drug Discovery**](https://openreview.net/forum?id=BIBc6KCCwRX) [<i class="fas fa-file-pdf"></i>](https://openreview.net/pdf?id=BIBc6KCCwRX) \\
 **Yutong Xie**, Ziqiao Xu, Jiaqi Ma, Qiaozhu Mei. \\
