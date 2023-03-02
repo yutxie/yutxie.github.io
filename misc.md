@@ -4,6 +4,10 @@ layout: misc
 
 # <span style="font-family: Arial Black;"> <span style="color: #E4703A">iDK</span> <span style="color: #E4553A">HOW</span> <span style="color: #E33639">BUT</span> <span style="color: #3153AB">YOU</span> <span style="color: #302D75">FIND</span> <span style="color: #261E39">ME</span> <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" alt="Just a GIF. Trust me." height="40px">
 
+<span style="color: grey; font-style: italic">
+Hint: Use Web broswer on PC 💻 or rotate your phone 📱 for better reading experience (though it's definitely not necessary...)
+</span>
+
 <span style="font-size:24px; font-weight: bold">**
 What Might [`@Yutong`](https://yutxie.com/) Be Doing 🤔
 **</span>
@@ -42,3 +46,6 @@ Some Boring Facts 🥱
     * Music artists or bands 🎧: <span style="color: grey">Under construction 🚧 ...</span>
     * Photography artists 📷: <span style="color: grey">Under construction 🚧 ...</span>
 
+<span style="color: grey; font-style: italic">
+Last updated on Mar. 2, 2023
+</span>
