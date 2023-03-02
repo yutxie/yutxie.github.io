@@ -24,24 +24,22 @@ common-js:
 <!-- Beautiful Jekyll 5.0.0 | Copyright Dean Attali 2020 -->
 {% include head.html %}
 
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
 <body style="
     background-color: black; 
     color: #e866ff; 
-    margin: auto; width: 50%; 
+    max-width: 720px;
+    width: 80%;
+    margin: auto;  
     margin-top: 80px;
     font-family: Courier New;
     /* font-weight: bold; */
 ">
 
-  <!-- {% include gtm_body.html %} -->
-
-  <!-- {% include nav.html %} -->
-
   {{ content }}
-
-  <!-- {% include footer.html %} -->
-
-  <!-- {% include footer-scripts.html %} -->
 
 </body>
 </html>
