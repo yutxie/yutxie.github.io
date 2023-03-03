@@ -2,7 +2,7 @@
 layout: misc
 ---
 
-# <span style="font-family: JD LED5; font-size: 50px"> <span style="color: #E4703A">iDK</span> <span style="color: #E4553A">HOW</span> <span style="color: #E33639">BUT</span> <span style="color: #3153AB">YOU</span> <span style="color: #302D75">FIND</span> <span style="color: #261E39">ME</span> <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" alt="Just a GIF. Trust me." height="50px">
+<h1 style="font-family: JD LED5; font-size: 40px; text-align: left"> <span style="color: #E4703A">iDK</span> <span style="color: #E4553A">HOW</span> <span style="color: #E33639">BUT</span> <span style="color: #3153AB">YOU</span> <span style="color: #302D75">FIND</span> <span style="color: #261E39">ME</span> <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" alt="Just a GIF. Trust me." height="40px"> </h1>
 
 -------
 
@@ -36,7 +36,7 @@ What Might [@Yutong](/aboutme) Be Doing 🤔
 Some Boring Facts 🥱
 **</span>
 
-* The page header is inspired by one of [<span style="color: #E5E8D9; font-family: Arial Black">iDKHOW</span>](https://music.apple.com/us/album/1981-extended-play-ep/1441477155)'s albums 🌟
+* The page header is inspired by one of [<span style="color: #E5E8D9; font-family: Arial Black, sans-serif">iDKHOW</span>](https://music.apple.com/us/album/1981-extended-play-ep/1441477155)'s albums 🌟
 * Some of @Yutong's favorates ❤️
     * Video games 🎮: 
     [<span style="color: white; font-family: Arial CE; -webkit-text-stroke: 1px green"> ***DISCO ELYSIUM*** </span>](https://discoelysium.com/), 
@@ -53,5 +53,13 @@ Some Boring Facts 🥱
 -------
 
 <p style="color: grey; font-style: normal; text-align: right" >
-Last updated on Mar. 2, 2023
+Last updated on Mar. 2, 2023 <br>
+
+<!-- LikeBtn.com BEGIN -->
+<span class="likebtn-wrapper" data-theme="slideshare" data-identifier="like_btn" data-dislike_enabled="false" data-counter_frmt="comma" data-share_size="small"></span>
+
+<script>
+    (function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");
+</script>
+<!-- LikeBtn.com END -->
 </p>
