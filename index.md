@@ -26,9 +26,10 @@ I am enthusiastic about exploring the potential of <em>AI for science</em> and <
 
 ----------------------------
 
-**<span style="color:red">NEW!</span>** Our paper on [chemical space exploration measures](https://openreview.net/forum?id=Yo06F8kfMa1) was accepted by ICLR 2023 and the ICML 2022 AI4Science Workshop!\
-<!-- **<span style="color:red">NEW!</span>** Our paper on [program representation (MVG)](https://arxiv.org/abs/2202.12481) was accepted by AAAI 2022!\
-**<span style="color:red">NEW!</span>** Our paper on [multi-objective drug discovery (MARS)](https://openreview.net/pdf?id=kHSu4ebxFXY) was accepted by ICLR 2021 with a [**spotlight presentation**](https://iclr.cc/virtual/2021/spotlight/3417)! -->
+<ul class="custom-list-new">
+      <li>One recent paper on <a href="">analyzing prompts for text-to-image generation</a> was accepted by WWW 2023 on the Creative Web Track!</li>
+      <li>One recent paper on <a href="chemical space exploration measures">chemical space exploration measures</a> was accepted by ICLR 2023 and the ICML 2022 AI4Science Workshop!</li>
+</ul>
 
 ----------------------------
 
@@ -36,6 +37,9 @@ I am enthusiastic about exploring the potential of <em>AI for science</em> and <
 
 > For the full publication list, please refer to my [<i class="fas fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ&view_op=list_works&sortby=pubdate) profile page. 
 
+[**A Prompt Log Analysis of Text-to-Image Generation Systems**]() [<i class="fas fa-file-pdf"></i>]() \\
+**Yutong Xie**<sup>\*</sup>, Zhaoying Pan<sup>\*</sup>, Jinge Ma<sup>\*</sup>, Jie Luo, Qiaozhu Mei. \\
+The ACM Web Conference (WWW), 2023 (The Creative Web Track). 
 
 
 [**How Much Space Has Been Explored? Measuring the Chemical Space Covered by Databases and Machine-Generated Molecules**](https://openreview.net/forum?id=Yo06F8kfMa1) [<i class="fas fa-file-pdf"></i>](https://openreview.net/pdf?id=Yo06F8kfMa1) \\

@@ -1118,3 +1118,16 @@ pre {
     display: inline-block;
   }
 }
+
+ul.custom-list-new {
+  list-style-type: none; /* remove default marker */
+  /* vertical-align: left; */
+  padding-left: 50px;
+  text-indent: -50px;
+}
+ul.custom-list-new li:before {
+  content: "NEW!"; /* add string as marker */
+  color: red;
+  font-weight: bold; 
+  margin-right: 10px;
+}
