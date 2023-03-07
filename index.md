@@ -7,22 +7,23 @@ layout: page
 <img align="right" src="assets/img/rocky_4_3.jpg" height="280" width="210" style="margin-left:30px;border:4px solid #ddd;border-radius:4px">
 
 <p style="text-indent: 00px;text-align: justify"> 
-I am a Ph.D. student in the <a href="https://www.si.umich.edu">School of Information</a> at the <a href="https://umich.edu/">University of Michigan</a>, working with <a href="http://www-personal.umich.edu/~qmei/">Prof. Qiaozhu Mei</a> in the <a href="http://foreseer.si.umich.edu/">Foreseer Group</a>. Prior to this, I received my Bachelor's degree from <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> as a member of the <a href="https://acm.sjtu.edu.cn/home">ACM Honors Class</a>, advised by <a href="http://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a> and <a href="http://wnzhang.net">Prof. Weinan Zhang</a>.
+I am a Ph.D. student in the <a href="https://www.si.umich.edu">School of Information</a> at the <a href="https://umich.edu/">University of Michigan</a>. I currently work with <a href="http://www-personal.umich.edu/~qmei/">Prof. Qiaozhu Mei</a> as a member of the <a href="http://foreseer.si.umich.edu/">Foreseer Research Group</a>. 
+Prior to this, I received my Bachelor's degree from <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> as a member of the <a href="https://acm.sjtu.edu.cn/home">ACM Honors Class</a>, where I was advised by <a href="http://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a> and <a href="http://wnzhang.net">Prof. Weinan Zhang</a>.
 </p>
 
 <p style="text-indent: 00px;text-align: justify"> 
 I am enthusiastic about exploring the potential of <em>AI for science</em> and <em>AI for creativity</em>. My focus is on using AI to tackle complex computational tasks in scientific research and creative endeavors, which can often be framed as machine learning problems such as prediction, optimization, and generation. I am also interested in examining how AI would collaborate with domain experts such as scientists and artists, and how we can promote such collaborations.
 </p>
 
-> Please check my [<i class="fas fa-file-pdf"></i> curriculum vitae](https://drive.google.com/file/d/1-1FkJIQoSJNePm4s2RE17UF4TsQAJxAu/view?usp=sharing) for more information. 
-
-<i class="fas fa-at"></i> &nbsp; yutxie AT umich DOT edu | yutongxie98 AT gmail DOT com \\
-<i class="fas fa-link"></i> &nbsp; 
-[<i class="fas fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ) |
-[<i class="fas fa-graduation-cap"></i> Semantic Scholar](https://www.semanticscholar.org/author/Yutong-Xie/3956514) |
-[<i class="fab fa-github"></i> Github](https://github.com/yutxie) |
-[<i class="fab fa-twitter"></i> Twitter](https://twitter.com/yutxie) |
-[<i class="fab fa-linkedin-in"></i> LinkedIn](https://www.linkedin.com/in/yutxie)
+> <i class="fas fa-file-pdf"></i> &nbsp; Please check my [curriculum vitae](https://drive.google.com/file/d/1-1FkJIQoSJNePm4s2RE17UF4TsQAJxAu/view?usp=sharing) for more information. \\
+> <i class="fas fa-at"></i> &nbsp; yutxie AT umich DOT edu, 
+yutongxie98 AT gmail DOT com \\
+> <i class="fas fa-link"></i> &nbsp; 
+[<i class="fas fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ),
+[<i class="fas fa-graduation-cap"></i> Semantic Scholar](https://www.semanticscholar.org/author/Yutong-Xie/3956514),
+[<i class="fab fa-github"></i> Github](https://github.com/yutxie),
+[<i class="fab fa-twitter"></i> Twitter](https://twitter.com/yutxie),
+[<i class="fab fa-linkedin-in"></i> LinkedIn](https://www.linkedin.com/in/yutxie) 
 
 ----------------------------
 
@@ -35,7 +36,7 @@ I am enthusiastic about exploring the potential of <em>AI for science</em> and <
 
 ## Selected Publications
 
-> For the full publication list, please refer to my [<i class="fas fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ&view_op=list_works&sortby=pubdate) profile page. 
+> For the full publication list, please refer to my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ&view_op=list_works&sortby=pubdate). 
 
 [**A Prompt Log Analysis of Text-to-Image Generation Systems**]() [<i class="fas fa-file-pdf"></i>]() \\
 **Yutong Xie**<sup>\*</sup>, Zhaoying Pan<sup>\*</sup>, Jinge Ma<sup>\*</sup>, Jie Luo, Qiaozhu Mei. \\

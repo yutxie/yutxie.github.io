@@ -1121,7 +1121,8 @@ pre {
 
 ul.custom-list-new {
   list-style-type: string; 
-  /* padding-left: 50px; */
+  margin: 10px;
+  /* padding-left: -10px; */
   /* text-indent: 10px; */
 }
 ul.custom-list-new ::marker{
