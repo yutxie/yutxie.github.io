@@ -7,7 +7,7 @@ layout: misc
 -------
 
 <p style="color: grey; font-style: italic">
-Hint: Use Web broswer on PC 💻 or rotate your phone 📱 for better reading experience (though it's definitely not necessary...)
+Hint: For better reading experience, use Web broswer on PC 💻 or rotate your phone 📱 (though it's definitely not necessary...)
 </p>
 
 -------

@@ -4,7 +4,7 @@ layout: page
 
 **<font size="6"> Yutong Xie </font> &nbsp; <font size="4"> 谢雨桐 </font>**
 
-<img align="right" src="assets/img/rocky_4_3.jpg" height="280" width="210" style="margin-left:30px;border:4px solid #ddd;border-radius:4px">
+<img align="right" src="assets/img/rocky_4_3.jpg" style="margin-left:40px; margin-bottom:20px; margin-top:5px; border:4px solid #ddd;border-radius:4px; max-width:210px; width:25%; height:auto">
 
 <p style="text-indent: 00px;text-align: justify"> 
 I am a Ph.D. student in the <a href="https://www.si.umich.edu">School of Information</a> at the <a href="https://umich.edu/">University of Michigan</a>. I currently work with <a href="http://www-personal.umich.edu/~qmei/">Prof. Qiaozhu Mei</a> as a member of the <a href="http://foreseer.si.umich.edu/">Foreseer Research Group</a>. 
@@ -15,7 +15,7 @@ Prior to this, I received my Bachelor's degree from <a href="https://www.sjtu.ed
 I am enthusiastic about exploring the potential of <em>AI for science</em> and <em>AI for creativity</em>. My focus is on using AI to tackle complex computational tasks in scientific research and creative endeavors, which can often be framed as machine learning problems such as prediction, optimization, and generation. I am also interested in examining how AI would collaborate with domain experts such as scientists and artists, and how we can promote such collaborations.
 </p>
 
-> <i class="fas fa-file-pdf"></i> &nbsp; Please check my [curriculum vitae](https://drive.google.com/file/d/1-1FkJIQoSJNePm4s2RE17UF4TsQAJxAu/view?usp=sharing) for more information. \\
+> <i class="fas fa-file-pdf"></i> &nbsp; For more information, please check my [curriculum vitae](https://drive.google.com/file/d/1-1FkJIQoSJNePm4s2RE17UF4TsQAJxAu/view?usp=sharing). \\
 > <i class="fas fa-at"></i> &nbsp; yutxie AT umich DOT edu, 
 yutongxie98 AT gmail DOT com \\
 > <i class="fas fa-link"></i> &nbsp; 
@@ -27,10 +27,10 @@ yutongxie98 AT gmail DOT com \\
 
 ----------------------------
 
-<ul class="custom-list-new">
-      <li>One recent paper on <a href="">analyzing prompts for text-to-image generation</a> was accepted by WWW 2023 on the Creative Web Track!</li>
-      <li>One recent paper on <a href="chemical space exploration measures">chemical space exploration measures</a> was accepted by ICLR 2023 and the ICML 2022 AI4Science Workshop!</li>
-</ul>
+<span style="font-weight: bold; color: red;">NEW!</span> 
+Our paper on [text-to-image prompt analysis]() was accepted by WWW 2023 on the Creative Web Track! \\
+<span style="font-weight: bold; color: red;">NEW!</span> 
+Our paper on [chemical space exploration measures](https://openreview.net/forum?id=Yo06F8kfMa1) was accepted by ICLR 2023! 
 
 ----------------------------
 
@@ -41,7 +41,6 @@ yutongxie98 AT gmail DOT com \\
 [**A Prompt Log Analysis of Text-to-Image Generation Systems**]() [<i class="fas fa-file-pdf"></i>]() \\
 **Yutong Xie**<sup>\*</sup>, Zhaoying Pan<sup>\*</sup>, Jinge Ma<sup>\*</sup>, Jie Luo, Qiaozhu Mei. \\
 The ACM Web Conference (WWW), 2023 (The Creative Web Track). 
-
 
 [**How Much Space Has Been Explored? Measuring the Chemical Space Covered by Databases and Machine-Generated Molecules**](https://openreview.net/forum?id=Yo06F8kfMa1) [<i class="fas fa-file-pdf"></i>](https://openreview.net/pdf?id=Yo06F8kfMa1) \\
 **Yutong Xie**, Ziqiao Xu, Jiaqi Ma, Qiaozhu Mei. \\

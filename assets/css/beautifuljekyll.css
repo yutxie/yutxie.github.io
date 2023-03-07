@@ -1119,15 +1119,12 @@ pre {
   }
 }
 
-ul.custom-list-new {
+/* ul.custom-list-new {
   list-style-type: string; 
   margin: 10px;
-  /* padding-left: -10px; */
-  /* text-indent: 10px; */
 }
 ul.custom-list-new ::marker{
   content: "NEW! ";
   color: red;
   font-weight: bold; 
-  /* margin-right: 10px; */
-}
+} */
