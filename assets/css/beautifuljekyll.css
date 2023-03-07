@@ -1120,14 +1120,13 @@ pre {
 }
 
 ul.custom-list-new {
-  list-style-type: none; /* remove default marker */
-  /* vertical-align: left; */
-  padding-left: 50px;
-  text-indent: -50px;
+  list-style-type: string; 
+  /* padding-left: 50px; */
+  /* text-indent: 10px; */
 }
-ul.custom-list-new li:before {
-  content: "NEW!"; /* add string as marker */
+ul.custom-list-new ::marker{
+  content: "NEW! ";
   color: red;
   font-weight: bold; 
-  margin-right: 10px;
+  /* margin-right: 10px; */
 }
