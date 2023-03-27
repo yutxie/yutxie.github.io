@@ -28,7 +28,7 @@ yutongxie98 AT gmail DOT com \\
 ----------------------------
 
 <span style="font-weight: bold; color: red;">NEW!</span> 
-I will be attending the [Web Conference at Austin](https://www2023.thewebconf.org/) during Apr. 29 -- May 5. Would be happy to connect :). \\
+I will be attending the [Web Conference 2023 at Austin](https://www2023.thewebconf.org/) during Apr. 29 -- May 5. Would be happy to connect :). \\
 <span style="font-weight: bold; color: red;">NEW!</span> 
 Our paper on [text-to-image prompt analysis](https://arxiv.org/pdf/2303.04587.pdf) was accepted by WWW 2023 on the Creative Web Track! \\
 <span style="font-weight: bold; color: red;">NEW!</span> 
@@ -40,26 +40,47 @@ Our paper on [chemical space exploration measures](https://openreview.net/forum?
 
 > For the full publication list, please refer to my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ&view_op=list_works&sortby=pubdate). 
 
-[**A Prompt Log Analysis of Text-to-Image Generation Systems**](https://arxiv.org/abs/2303.04587) [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2303.04587.pdf) \\
+[**A Prompt Log Analysis of Text-to-Image Generation Systems**](https://arxiv.org/abs/2303.04587) \\
 **Yutong Xie**<sup>\*</sup>, Zhaoying Pan<sup>\*</sup>, Jinge Ma<sup>\*</sup>, Luo Jie, Qiaozhu Mei. \\
-The ACM Web Conference (WWW), 2023 (The Creative Web Track). 
+The ACM Web Conference (WWW), 2023 (The Creative Web Track). \\
+[[PDF](https://arxiv.org/pdf/2303.04587.pdf)\]
+[[Code]()\] 
+<!-- [[SlidesLive]()\]  -->
+[[Slides]()\] 
+[[Poster]()\]
 
-[**How Much Space Has Been Explored? Measuring the Chemical Space Covered by Databases and Machine-Generated Molecules**](https://openreview.net/forum?id=Yo06F8kfMa1) [<i class="fas fa-file-pdf"></i>](https://openreview.net/pdf?id=Yo06F8kfMa1) \\
+
+[**How Much Space Has Been Explored? Measuring the Chemical Space Covered by Databases and Machine-Generated Molecules**](https://openreview.net/forum?id=Yo06F8kfMa1) \\
 **Yutong Xie**, Ziqiao Xu, Jiaqi Ma, Qiaozhu Mei. \\
 International Conference on Learning Representations (ICLR), 2023. \\
 <!-- (Also appered on the International Conference on Machine Learning (ICML) AI for Science Workshop, 2022. ) \\ -->
-[[Code](https://github.com/yutxie/exploration-measures)\] [[SlidesLive](https://icml.cc/virtual/2022/workshop/13450#wse-detail-19911)\] [[Slides](https://drive.google.com/file/d/1w-MSFSwq4ho3cNCL-_jsId5K6N5IZDZ7/view?usp=sharing)\] [[Poster](https://drive.google.com/file/d/1wEpjtZkaim2NHozEdB65AfamWXXW02aI/view?usp=sharing)\]
+[[PDF](https://openreview.net/pdf?id=Yo06F8kfMa1)\]
+[[Code](https://github.com/yutxie/exploration-measures)\] 
+[[SlidesLive](https://icml.cc/virtual/2022/workshop/13450#wse-detail-19911)\] 
+[[Slides](https://drive.google.com/file/d/1w-MSFSwq4ho3cNCL-_jsId5K6N5IZDZ7/view?usp=sharing)\] 
+[[Poster](https://drive.google.com/file/d/1wEpjtZkaim2NHozEdB65AfamWXXW02aI/view?usp=sharing)\]
+[[AI Time Talk](https://www.bilibili.com/video/BV12X4y1f7P7/)\] 
 
-[**Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection**](https://ojs.aaai.org/index.php/AAAI/article/view/20522) [<i class="fas fa-file-pdf"></i>](https://ojs.aaai.org/index.php/AAAI/article/view/20522/20281)\\
+[**Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection**](https://ojs.aaai.org/index.php/AAAI/article/view/20522) \\
 Ting Long<sup>\*</sup>, **Yutong Xie**<sup>\*</sup>, Xianyu Chen, Weinan Zhang, Qinxiang Cao, Yong Yu.\\
 AAAI Conference on Artificial Intelligence (AAAI), 2022 (acceptance rate 15%). \\
-[[Code](https://github.com/githubg0/mvg)\] [[Slides](https://drive.google.com/file/d/1vOYiwoyWEQ1K1aAH-6muqYIcyUiRGGlt/view?usp=sharing)\] [[Poster](https://drive.google.com/file/d/1hmtwlBr709esYcXHez99t09GkF55_WA0/view?usp=sharing)\]
+[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20522/20281)\]
+[[Code](https://github.com/githubg0/mvg)\] 
+[[SlidesLive](https://aaai-2022.virtualchair.net/poster_aaai928)\] 
+[[Slides](https://drive.google.com/file/d/1vOYiwoyWEQ1K1aAH-6muqYIcyUiRGGlt/view?usp=sharing)\] 
+[[Poster](https://drive.google.com/file/d/1hmtwlBr709esYcXHez99t09GkF55_WA0/view?usp=sharing)\]
 
-[**MARS: Markov Molecular Sampling for Multi-objective Drug Discovery**](https://openreview.net/forum?id=kHSu4ebxFXY) [<i class="fas fa-file-pdf"></i>](https://openreview.net/pdf?id=kHSu4ebxFXY)\\
+[**MARS: Markov Molecular Sampling for Multi-objective Drug Discovery**](https://openreview.net/forum?id=kHSu4ebxFXY) \\
 **Yutong Xie**, Chence Shi, Hao Zhou, Yuwei Yang, Weinan Zhang, Yong Yu, Lei Li.\\
 International Conference on Learning Representations (ICLR), 2021.\\
 <a href="https://iclr.cc/virtual/2021/spotlight/3417" style="color:red">**Spotlight presentation (top 5%).** <i class="fas fa-video"></i> </a>\\
-[[Code](https://github.com/yutxie/MARS)\] [[SlidesLive](https://iclr.cc/virtual/2021/spotlight/3417)\] [[Slides](https://drive.google.com/file/d/1vbdP1CjAuYj4eB9GX2-3uqmfgSqISIxD/view?usp=sharing)\] [[Poster](https://drive.google.com/file/d/1iCLBQ0RacNZhg0bUIVYaKfPemmWK7Jqc/view?usp=sharing)\] [[AI Time](https://www.bilibili.com/video/BV1Eo4y1172a)\] [[WeChat Article](https://mp.weixin.qq.com/s/RfxKVF9nuG0_DkorTeWxJQ)\]
+[[PDF](https://openreview.net/pdf?id=kHSu4ebxFXY)\]
+[[Code](https://github.com/yutxie/MARS)\] 
+[[SlidesLive](https://iclr.cc/virtual/2021/spotlight/3417)\] 
+[[Slides](https://drive.google.com/file/d/1vbdP1CjAuYj4eB9GX2-3uqmfgSqISIxD/view?usp=sharing)\] 
+[[Poster](https://drive.google.com/file/d/1iCLBQ0RacNZhg0bUIVYaKfPemmWK7Jqc/view?usp=sharing)\] 
+[[AI Time Talk](https://www.bilibili.com/video/BV1Eo4y1172a)\] 
+[[WeChat Article](https://mp.weixin.qq.com/s/RfxKVF9nuG0_DkorTeWxJQ)\]
 
 <!-- [**Visual Rhythm Prediction with Feature-Aligned Network**](https://ieeexplore.ieee.org/abstract/document/8757943) [<i class="fas fa-file-pdf"></i>](http://www.mva-org.jp/Proceedings/2019/papers/05-20.pdf)\\
 **Yutong Xie**, Haiyang Wang, Zihao Xu, Yan Hao.\\
