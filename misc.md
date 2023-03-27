@@ -30,7 +30,7 @@ What Might [@Yutong](/aboutme) Be Doing 🤔
 [<span style="color: #AD6088;"> 末日看海 </span>](https://music.apple.com/us/album/%E6%9C%AB%E6%97%A5%E7%9C%8B%E6%B5%B7-single/1653929365), 
 [<span style="color: #D6C09C; font-family:Arial MT Std;"> MOTENTS </span>](https://music.apple.com/us/album/moments/1480042855),
 *etc.*
-* Shooting photos 📸 (come check this [<span style="color: white"><i class="fab fa-instagram"></i> <span style="font-family: Apple Chancery">**Instagram**</span> </span>](https://www.instagram.com/umbucico) account)
+* Taking pictures 📸 (come check this [<span style="color: white"><i class="fab fa-instagram"></i> <span style="font-family: Apple Chancery">**Instagram**</span> </span>](https://www.instagram.com/umbucico) account)
 
 <span style="font-size:24px; font-weight: bold">**
 Some Boring Facts 🥱

@@ -7,12 +7,12 @@ layout: page
 <img align="right" src="assets/img/rocky_4_3.jpg" style="margin-left:40px; margin-bottom:20px; margin-top:5px; border:4px solid #ddd;border-radius:4px; max-width:210px; width:25%; height:auto">
 
 <p style="text-indent: 00px;text-align: justify"> 
-I am a Ph.D. student in the <a href="https://www.si.umich.edu">School of Information</a> at the <a href="https://umich.edu/">University of Michigan</a>. I currently work with <a href="http://www-personal.umich.edu/~qmei/">Prof. Qiaozhu Mei</a> as a member of the <a href="http://foreseer.si.umich.edu/">Foreseer Research Group</a>. 
+I am a Ph.D. student in the <a href="https://www.si.umich.edu">School of Information</a> at the <a href="https://umich.edu/">University of Michigan</a>, where I work with <a href="http://www-personal.umich.edu/~qmei/">Prof. Qiaozhu Mei</a> as a member of the <a href="http://foreseer.si.umich.edu/">Foreseer Research Group</a>. 
 Prior to this, I received my Bachelor's degree from <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> as a member of the <a href="https://acm.sjtu.edu.cn/home">ACM Honors Class</a>, where I was advised by <a href="http://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a> and <a href="http://wnzhang.net">Prof. Weinan Zhang</a>.
 </p>
 
 <p style="text-indent: 00px;text-align: justify"> 
-I am enthusiastic about exploring the potential of <em>AI for science</em> and <em>AI for creativity</em>. My focus is on using AI to tackle complex computational tasks in scientific research and creative endeavors, which can often be framed as machine learning problems such as prediction, optimization, and generation. I am also interested in examining how AI would collaborate with domain experts such as scientists and artists, and how we can promote such collaborations.
+I am passionate about uncovering the potential of <em>AI for creativity</em> and <em>AI for science</em>. My research focus is on leveraging AI to address computational challenges in both creative endeavors and scientific studies, which can often be framed as machine learning problems such as prediction, optimization, and generation. I am also intrigued by the ways how AI can collaborate with domain experts such as artists and scientists, as well as the methods to foster such collaboration.
 </p>
 
 > <i class="fas fa-file-pdf"></i> &nbsp; For more information, please check my [curriculum vitae](https://drive.google.com/file/d/1-1FkJIQoSJNePm4s2RE17UF4TsQAJxAu/view?usp=sharing). \\
@@ -28,7 +28,9 @@ yutongxie98 AT gmail DOT com \\
 ----------------------------
 
 <span style="font-weight: bold; color: red;">NEW!</span> 
-Our paper on [text-to-image prompt analysis]() was accepted by WWW 2023 on the Creative Web Track! \\
+I will be attending the [Web Conference at Austin](https://www2023.thewebconf.org/) during Apr. 29 -- May 5. Would be happy to connect :). \\
+<span style="font-weight: bold; color: red;">NEW!</span> 
+Our paper on [text-to-image prompt analysis](https://arxiv.org/pdf/2303.04587.pdf) was accepted by WWW 2023 on the Creative Web Track! \\
 <span style="font-weight: bold; color: red;">NEW!</span> 
 Our paper on [chemical space exploration measures](https://openreview.net/forum?id=Yo06F8kfMa1) was accepted by ICLR 2023! 
 
@@ -38,8 +40,8 @@ Our paper on [chemical space exploration measures](https://openreview.net/forum?
 
 > For the full publication list, please refer to my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ&view_op=list_works&sortby=pubdate). 
 
-[**A Prompt Log Analysis of Text-to-Image Generation Systems**]() [<i class="fas fa-file-pdf"></i>]() \\
-**Yutong Xie**<sup>\*</sup>, Zhaoying Pan<sup>\*</sup>, Jinge Ma<sup>\*</sup>, Jie Luo, Qiaozhu Mei. \\
+[**A Prompt Log Analysis of Text-to-Image Generation Systems**](https://arxiv.org/abs/2303.04587) [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2303.04587.pdf) \\
+**Yutong Xie**<sup>\*</sup>, Zhaoying Pan<sup>\*</sup>, Jinge Ma<sup>\*</sup>, Luo Jie, Qiaozhu Mei. \\
 The ACM Web Conference (WWW), 2023 (The Creative Web Track). 
 
 [**How Much Space Has Been Explored? Measuring the Chemical Space Covered by Databases and Machine-Generated Molecules**](https://openreview.net/forum?id=Yo06F8kfMa1) [<i class="fas fa-file-pdf"></i>](https://openreview.net/pdf?id=Yo06F8kfMa1) \\
