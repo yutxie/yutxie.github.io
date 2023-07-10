@@ -40,14 +40,16 @@ Our paper on [chemical space exploration measures](https://openreview.net/forum?
 
 > For the full publication list, please refer to my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ&view_op=list_works&sortby=pubdate). 
 
-[**A Prompt Log Analysis of Text-to-Image Generation Systems**](https://arxiv.org/abs/2303.04587) \\
+[**A Prompt Log Analysis of Text-to-Image Generation Systems**](https://dl.acm.org/doi/abs/10.1145/3543507.3587430) \\
 **Yutong Xie**<sup>\*</sup>, Zhaoying Pan<sup>\*</sup>, Jinge Ma<sup>\*</sup>, Luo Jie, Qiaozhu Mei. \\
 The ACM Web Conference (WWW), 2023 (The Creative Web Track). \\
-[[PDF](https://arxiv.org/pdf/2303.04587.pdf)\]
-[[Code]()\] 
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3543507.3587430)\]
+[[arXiv](https://arxiv.org/pdf/2303.04587.pdf)\]
+[[Code](https://github.com/zhaoyingpan/prompt_log_analysis)\] 
+[[Video](https://youtu.be/D-N1_lwhNnk)\]
 <!-- [[SlidesLive]()\]  -->
-[[Slides]()\] 
-[[Poster]()\]
+[[Slides](https://drive.google.com/file/d/1L0D7I0vdcfCSAQ9oB476i9N6mN6rC3ad/view?usp=sharing)\] 
+<!-- [[Poster]()\] -->
 
 
 [**How Much Space Has Been Explored? Measuring the Chemical Space Covered by Databases and Machine-Generated Molecules**](https://openreview.net/forum?id=Yo06F8kfMa1) \\
@@ -56,10 +58,10 @@ International Conference on Learning Representations (ICLR), 2023. \\
 <!-- (Also appered on the International Conference on Machine Learning (ICML) AI for Science Workshop, 2022. ) \\ -->
 [[PDF](https://openreview.net/pdf?id=Yo06F8kfMa1)\]
 [[Code](https://github.com/yutxie/exploration-measures)\] 
-[[SlidesLive](https://icml.cc/virtual/2022/workshop/13450#wse-detail-19911)\] 
-[[Slides](https://drive.google.com/file/d/1w-MSFSwq4ho3cNCL-_jsId5K6N5IZDZ7/view?usp=sharing)\] 
-[[Poster](https://drive.google.com/file/d/1wEpjtZkaim2NHozEdB65AfamWXXW02aI/view?usp=sharing)\]
-[[AI Time Talk](https://www.bilibili.com/video/BV12X4y1f7P7/)\] 
+[[SlidesLive](https://iclr.cc/virtual/2023/poster/11769)\] 
+[[Slides](https://drive.google.com/file/d/15Jfl64W7-E_lb5-ecT8n5Qehv4mxEn3A/view?usp=sharing)\] 
+[[Poster](https://iclr.cc/media/PosterPDFs/ICLR%202023/11769.png?t=1682437570.514978)\]
+[[AI Time Talk](https://www.bilibili.com/video/BV12X4y1f7P7/?share_source=copy_web&vd_source=cc7b830a98543ee4bb061e90ba3cc4fd&t=1533)\] 
 
 [**Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection**](https://ojs.aaai.org/index.php/AAAI/article/view/20522) \\
 Ting Long<sup>\*</sup>, **Yutong Xie**<sup>\*</sup>, Xianyu Chen, Weinan Zhang, Qinxiang Cao, Yong Yu.\\

@@ -16,7 +16,7 @@ Hint: For better reading experience, use Web broswer on PC 💻 or rotate your p
 What Might [@Yutong](/aboutme) Be Doing 🤔
 **</span>
 
-* Sleeping all the day zzz... (and staying up all the night?)
+* Sleeping all the day zzz... (and staying up all the night???)
 * Playing 🎮
 [<span style="color: #DAAC42; font-family: Arial Rounded MT Bold; font-size: 16px"> ***norco*** </span>](http://norcogame.com/), 
 [<span style="color: white;"> <span style="font-family: SF Distant Galaxy;"> **STAR WARS** </span> <span style="font-family: Times New Roman, narrow;"> JEDI: FALLEN ORDER </span> </span>](https://www.ea.com/games/starwars/jedi/jedi-fallen-order),
@@ -30,7 +30,8 @@ What Might [@Yutong](/aboutme) Be Doing 🤔
 [<span style="color: #AD6088;"> 末日看海 </span>](https://music.apple.com/us/album/%E6%9C%AB%E6%97%A5%E7%9C%8B%E6%B5%B7-single/1653929365), 
 [<span style="color: #D6C09C; font-family:Arial MT Std;"> MOTENTS </span>](https://music.apple.com/us/album/moments/1480042855),
 *etc.*
-* Taking pictures 📸 (come check this [<span style="color: white"><i class="fab fa-instagram"></i> <span style="font-family: Apple Chancery">**Instagram**</span> </span>](https://www.instagram.com/umbucico) account)
+* Taking pictures 📸 (come check my [<span style="color: white"><span style="font-family: Apple Chancery">**portfolio**</span></span>](https://umbicico.myportfolio.com/))
+<!-- * Taking pictures 📸 (come check this [<span style="color: white"><i class="fab fa-instagram"></i> <span style="font-family: Apple Chancery">**Instagram**</span> </span>](https://www.instagram.com/umbucico) account) -->
 
 <span style="font-size:24px; font-weight: bold">**
 Some Boring Facts 🥱
