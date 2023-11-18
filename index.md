@@ -7,7 +7,7 @@ layout: page
 <img align="right" src="assets/img/rocky_4_3.jpg" style="margin-left:40px; margin-bottom:20px; margin-top:5px; border:4px solid #ddd;border-radius:4px; max-width:210px; width:25%; height:auto">
 
 <p style="text-indent: 00px;text-align: justify"> 
-I am a Ph.D. student in the <a href="https://www.si.umich.edu">School of Information</a> at the <a href="https://umich.edu/">University of Michigan</a>, where I work with <a href="http://www-personal.umich.edu/~qmei/">Prof. Qiaozhu Mei</a> as a member of the <a href="http://foreseer.si.umich.edu/">Foreseer Research Group</a>. 
+I am a Ph.D. candidate in the <a href="https://www.si.umich.edu">School of Information</a> at the <a href="https://umich.edu/">University of Michigan</a>, where I work with <a href="http://www-personal.umich.edu/~qmei/">Prof. Qiaozhu Mei</a> as a member of the <a href="http://foreseer.si.umich.edu/">Foreseer Research Group</a>. 
 Prior to this, I received my Bachelor's degree from <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> as a member of the <a href="https://acm.sjtu.edu.cn/home">ACM Honors Class</a>, where I was advised by <a href="http://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a> and <a href="http://wnzhang.net">Prof. Weinan Zhang</a>.
 </p>
 
@@ -28,7 +28,7 @@ yutongxie98 AT gmail DOT com \\
 ----------------------------
 
 <span style="font-weight: bold; color: red;">NEW!</span> 
-I will be attending the [Web Conference 2023 at Austin](https://www2023.thewebconf.org/) during Apr. 29 -- May 5. Would be happy to connect :). \\
+We made a video that shows [the evolution of AI and data mining over half a century]((https://www.youtube.com/watch?v=J0nB0uRRCo4))! \\
 <span style="font-weight: bold; color: red;">NEW!</span> 
 Our paper on [text-to-image prompt analysis](https://arxiv.org/pdf/2303.04587.pdf) was accepted by WWW 2023 on the Creative Web Track! \\
 <span style="font-weight: bold; color: red;">NEW!</span> 
@@ -36,7 +36,7 @@ Our paper on [chemical space exploration measures](https://openreview.net/forum?
 
 ----------------------------
 
-## Selected Publications
+## Publications
 
 > For the full publication list, please refer to my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ&view_op=list_works&sortby=pubdate). 
 
@@ -84,8 +84,11 @@ International Conference on Learning Representations (ICLR), 2021.\\
 [[AI Time Talk](https://www.bilibili.com/video/BV1Eo4y1172a)\] 
 [[WeChat Article](https://mp.weixin.qq.com/s/RfxKVF9nuG0_DkorTeWxJQ)\]
 
-<!-- [**Visual Rhythm Prediction with Feature-Aligned Network**](https://ieeexplore.ieee.org/abstract/document/8757943) [<i class="fas fa-file-pdf"></i>](http://www.mva-org.jp/Proceedings/2019/papers/05-20.pdf)\\
+[**Visual Rhythm Prediction with Feature-Aligned Network**](https://ieeexplore.ieee.org/abstract/document/8757943) \\
 **Yutong Xie**, Haiyang Wang, Zihao Xu, Yan Hao.\\
-IAPR International Conference on Machine Vision Applications Conference (MVA), 2019. -->
+IAPR International Conference on Machine Vision Applications Conference (MVA), 2019.\\
+[[PDF](http://www.mva-org.jp/Proceedings/2019/papers/05-20.pdf)\]
+<!-- [[Code](https://github.com/shsjxzh/Visual-Rhythm-Prediction-with-Feature-Aligning-Network)\] 
+[[Video](https://www.youtube.com/watch?v=6n_spVFJQB8)\] -->
 
 <sup>\*</sup> = equal contribution
