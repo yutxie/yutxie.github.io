@@ -28,9 +28,9 @@ yutongxie98 AT gmail DOT com \\
 ----------------------------
 
 <span style="font-weight: bold; color: red;">NEW!</span> 
-We made a video that shows [the evolution of AI and data mining over half a century]((https://www.youtube.com/watch?v=J0nB0uRRCo4))! \\
+We made a video that shows [the evolution of AI and data mining over half a century](https://www.youtube.com/watch?v=J0nB0uRRCo4)! \\
 <span style="font-weight: bold; color: red;">NEW!</span> 
-Our paper on [text-to-image prompt analysis](https://arxiv.org/pdf/2303.04587.pdf) was accepted by WWW 2023 on the Creative Web Track! \\
+Our paper on [text-to-image prompt analysis](https://dl.acm.org/doi/abs/10.1145/3543507.3587430) was accepted by WWW 2023 on the Creative Web Track! \\
 <span style="font-weight: bold; color: red;">NEW!</span> 
 Our paper on [chemical space exploration measures](https://openreview.net/forum?id=Yo06F8kfMa1) was accepted by ICLR 2023! 
 
