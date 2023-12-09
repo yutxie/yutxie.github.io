@@ -12,7 +12,7 @@ Prior to this, I received my Bachelor's degree from <a href="https://www.sjtu.ed
 </p>
 
 <p style="text-indent: 00px;text-align: justify"> 
-I am passionate about uncovering the potential of <em>AI for creativity</em> and <em>AI for science</em>. My research focus is on leveraging AI to address computational challenges in both creative endeavors and scientific studies, which can often be framed as machine learning problems such as prediction, optimization, and generation. I am also intrigued by the ways how AI can collaborate with domain experts such as artists and scientists, as well as the methods to foster such collaboration.
+I have a general research interest in exploring the potential of AI to support and drive innovation, with a specific focus on its applications in both scientific research (<em>AI for science</em>) and creative processes (<em>AI for creativity</em>). My research encompasses three key aspects: identifying the innovation space ("What to innovate"), devising computational methodologies for innovative breakthroughs ("How to innovate"), and establishing robust criteria for evaluating these innovations ("How to evaluate"). A significant part of my work involves examining the synergistic relationship between AI and human intelligence in the innovation landscape. Additionally, I am keenly interested in the application and enhancement of <em>large language models</em>, particularly in the context of fostering effective human-AI collaboration for innovative endeavors.
 </p>
 
 > <i class="fas fa-file-pdf"></i> &nbsp; For more information, please check my [curriculum vitae](https://drive.google.com/file/d/1-1FkJIQoSJNePm4s2RE17UF4TsQAJxAu/view?usp=sharing). \\
