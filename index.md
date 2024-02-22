@@ -28,17 +28,28 @@ yutongxie98 AT gmail DOT com \\
 ----------------------------
 
 <span style="font-weight: bold; color: red;">NEW!</span> 
+Our paper on [AI behavioral science](https://www.pnas.org/doi/10.1073/pnas.2313925121) was published on PNAS! \\
+<span style="font-weight: bold; color: red;">NEW!</span> 
 We made a video that shows [the evolution of AI and data mining over half a century](https://www.youtube.com/watch?v=J0nB0uRRCo4)! \\
 <span style="font-weight: bold; color: red;">NEW!</span> 
-Our paper on [text-to-image prompt analysis](https://dl.acm.org/doi/abs/10.1145/3543507.3587430) was accepted by WWW 2023 on the Creative Web Track! \\
+Our paper on [text-to-image prompt analysis](https://dl.acm.org/doi/abs/10.1145/3543507.3587430) was accepted by WWW 2023 in the Creative Web Track! \\
 <span style="font-weight: bold; color: red;">NEW!</span> 
 Our paper on [chemical space exploration measures](https://openreview.net/forum?id=Yo06F8kfMa1) was accepted by ICLR 2023! 
 
 ----------------------------
 
-## Publications
+## Selected Publications
 
 > For the full publication list, please refer to my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ&view_op=list_works&sortby=pubdate). 
+
+[**A Turing test of whether AI chatbots are behaviorally similar to humans**](https://www.pnas.org/doi/10.1073/pnas.2313925121) \\
+Qiaozhu Mei, **Yutong Xie**, Walter Yuan, Matthew O. Jackson. \\
+Proceedings of the National Academy of Sciences of the United States of America (PNAS), Feb 2024.  \\
+[[arXiv](https://arxiv.org/abs/2312.00798)\]
+[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4637354)\]
+[[Code](https://github.com/yutxie/ChatGPT-Behavioral)\] 
+[[UMich News](https://news.umich.edu/chatgpt-acts-more-altruistically-cooperatively-than-humans/)\] 
+[[Stanford News](https://humsci.stanford.edu/feature/study-finds-chatgpts-latest-bot-behaves-humans-only-better)\] 
 
 [**A Prompt Log Analysis of Text-to-Image Generation Systems**](https://dl.acm.org/doi/abs/10.1145/3543507.3587430) \\
 **Yutong Xie**<sup>\*</sup>, Zhaoying Pan<sup>\*</sup>, Jinge Ma<sup>\*</sup>, Luo Jie, Qiaozhu Mei. \\
