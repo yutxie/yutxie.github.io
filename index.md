@@ -95,11 +95,11 @@ International Conference on Learning Representations (ICLR), 2021.\\
 [[AI Time Talk](https://www.bilibili.com/video/BV1Eo4y1172a)\] 
 [[WeChat Article](https://mp.weixin.qq.com/s/RfxKVF9nuG0_DkorTeWxJQ)\]
 
-[**Visual Rhythm Prediction with Feature-Aligned Network**](https://ieeexplore.ieee.org/abstract/document/8757943) \\
+<!-- [**Visual Rhythm Prediction with Feature-Aligned Network**](https://ieeexplore.ieee.org/abstract/document/8757943) \\
 **Yutong Xie**, Haiyang Wang, Zihao Xu, Yan Hao.\\
 IAPR International Conference on Machine Vision Applications Conference (MVA), 2019.\\
 [[PDF](http://www.mva-org.jp/Proceedings/2019/papers/05-20.pdf)\]
 <!-- [[Code](https://github.com/shsjxzh/Visual-Rhythm-Prediction-with-Feature-Aligning-Network)\] 
-[[Video](https://www.youtube.com/watch?v=6n_spVFJQB8)\] -->
+[[Video](https://www.youtube.com/watch?v=6n_spVFJQB8)\] --> 
 
 <sup>\*</sup> = equal contribution
