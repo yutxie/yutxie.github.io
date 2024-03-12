@@ -17,10 +17,6 @@ What Might [@Yutong](/aboutme) Be Doing 🤔
 **</span>
 
 * Sleeping all the day zzz... (and staying up all the night???)
-* Playing 🎮
-[<span style="color: #DAAC42; font-family: Arial Rounded MT Bold; font-size: 16px"> ***norco*** </span>](http://norcogame.com/), 
-[<span style="color: white;"> <span style="font-family: SF Distant Galaxy;"> **STAR WARS** </span> <span style="font-family: Times New Roman, narrow;"> JEDI: FALLEN ORDER </span> </span>](https://www.ea.com/games/starwars/jedi/jedi-fallen-order),
-*etc.*
 * Watching films 🎬 or series 📺 including
 [<span style="color: white; font-family: Copperplate;"> **DEVILMAN** </span> <span style="font-family: Apple Chancery; color: #CA1420"> Crybaby </span>](https://devilman-crybaby.com/),
 *etc.*
@@ -30,8 +26,15 @@ What Might [@Yutong](/aboutme) Be Doing 🤔
 [<span style="color: #AD6088;"> 末日看海 </span>](https://music.apple.com/us/album/%E6%9C%AB%E6%97%A5%E7%9C%8B%E6%B5%B7-single/1653929365), 
 [<span style="color: #D6C09C; font-family:Arial MT Std;"> MOTENTS </span>](https://music.apple.com/us/album/moments/1480042855),
 *etc.*
+* Playing 🎮
+[<span style="color: #DAAC42; font-family: Arial Rounded MT Bold; font-size: 16px"> ***norco*** </span>](http://norcogame.com/), 
+[<span style="color: white;"> <span style="font-family: SF Distant Galaxy;"> **STAR WARS** </span> <span style="font-family: Times New Roman, narrow;"> JEDI: FALLEN ORDER </span> </span>](https://www.ea.com/games/starwars/jedi/jedi-fallen-order),
+*etc.*
 * Taking pictures 📸 (come check my [<span style="color: white"><span style="font-family: Apple Chancery">**portfolio**</span></span>](https://umbicico.myportfolio.com/))
 <!-- * Taking pictures 📸 (come check this [<span style="color: white"><i class="fab fa-instagram"></i> <span style="font-family: Apple Chancery">**Instagram**</span> </span>](https://www.instagram.com/umbucico) account) -->
+
+<p style="color: grey; font-style: normal; text-align: right" >
+Last updated on Mar. 2, 2023 </p>
 
 <span style="font-size:24px; font-weight: bold">**
 Some Boring Facts 🥱
@@ -42,19 +45,22 @@ Some Boring Facts 🥱
     * Video games 🎮: 
     [<span style="color: white; font-family: Arial CE; -webkit-text-stroke: 1px green"> ***DISCO ELYSIUM*** </span>](https://discoelysium.com/), 
     [<span style="color: white; font-family: Gill Sans, sans-serif; font-stretch: expanded"> DEATH STRANDING </span>](https://deathstrandingpc.505games.com/), 
+    Paper Mario: The Origami King, 
+    Remedy games, 
     [<span style="font-family: Chalkduster, fantasy; color: white;"> LIFE IS <i class="fa fa-peace" style="color: #C130B1;"></i> STRANGE: BEFORE THE STORM</span>](https://www.square-enix-games.com/en_US/games/life-is-strange-before-the-storm), 
-    [<span style="font-family: Times New Roman; color: white;"> ASSASSIN'S <span style="color: #BF1716">CREED</span></span>](https://www.ubisoft.com/en-us/game/assassins-creed), 
-    [<img src="https://www.remedygames.com/wp-content/themes/remedy/img/logo_horizontal.svg" alt="Remedy Games" height="16px" style="vertical-align: -3px">](https://www.remedygames.com/) games, *etc.*
-    * Films 🎬: <span style="color: grey">Under construction 🚧 ...</span>
-    * Series 📺: <span style="color: grey">Under construction 🚧 ...</span>
+    [<span style="font-family: Times New Roman; color: white;"> ASSASSIN'S <span style="color: #BF1716">CREED</span></span>](https://www.ubisoft.com/en-us/game/assassins-creed), *etc.*
+    * Films 🎬: films directed by Ryusuke Hamaguchi (Asako I & II, Happy Hour, Drive My Car, Wheel of Fortune and Fantasy, *etc.*), Satoshi Kon (Paprika, Perfect Blue, Millennium Actress, *etc.*), Ang Lee (Lust Caution, Eat Drink Man Woman, *etc.*), Edward Yang (The Terrorist, A Brighter Summer Day, Yi Yi, *etc.*), Wes Anderson (Moonrise Kingdom, The Grant Budapest Hotel, *etc.*), 2001 A Space Odyssey, Saturday Night Fever, Blade Runner, Baraka, The English Patient, Everything Everywhere All at Once, Decision to Leave, *etc.*
+    * Series 📺: Ghost in the Shell S.A.C. 2nd GIG, Cowboy Bebop, Neon Genesis Evangelion, Twin Peaks, Monster, *etc.*
     * Music artists or bands 🎧: <span style="color: grey">Under construction 🚧 ...</span>
     * Photography artists 📷: <span style="color: grey">Under construction 🚧 ...</span>
 * This page can be updated *from time to time* (or NEVER) 
 
--------
+<!-- <span style="color: grey">Under construction 🚧 ...</span> -->
 
 <p style="color: grey; font-style: normal; text-align: right" >
-Last updated on Mar. 2, 2023 <br>
+Last updated on Mar. 12, 2024 <br>
+
+<!-- ------- -->
 
 <!-- LikeBtn.com BEGIN -->
 <span class="likebtn-wrapper" data-theme="slideshare" data-identifier="like_btn" data-dislike_enabled="false" data-counter_frmt="comma" data-share_size="small"></span>
