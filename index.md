@@ -4,7 +4,7 @@ layout: page
 
 **<font size="6"> Yutong Xie </font> &nbsp; <font size="4"> 谢雨桐 </font>**
 
-<img align="right" src="assets/img/IMG_4398.jpeg" style="margin-left:40px; margin-bottom:20px; margin-top:5px; border:4px solid #ddd;border-radius:4px; max-width:210px; width:25%; height:auto">
+<img align="right" src="assets/img/IMG_4378.jpeg" style="margin-left:40px; margin-bottom:20px; margin-top:5px; border:4px solid #ddd;border-radius:4px; max-width:210px; width:25%; height:auto">
 
 <p style="text-indent: 00px;text-align: justify"> 
 I am a Ph.D. candidate in the <a href="https://www.si.umich.edu">School of Information</a> at the <a href="https://umich.edu/">University of Michigan</a>, where I work with <a href="http://www-personal.umich.edu/~qmei/">Prof. Qiaozhu Mei</a> as a member of the <a href="http://foreseer.si.umich.edu/">Foreseer Research Group</a>. 
