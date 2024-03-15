@@ -12,7 +12,14 @@ Prior to this, I received my Bachelor's degree from <a href="https://www.sjtu.ed
 </p>
 
 <p style="text-indent: 00px;text-align: justify"> 
-I have a general research interest in exploring the potential of AI to support and drive innovation, with a specific focus on its applications in both scientific research (<em>AI for science</em>) and creative processes (<em>AI for creativity</em>). My research encompasses three key aspects: identifying the innovation space ("What to innovate"), devising computational methodologies for innovative breakthroughs ("How to innovate"), and establishing robust criteria for evaluating these innovations ("How to evaluate"). A significant part of my work involves examining the synergistic relationship between AI and human intelligence in the innovation landscape. Additionally, I am keenly interested in the application and enhancement of <em>large language models</em>, particularly in the context of fostering effective human-AI collaboration for innovative endeavors.
+I have a general research interest in exploring the potential of AI to support and drive innovation, with a specific focus on both scientific innovation (<em>AI for science</em>) and creative processes (<em>AI for creativity</em>). My research encompasses three key aspects: 
+<ol>
+<li> Identifying the innovation space ("What to innovate") [<a href="https://dl.acm.org/doi/abs/10.1145/3543507.3587430">WWW '23</a>]; </li>
+<li> Devising computational methodologies for innovative solutions ("How to innovate") [<a href="https://openreview.net/forum?id=kHSu4ebxFXY">ICLR '21</a>]; and </li>
+<li> Establishing robust criteria for evaluating these innovations ("How to evaluate") [<a href="https://openreview.net/forum?id=Yo06F8kfMa1">ICLR '23</a>]. </li>
+</ol>
+
+A significant part of my work involves examining the synergistic relationship between AI and humans under the context of innovation as well as broader scenarios. Particularly, I am interested in the problems of how to understand, align, and direct the behaviors of powerful AI such as large language models (<em>AI behavioral science</em>) [<a href="https://www.pnas.org/doi/10.1073/pnas.2313925121">PNAS '24</a>], which is crucial for fostering better human-AI collaborations.
 </p>
 
 > <i class="fas fa-file-pdf"></i> &nbsp; For more information, please check my [curriculum vitae](https://drive.google.com/file/d/1-1FkJIQoSJNePm4s2RE17UF4TsQAJxAu/view?usp=sharing). \\
