@@ -35,13 +35,13 @@ yutongxie98 AT gmail DOT com \\
 ----------------------------
 
 <span style="font-weight: bold; color: red;">NEW!</span> 
-Our paper on [AI behavioral science](https://www.pnas.org/doi/10.1073/pnas.2313925121) was published on PNAS! \\
+Our paper on [a behavirol Turing test of ChatGPT](https://www.pnas.org/doi/10.1073/pnas.2313925121) was published at PNAS! \\
 <span style="font-weight: bold; color: red;">NEW!</span> 
 We made a video that shows [the evolution of AI and data mining over half a century](https://www.youtube.com/watch?v=J0nB0uRRCo4)! \\
 <span style="font-weight: bold; color: red;">NEW!</span> 
 Our paper on [text-to-image prompt analysis](https://dl.acm.org/doi/abs/10.1145/3543507.3587430) was accepted by WWW 2023 in the Creative Web Track! \\
 <span style="font-weight: bold; color: red;">NEW!</span> 
-Our paper on [chemical space exploration measures](https://openreview.net/forum?id=Yo06F8kfMa1) was accepted by ICLR 2023! 
+Our paper on [chemical space coverage measures](https://openreview.net/forum?id=Yo06F8kfMa1) was accepted by ICLR 2023! 
 
 ----------------------------
 
@@ -73,7 +73,7 @@ The ACM Web Conference (WWW), 2023 (The Creative Web Track). \\
 [**How Much Space Has Been Explored? Measuring the Chemical Space Covered by Databases and Machine-Generated Molecules**](https://openreview.net/forum?id=Yo06F8kfMa1) \\
 **Yutong Xie**, Ziqiao Xu, Jiaqi Ma, Qiaozhu Mei. \\
 International Conference on Learning Representations (ICLR), 2023. \\
-<!-- (Also appered on the International Conference on Machine Learning (ICML) AI for Science Workshop, 2022. ) \\ -->
+International Conference on Machine Learning (ICML) AI for Science Workshop, 2022. \\
 [[PDF](https://openreview.net/pdf?id=Yo06F8kfMa1)\]
 [[Code](https://github.com/yutxie/exploration-measures)\] 
 [[SlidesLive](https://iclr.cc/virtual/2023/poster/11769)\] 
@@ -105,8 +105,8 @@ International Conference on Learning Representations (ICLR), 2021.\\
 <!-- [**Visual Rhythm Prediction with Feature-Aligned Network**](https://ieeexplore.ieee.org/abstract/document/8757943) \\
 **Yutong Xie**, Haiyang Wang, Zihao Xu, Yan Hao.\\
 IAPR International Conference on Machine Vision Applications Conference (MVA), 2019.\\
-[[PDF](http://www.mva-org.jp/Proceedings/2019/papers/05-20.pdf)\]
+[[PDF](http://www.mva-org.jp/Proceedings/2019/papers/05-20.pdf)\] -->
 <!-- [[Code](https://github.com/shsjxzh/Visual-Rhythm-Prediction-with-Feature-Aligning-Network)\] 
-[[Video](https://www.youtube.com/watch?v=6n_spVFJQB8)\] --> 
+[[Video](https://www.youtube.com/watch?v=6n_spVFJQB8)\]  -->
 
 <sup>\*</sup> = equal contribution

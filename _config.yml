@@ -14,10 +14,11 @@ author: Yutong Xie
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Homepage: "aboutme"
+  Bio: "bio"
   Blog: "blog"
   Tags: "tags"
   MISC: "misc"
-  About Me: "aboutme"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
