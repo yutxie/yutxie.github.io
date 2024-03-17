@@ -12,7 +12,7 @@ Prior to this, I received my Bachelor's degree from <a href="https://www.sjtu.ed
 </p>
 
 <p style="text-indent: 00px;text-align: justify"> 
-I have a general research interest in exploring the potential of AI to support and drive innovation, with a specific focus on both scientific innovation (<em>AI for science</em>) and creative processes (<em>AI for creativity</em>). My research encompasses three key aspects: 
+I have a general research interest in exploring the potential of AI to support and drive innovation, with a specific focus on both scientific innovation (<em>AI for science</em>) and creativity endeavors (<em>AI for creativity</em>). My research encompasses three key aspects: 
 <ol>
 <li> Identifying the innovation space ("What to innovate") [<a href="https://dl.acm.org/doi/abs/10.1145/3543507.3587430">WWW '23</a>]; </li>
 <li> Devising computational methodologies for innovative solutions ("How to innovate") [<a href="https://openreview.net/forum?id=kHSu4ebxFXY">ICLR '21</a>]; and </li>
