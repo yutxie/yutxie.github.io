@@ -4,7 +4,7 @@ layout: page
 
 **<font size="6"> Yutong Xie </font> &nbsp; <font size="4"> 谢雨桐 </font>**
 
-<img align="right" src="assets/img/IMG_4378.jpeg" style="margin-left:40px; margin-bottom:20px; margin-top:5px; border:4px solid #ddd;border-radius:4px; max-width:210px; width:25%; height:auto">
+<img align="right" src="assets/img/IMG_4554.jpeg" style="margin-left:40px; margin-bottom:20px; margin-top:5px; border:4px solid #ddd;border-radius:4px; max-width:210px; width:25%; height:auto">
 
 <p style="text-indent: 00px;text-align: justify"> 
 I am a Ph.D. candidate in the <a href="https://www.si.umich.edu">School of Information</a> at the <a href="https://umich.edu/">University of Michigan</a>, where I work with <a href="http://www-personal.umich.edu/~qmei/">Prof. Qiaozhu Mei</a> as a member of the <a href="http://foreseer.si.umich.edu/">Foreseer Research Group</a>. 
@@ -12,14 +12,14 @@ Prior to this, I received my Bachelor's degree from <a href="https://www.sjtu.ed
 </p>
 
 <p style="text-indent: 00px;text-align: justify"> 
-I have a general research interest in exploring the potential of AI to support and drive innovation, with a specific focus on both scientific innovation (<em>AI for science</em>) and creativity endeavors (<em>AI for creativity</em>). My research encompasses three key aspects: 
+I have a general research interest in exploring the potential of AI to support and drive innovation, with a specific focus on both scientific innovation (<em>AI for science</em>) <span style="font-size:11px;">[<a href="https://openreview.net/forum?id=kHSu4ebxFXY">ICLR'21</a>, <a href="https://openreview.net/forum?id=Yo06F8kfMa1">ICLR'23</a>]</span> and creativity endeavors (<em>AI for creativity</em>) <span style="font-size:11px;">[<a href="https://dl.acm.org/doi/abs/10.1145/3543507.3587430">WWW'23</a>]</span>. My research encompasses three key aspects: 
 <ol>
-<li> Identifying the innovation space ("What to innovate") [<a href="https://dl.acm.org/doi/abs/10.1145/3543507.3587430">WWW '23</a>]; </li>
-<li> Devising computational methodologies for innovative solutions ("How to innovate") [<a href="https://openreview.net/forum?id=kHSu4ebxFXY">ICLR '21</a>]; and </li>
-<li> Establishing robust criteria for evaluating these innovations ("How to evaluate") [<a href="https://openreview.net/forum?id=Yo06F8kfMa1">ICLR '23</a>]. </li>
+<li> Identifying the innovation space ("What to innovate") <span style="font-size:11px;">[<a href="https://dl.acm.org/doi/abs/10.1145/3543507.3587430">WWW'23</a>]</span>; </li>
+<li> Devising computational methodologies for innovative solutions ("How to innovate") <span style="font-size:11px;">[<a href="https://openreview.net/forum?id=kHSu4ebxFXY">ICLR'21</a>]</span>; and </li>
+<li> Establishing robust criteria for evaluating these innovations ("How to evaluate") <span style="font-size:11px;">[<a href="https://openreview.net/forum?id=Yo06F8kfMa1">ICLR'23</a>]</span>. </li>
 </ol>
 
-A significant part of my work involves examining the synergistic relationship between AI and humans under the context of innovation as well as broader scenarios. Particularly, I am interested in the problems of how to understand, align, and direct the behaviors of powerful AI such as large language models (<em>AI behavioral science</em>) [<a href="https://www.pnas.org/doi/10.1073/pnas.2313925121">PNAS '24</a>], which is crucial for fostering better human-AI collaborations.
+A significant part of my work involves examining the synergistic relationship between AI and humans under the context of innovation as well as broader scenarios. Particularly, I am interested in the problems of how to understand, align, and direct the behaviors of powerful AI such as large language models (<em>AI behavioral science</em>) <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/10.1073/pnas.2313925121">PNAS'24</a>]</span>, which is crucial for fostering better human-AI collaborations.
 </p>
 
 > <i class="fas fa-file-pdf"></i> &nbsp; For more information, please check my [curriculum vitae](https://drive.google.com/file/d/1-1FkJIQoSJNePm4s2RE17UF4TsQAJxAu/view?usp=sharing). \\
