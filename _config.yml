@@ -16,8 +16,8 @@ author: Yutong Xie
 navbar-links:
   Homepage: "aboutme"
   Bio: "bio"
-  Blog: "blog"
-  Tags: "tags"
+  # Blog: "blog"
+  # Tags: "tags"
   MISC: "misc"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
