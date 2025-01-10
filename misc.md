@@ -49,7 +49,7 @@ Some Boring Facts 🥱
     Remedy games, 
     [<span style="font-family: Chalkduster, fantasy; color: white;"> LIFE IS <i class="fa fa-peace" style="color: #C130B1;"></i> STRANGE: BEFORE THE STORM</span>](https://www.square-enix-games.com/en_US/games/life-is-strange-before-the-storm), 
     [<span style="font-family: Times New Roman; color: white;"> ASSASSIN'S <span style="color: #BF1716">CREED</span></span>](https://www.ubisoft.com/en-us/game/assassins-creed), *etc.*
-    * Films 🎬: films directed by Ryusuke Hamaguchi (Asako I & II, Happy Hour, Drive My Car, Wheel of Fortune and Fantasy, *etc.*), Satoshi Kon (Paprika, Perfect Blue, Millennium Actress, *etc.*), Ang Lee (Lust Caution, Eat Drink Man Woman, *etc.*), Edward Yang (The Terrorist, A Brighter Summer Day, Yi Yi, *etc.*), Wes Anderson (Moonrise Kingdom, The Grant Budapest Hotel, *etc.*), 2001 A Space Odyssey, Saturday Night Fever, Blade Runner, Baraka, The English Patient, Everything Everywhere All at Once, Decision to Leave, *etc.*
+    * Films 🎬: films directed by Ryusuke Hamaguchi, Satoshi Kon, Ang Lee, Edward Yang, Wes Anderson, ... and many many others!
     * Series 📺: Ghost in the Shell S.A.C. 2nd GIG, Cowboy Bebop, Neon Genesis Evangelion, Twin Peaks, Monster, *etc.*
     * Music artists or bands 🎧: <span style="color: grey">Under construction 🚧 ...</span>
     * Photography artists 📷: <span style="color: grey">Under construction 🚧 ...</span>

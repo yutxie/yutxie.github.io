@@ -6,23 +6,25 @@ layout: page
 
 <img align="right" src="assets/img/IMG_4554.jpeg" style="margin-left:40px; margin-bottom:20px; margin-top:5px; border:4px solid #ddd;border-radius:4px; max-width:210px; width:25%; height:auto">
 
-<p style="text-indent: 00px;text-align: justify"> 
-I am a Ph.D. candidate in the <a href="https://www.si.umich.edu">School of Information</a> at the <a href="https://umich.edu/">University of Michigan</a>, where I work with <a href="http://www-personal.umich.edu/~qmei/">Prof. Qiaozhu Mei</a> as a member of the <a href="http://foreseer.si.umich.edu/">Foreseer Research Group</a>. 
-Prior to this, I received my Bachelor's degree from <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> as a member of the <a href="https://acm.sjtu.edu.cn/home">ACM Honors Class</a>, where I was advised by <a href="http://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a> and <a href="http://wnzhang.net">Prof. Weinan Zhang</a>.
-</p>
+<!-- <p style="text-indent: 00px;text-align: justify">  -->
+I am a Ph.D. candidate and a [Barbour Scholar](https://rackham.umich.edu/rackham-life/diversity-equity-and-inclusion/barbour-scholars/) at the <a href="https://umich.edu/">University of Michigan</a> <a href="https://www.si.umich.edu">School of Information</a>, where I work with <a href="http://www-personal.umich.edu/~qmei/">Prof. Qiaozhu Mei</a> in the <a href="http://foreseer.si.umich.edu/">Foreseer Research Group</a>. 
+Prior to this, I received my Bachelor's degree from <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> as a member of the <a href="https://acm.sjtu.edu.cn/home">ACM Honors Class</a>, advised by <a href="http://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a> and <a href="http://wnzhang.net">Prof. Weinan Zhang</a>.
+<!-- </p> -->
 
-<p style="text-indent: 00px;text-align: justify"> 
-I have a general research interest in exploring the potential of AI to understand, assist, and drive innovation, with a specific focus on both scientific innovation (<em>AI for science</em>) <span style="font-size:11px;">[<a href="https://openreview.net/forum?id=kHSu4ebxFXY">ICLR'21</a>, <a href="https://openreview.net/forum?id=Yo06F8kfMa1">ICLR'23</a>]</span> and creative endeavors (<em>AI for creativity</em>) <span style="font-size:11px;">[<a href="https://dl.acm.org/doi/abs/10.1145/3543507.3587430">WWW'23</a>]</span>. My research encompasses three key aspects: 
+<!-- <p style="text-indent: 00px;text-align: justify">  -->
+My current research primarily focuses on the interdisciplinary field of <em>AI Behavioral Science</em> <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/10.1073/pnas.2313925121">PNAS'24</a>, <a href="https://drive.google.com/file/d/1UduWG9tUnnuR0coSS0Mmg1k5WcPPKDvR/view">AIBS'24</a>]</span>, which aims to investigate and understand the behaviors exhibited by AI, as well as to leverage AI methodologies to facilitate research in behavioral science. 
+
+<!-- , with a specific interest in:
 <ol>
-<li> Identifying the innovation space ("What to innovate") <span style="font-size:11px;">[<a href="https://dl.acm.org/doi/abs/10.1145/3543507.3587430">WWW'23</a>]</span>; </li>
-<li> Devising computational methodologies for innovative solutions ("How to innovate") <span style="font-size:11px;">[<a href="https://openreview.net/forum?id=kHSu4ebxFXY">ICLR'21</a>]</span>; and </li>
-<li> Establishing robust criteria for evaluating these innovations ("How to evaluate") <span style="font-size:11px;">[<a href="https://openreview.net/forum?id=Yo06F8kfMa1">ICLR'23</a>]</span>. </li>
-</ol>
+<li>Behavioral science of AI: investigating and understanding the behaviors exhibited by AI <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/10.1073/pnas.2313925121">PNAS'24</a>, <a href="https://drive.google.com/file/d/1UduWG9tUnnuR0coSS0Mmg1k5WcPPKDvR/view">AIBS'24</a>]</span>;</li>
+<li>AI for behavioral science: leveraging AI methodologies to facilitate research in behavioral science;</li>
+<li>Behavioral alignment of AI: aligning AI with human behaviors, objectives, and values.</li>
+</ol> -->
+<!-- </p> -->
 
-A significant part of my work involves examining the synergistic relationship between AI and humans under the context of innovation as well as broader scenarios. Particularly, I am interested in the problems of how to understand, align, and direct the behaviors of powerful AI such as large language models (<em>AI behavioral science</em>) <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/10.1073/pnas.2313925121">PNAS'24</a>]</span>, which is crucial for fostering better human-AI collaborations.
-</p>
+In addition, I also have a general interest in exploring the potential of AI in fostering innovation across various domains, particularly in <em>AI for Science</em> <span style="font-size:11px;">[<a href="https://openreview.net/forum?id=kHSu4ebxFXY">ICLR'21</a>, <a href="https://openreview.net/forum?id=Yo06F8kfMa1">ICLR'23</a>, <a href="https://arxiv.org/abs/2406.06357">arXiv'24</a>, <a href="https://arxiv.org/abs/2412.09628">arXiv'24</a>]</span> and <em>AI for Creativity</em> <span style="font-size:11px;">[<a href="https://dl.acm.org/doi/abs/10.1145/3543507.3587430">WWW'23</a>]</span>.
 
-> <i class="fas fa-file-pdf"></i> &nbsp; For more information, please check my [curriculum vitae](https://drive.google.com/file/d/1-1FkJIQoSJNePm4s2RE17UF4TsQAJxAu/view?usp=sharing). \\
+> <i class="fas fa-file-pdf"></i> &nbsp; For more information, please check my [bio](/bio) and [curriculum vitae](https://drive.google.com/file/d/1-1FkJIQoSJNePm4s2RE17UF4TsQAJxAu/view?usp=sharing). \\
 > <i class="fas fa-at"></i> &nbsp; yutxie AT umich DOT edu, 
 yutongxie98 AT gmail DOT com \\
 > <i class="fas fa-link"></i> &nbsp; 
@@ -35,13 +37,15 @@ yutongxie98 AT gmail DOT com \\
 ----------------------------
 
 <span style="font-weight: bold; color: red;">NEW!</span> 
-Our paper on [a behavirol Turing test of ChatGPT](https://www.pnas.org/doi/10.1073/pnas.2313925121) was published at PNAS! \\
+We hosted [The First Workshop on AI Behavioral Science (AIBS)](https://ai-behavioral-science.github.io/2024) at KDD 2024, where we also presented a paper on [comparing behaviors of different chatbots](https://arxiv.org/abs/2412.12362)! \\
 <span style="font-weight: bold; color: red;">NEW!</span> 
-We made a video that shows [the evolution of AI and data mining over half a century](https://www.youtube.com/watch?v=J0nB0uRRCo4)! \\
+Our paper on [a behavirol Turing test of ChatGPT](https://www.pnas.org/doi/10.1073/pnas.2313925121) was published in PNAS! \\
+<!-- <span style="font-weight: bold; color: red;">NEW!</span>  -->
+<!-- We made a video that shows [the evolution of AI and data mining over half a century](https://www.youtube.com/watch?v=J0nB0uRRCo4)! \\ -->
+<!-- <span style="font-weight: bold; color: red;">NEW!</span>  -->
+<!-- Our paper on [text-to-image prompt analysis](https://dl.acm.org/doi/abs/10.1145/3543507.3587430) was accepted by WWW 2023 in the Creative Web Track! \\
 <span style="font-weight: bold; color: red;">NEW!</span> 
-Our paper on [text-to-image prompt analysis](https://dl.acm.org/doi/abs/10.1145/3543507.3587430) was accepted by WWW 2023 in the Creative Web Track! \\
-<span style="font-weight: bold; color: red;">NEW!</span> 
-Our paper on [chemical space coverage measures](https://openreview.net/forum?id=Yo06F8kfMa1) was accepted by ICLR 2023! 
+Our paper on [chemical space coverage measures](https://openreview.net/forum?id=Yo06F8kfMa1) was accepted by ICLR 2023!  -->
 
 ----------------------------
 
@@ -49,12 +53,31 @@ Our paper on [chemical space coverage measures](https://openreview.net/forum?id=
 
 > For the full publication list, please refer to my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ&view_op=list_works&sortby=pubdate). 
 
+[**Bridging AI and Science: Implications from a Large-Scale Literature Analysis of AI4Science**](https://arxiv.org/abs/2412.09628) \\
+**Yutong Xie**<sup>\*</sup>, Yijun Pan<sup>\*</sup>, Hua Xu, Qiaozhu Mei. \\
+Manuscript in submission. \\
+[[arXiv](https://arxiv.org/abs/2412.09628)\]
+[[Code]()\]
+
+[**MASSW: A New Dataset and Benchmark Tasks for AI-Assisted Scientific Workflows**](https://arxiv.org/abs/2406.06357) \\
+Xingjian Zhang<sup>\*</sup>, **Yutong Xie**<sup>\*</sup>, Jin Huang, Jinge Ma, Zhaoying Pan, Qijia Liu, Ziyang Xiong, Tolga Ergen, Dongsub Shim, Honglak Lee, Qiaozhu Mei. \\
+Manuscript in submission. \\
+[[arXiv](https://arxiv.org/abs/2406.06357)\]
+[[Code](https://github.com/xingjian-zhang/massw)\]
+
+[**How Different AI Chatbots Behave? Benchmarking Large Language Models in Behavioral Economics Games**](https://arxiv.org/abs/2412.12362) \\
+**Yutong Xie**, Yiyao Liu, Zhuang Ma, Lin Shi, Xiyuan Wang, Walter Yuan, Matthew O. Jackson, Qiaozhu Mei. \\
+The First Workshop on AI Behavioral Science (AIBS) at KDD'24, 2024. \\
+[[arXiv](https://arxiv.org/abs/2412.12362)\]
+[[Code]()\]
+
 [**A Turing test of whether AI chatbots are behaviorally similar to humans**](https://www.pnas.org/doi/10.1073/pnas.2313925121) \\
 Qiaozhu Mei, **Yutong Xie**, Walter Yuan, Matthew O. Jackson. \\
-Proceedings of the National Academy of Sciences of the United States of America (PNAS), Feb 2024.  \\
+Proceedings of the National Academy of Sciences of the United States of America (PNAS), 2024.  \\
 [[arXiv](https://arxiv.org/abs/2312.00798)\]
 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4637354)\]
 [[Code](https://github.com/yutxie/ChatGPT-Behavioral)\] 
+[[Slides](https://drive.google.com/file/d/1eGOXTJ49IEMtNqoWNpN4M4Dtn_DzkxaH/view?usp=sharing)\]
 [[UMich News](https://news.umich.edu/chatgpt-acts-more-altruistically-cooperatively-than-humans/)\] 
 [[Stanford News](https://humsci.stanford.edu/feature/study-finds-chatgpts-latest-bot-behaves-humans-only-better)\] 
 
@@ -82,7 +105,7 @@ International Conference on Machine Learning (ICML) AI for Science Workshop, 202
 [[AI Time Talk](https://www.bilibili.com/video/BV12X4y1f7P7/?share_source=copy_web&vd_source=cc7b830a98543ee4bb061e90ba3cc4fd&t=1533)\] 
 
 [**Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection**](https://ojs.aaai.org/index.php/AAAI/article/view/20522) \\
-Ting Long<sup>\*</sup>, **Yutong Xie**<sup>\*</sup>, Xianyu Chen, Weinan Zhang, Qinxiang Cao, Yong Yu.\\
+**Yutong Xie**<sup>\*</sup>, Ting Long<sup>\*</sup>, Xianyu Chen, Weinan Zhang, Qinxiang Cao, Yong Yu.\\
 AAAI Conference on Artificial Intelligence (AAAI), 2022 (acceptance rate 15%). \\
 [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20522/20281)\]
 [[Code](https://github.com/githubg0/mvg)\] 
@@ -92,8 +115,8 @@ AAAI Conference on Artificial Intelligence (AAAI), 2022 (acceptance rate 15%). \
 
 [**MARS: Markov Molecular Sampling for Multi-objective Drug Discovery**](https://openreview.net/forum?id=kHSu4ebxFXY) \\
 **Yutong Xie**, Chence Shi, Hao Zhou, Yuwei Yang, Weinan Zhang, Yong Yu, Lei Li.\\
-International Conference on Learning Representations (ICLR), 2021.\\
-<a href="https://iclr.cc/virtual/2021/spotlight/3417" style="color:red">**Spotlight presentation (top 5%).** <i class="fas fa-video"></i> </a>\\
+International Conference on Learning Representations (ICLR), 2021. \\
+<a href="https://iclr.cc/virtual/2021/spotlight/3417" style="color:red">**Spotlight presentation (5%).** <i class="fas fa-video"></i> </a>\\
 [[PDF](https://openreview.net/pdf?id=kHSu4ebxFXY)\]
 [[Code](https://github.com/yutxie/MARS)\] 
 [[SlidesLive](https://iclr.cc/virtual/2021/spotlight/3417)\] 
@@ -110,3 +133,6 @@ IAPR International Conference on Machine Vision Applications Conference (MVA), 2
 [[Video](https://www.youtube.com/watch?v=6n_spVFJQB8)\]  -->
 
 <sup>\*</sup> = equal contribution
+
+<p style="color: grey; font-style: normal; text-align: right" >
+Last updated: Jan, 2025 <br>
