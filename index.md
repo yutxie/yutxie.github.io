@@ -12,7 +12,7 @@ Prior to this, I received my Bachelor's degree from <a href="https://www.sjtu.ed
 <!-- </p> -->
 
 <!-- <p style="text-indent: 00px;text-align: justify">  -->
-My current research primarily focuses on the interdisciplinary field of <em>AI Behavioral Science</em> <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/10.1073/pnas.2313925121">PNAS'24</a>, <a href="https://drive.google.com/file/d/1UduWG9tUnnuR0coSS0Mmg1k5WcPPKDvR/view">AIBS'24</a>]</span>, which aims to investigate and understand the behaviors exhibited by AI, as well as to leverage AI methodologies to facilitate research in behavioral science. 
+My current research primarily focuses on the interdisciplinary field of <em>AI Behavioral Science</em> <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/10.1073/pnas.2313925121">PNAS'24</a>, <a href="https://arxiv.org/abs/2412.12362">AIBS'24</a>]</span>, which aims to investigate and understand the behaviors exhibited by AI, as well as to leverage AI methodologies to facilitate research in behavioral science. 
 
 <!-- , with a specific interest in:
 <ol>
@@ -70,6 +70,7 @@ Manuscript in submission. \\
 The First Workshop on AI Behavioral Science (AIBS) at KDD'24, 2024. \\
 [[arXiv](https://arxiv.org/abs/2412.12362)\]
 [[Code]()\]
+[[Slides](https://drive.google.com/file/d/1-DahTc0Ps-X3jvgeEGev6BMBB7hrDZco/view?usp=sharing)\]
 
 [**A Turing test of whether AI chatbots are behaviorally similar to humans**](https://www.pnas.org/doi/10.1073/pnas.2313925121) \\
 Qiaozhu Mei, **Yutong Xie**, Walter Yuan, Matthew O. Jackson. \\
