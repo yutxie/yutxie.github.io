@@ -61,20 +61,20 @@ Manuscript in submission. \\
 
 [**MASSW: A New Dataset and Benchmark Tasks for AI-Assisted Scientific Workflows**](https://arxiv.org/abs/2406.06357) \\
 Xingjian Zhang<sup>\*</sup>, **Yutong Xie**<sup>\*</sup>, Jin Huang, Jinge Ma, Zhaoying Pan, Qijia Liu, Ziyang Xiong, Tolga Ergen, Dongsub Shim, Honglak Lee, Qiaozhu Mei. \\
-Manuscript in submission. \\
+NAACL 2025 Findings. \\
 [[arXiv](https://arxiv.org/abs/2406.06357)\]
 [[Code](https://github.com/xingjian-zhang/massw)\]
 
 [**How Different AI Chatbots Behave? Benchmarking Large Language Models in Behavioral Economics Games**](https://arxiv.org/abs/2412.12362) \\
 **Yutong Xie**, Yiyao Liu, Zhuang Ma, Lin Shi, Xiyuan Wang, Walter Yuan, Matthew O. Jackson, Qiaozhu Mei. \\
-The First Workshop on AI Behavioral Science (AIBS) at KDD'24, 2024. \\
+The First Workshop on AI Behavioral Science (AIBS) at KDD, 2024. \\
 [[arXiv](https://arxiv.org/abs/2412.12362)\]
 [[Code]()\]
 [[Slides](https://drive.google.com/file/d/1-DahTc0Ps-X3jvgeEGev6BMBB7hrDZco/view?usp=sharing)\]
 
 [**A Turing test of whether AI chatbots are behaviorally similar to humans**](https://www.pnas.org/doi/10.1073/pnas.2313925121) \\
 Qiaozhu Mei, **Yutong Xie**, Walter Yuan, Matthew O. Jackson. \\
-Proceedings of the National Academy of Sciences of the United States of America (PNAS), 2024.  \\
+PNAS, 2024.  \\
 [[arXiv](https://arxiv.org/abs/2312.00798)\]
 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4637354)\]
 [[Code](https://github.com/yutxie/ChatGPT-Behavioral)\] 
@@ -84,7 +84,7 @@ Proceedings of the National Academy of Sciences of the United States of America 
 
 [**A Prompt Log Analysis of Text-to-Image Generation Systems**](https://dl.acm.org/doi/abs/10.1145/3543507.3587430) \\
 **Yutong Xie**<sup>\*</sup>, Zhaoying Pan<sup>\*</sup>, Jinge Ma<sup>\*</sup>, Luo Jie, Qiaozhu Mei. \\
-The ACM Web Conference (WWW), 2023 (The Creative Web Track). \\
+WebConf (WWW), 2023 (The Creative Web Track). \\
 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3543507.3587430)\]
 [[arXiv](https://arxiv.org/pdf/2303.04587.pdf)\]
 [[Code](https://github.com/zhaoyingpan/prompt_log_analysis)\] 
@@ -96,8 +96,8 @@ The ACM Web Conference (WWW), 2023 (The Creative Web Track). \\
 
 [**How Much Space Has Been Explored? Measuring the Chemical Space Covered by Databases and Machine-Generated Molecules**](https://openreview.net/forum?id=Yo06F8kfMa1) \\
 **Yutong Xie**, Ziqiao Xu, Jiaqi Ma, Qiaozhu Mei. \\
-International Conference on Learning Representations (ICLR), 2023. \\
-International Conference on Machine Learning (ICML) AI for Science Workshop, 2022. \\
+ICLR, 2023. \\
+AI for Science Workshop at ICML, 2022. \\
 [[PDF](https://openreview.net/pdf?id=Yo06F8kfMa1)\]
 [[Code](https://github.com/yutxie/exploration-measures)\] 
 [[SlidesLive](https://iclr.cc/virtual/2023/poster/11769)\] 
@@ -107,7 +107,7 @@ International Conference on Machine Learning (ICML) AI for Science Workshop, 202
 
 [**Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection**](https://ojs.aaai.org/index.php/AAAI/article/view/20522) \\
 **Yutong Xie**<sup>\*</sup>, Ting Long<sup>\*</sup>, Xianyu Chen, Weinan Zhang, Qinxiang Cao, Yong Yu.\\
-AAAI Conference on Artificial Intelligence (AAAI), 2022 (acceptance rate 15%). \\
+AAAI, 2022. \\
 [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20522/20281)\]
 [[Code](https://github.com/githubg0/mvg)\] 
 [[SlidesLive](https://aaai-2022.virtualchair.net/poster_aaai928)\] 
@@ -116,8 +116,7 @@ AAAI Conference on Artificial Intelligence (AAAI), 2022 (acceptance rate 15%). \
 
 [**MARS: Markov Molecular Sampling for Multi-objective Drug Discovery**](https://openreview.net/forum?id=kHSu4ebxFXY) \\
 **Yutong Xie**, Chence Shi, Hao Zhou, Yuwei Yang, Weinan Zhang, Yong Yu, Lei Li.\\
-International Conference on Learning Representations (ICLR), 2021. \\
-<a href="https://iclr.cc/virtual/2021/spotlight/3417" style="color:red">**Spotlight presentation (5%).** <i class="fas fa-video"></i> </a>\\
+ICLR, 2021 (<a href="https://iclr.cc/virtual/2021/spotlight/3417" style="color:red">**Spotlight presentation** <i class="fas fa-video"></i> </a>). \\
 [[PDF](https://openreview.net/pdf?id=kHSu4ebxFXY)\]
 [[Code](https://github.com/yutxie/MARS)\] 
 [[SlidesLive](https://iclr.cc/virtual/2021/spotlight/3417)\] 
