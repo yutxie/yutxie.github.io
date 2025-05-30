@@ -18,27 +18,37 @@ yutongxie98 AT gmail DOT com \\
 I am a Ph.D. candidate and a [Barbour Scholar](https://rackham.umich.edu/rackham-life/diversity-equity-and-inclusion/barbour-scholars/) at the [University of Michigan](https://umich.edu/) [School of Information](https://www.si.umich.edu), advised by [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/). 
 Prior to this, I received my Bachelor's degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) as a member of the [ACM Class](https://acm.sjtu.edu.cn/home), advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net).
 
+<!-- <span style="font-weight: bold; color: red;">I'm looking for tenure-track and postdoctoral positions that start Fall 2026! If my research aligns with your interest or you know of any relevant opportunities, I would be more than happy to get in touch :). Please find my</span> [**CV here**](https://drive.google.com/file/d/17HsrAQy3KGlnQOSLAHNBNzqU2rVOJ3hI/view?usp=sharing).  -->
+
 ---
 
 ## RESEARCH
 
-My current research focuses on the emerging interdisciplinary field of [<em>AI Behavioral Science</em>](#ai-behavioral-science). 
-My particular instrests include (but not limited to) the following aspects:
-<ol style="margin-top: -20px;margin-bottom: -10px;">
-<li>Understanding the behaviors exhibited by AI <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/10.1073/pnas.2313925121">PNAS'24</a>, <a href="https://arxiv.org/abs/2412.12362">AIBS'24</a>]</span>;</li>
+My current research focuses on the emerging interdisciplinary field of [<em>AI Behavioral Science</em>](#ai-behavioral-science), whose core research questions have been discussed in our [recent workshops](https://ai-behavioral-science.github.io/). 
+Particularly, my interests include (but are not limited to) the following aspects:
+<ul style="margin-top: -20px;margin-bottom: -10px;">
+<li>Understanding the behaviors exhibited by AI <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/10.1073/pnas.2313925121">PNAS'24</a>, <a href="https://arxiv.org/abs/2412.12362">AIBS'24</a>]</span>; </li>
 <li>Leveraging AI to understand human behaviors and facilitate behavioral science research <span style="font-size:11px;">[<a href="https://arxiv.org/abs/2503.15752">arXiv'25</a>]</span>; </li>
-</ol>
+<!-- <li>Aligning AI with human behaviors, objectives, and values. </li> -->
+<li>Foundation models for human behaviors (<a href="https://arxiv.org/abs/2505.23058">Be.FM</a>) <span style="font-size:11px;">[<a href="">arXiv'25</a>]</span>. </li>
+</ul>
 <!-- </p> -->
 
-I also have a general interest in [<em>AI for Science</em>](#ai-for-science-ai4science) and AI for innovation in a broad sense. 
-<!-- and [<em>AI for Creativity</em>](#ai-for-creativity). -->
-
-<!-- <span style="font-size:11px;">[<a href="https://openreview.net/forum?id=kHSu4ebxFXY">ICLR'21</a>, <a href="https://openreview.net/forum?id=Yo06F8kfMa1">ICLR'23</a>, <a href="https://aclanthology.org/2025.findings-naacl.127/">NAACL'25</a>, <a href="https://arxiv.org/abs/2412.09628">arXiv'24</a>]</span> -->
+In addition, I also have a general interest in: 
+<ul style="margin-top: -20px;margin-bottom: 15px;">
+<li><a href="#ai-for-science-ai4science"><em>AI for Science</em></a>
+<span style="font-size:11px;">[<a href="https://aclanthology.org/2025.findings-naacl.127/">NAACL'25</a>, 
+<a href="https://arxiv.org/abs/2412.09628">arXiv'24</a>,
+<a href="https://openreview.net/forum?id=Yo06F8kfMa1">ICLR'23</a>, 
+<a href="https://openreview.net/forum?id=kHSu4ebxFXY">ICLR'21</a>]</span>; </li>
+<li><em>AI for Innovation and Creativity</em>
+<span style="font-size:11px;">[<a href="https://dl.acm.org/doi/abs/10.1145/3543507.3587430">WWW'23</a>]</span>. </li> 
+</ul>
 
 <!-- For undergraduate and master students who find my research interesting and would like to work with me, please feel free to reach out! -->
 
 > <span style="font-weight: bold; color: red;">CFP! </span>
-We just launched [a new reserch topic of AI Behavioral Science in the Frontiers in AI journal](https://www.frontiersin.org/research-topics/69861)! Look forward to your contributions and let's build the conversation together! (Summary deadline July 30, 2025)
+We just launched [a new research topic of AI Behavioral Science in the Frontiers in AI journal](https://www.frontiersin.org/research-topics/69861)! Look forward to your contributions and let's build the conversation together! (Summary deadline July 30, 2025)
 
 ---
 
@@ -48,12 +58,20 @@ We just launched [a new reserch topic of AI Behavioral Science in the Frontiers 
 
 #### AI Behavioral Science
 
+1. [**Be.FM: Open Foundation Models for Human Behavior**](https://arxiv.org/abs/2505.23058) \\
+**Yutong Xie**<sup>\*</sup>, Zhuoheng Li<sup>\*</sup>, Xiyuan Wang<sup>\*</sup>, Walter Yuan, Matthew O. Jackson, Qiaozhu Mei, et al. \\
+[[PDF](https://arxiv.org/pdf/2505.23058)\]
+[[arXiv](https://arxiv.org/abs/2505.23058)\]
+[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5274559)\]
+[[Access](https://forms.gle/DAvxJYReqg7midQn9)\]
+
 1. [**Using Language Models to Decipher the Motivation Behind Human Behaviors**](https://arxiv.org/abs/2503.15752) \\
 **Yutong Xie**, Qiaozhu Mei, Walter Yuan, Matthew O. Jackson. \\
 Manuscript in submission. \\
 [[PDF](https://arxiv.org/pdf/2503.15752)\]
 [[arXiv](https://arxiv.org/abs/2503.15752)\]
 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5185865)\]
+[[Slides](https://drive.google.com/file/d/1si3lwqvA69tVEHREpxbgSjBjwQu-kxKa/view?usp=sharing)\]
 <!-- [[Code]()\] -->
 
 1. [**How Different AI Chatbots Behave? Benchmarking Large Language Models in Behavioral Economics Games**](https://arxiv.org/abs/2412.12362) \\
@@ -98,6 +116,7 @@ NAACL 2025 Findings. \\
 ICLR, 2023. \\
 <!-- AI for Science Workshop at ICML, 2022. \\ -->
 [[PDF](https://openreview.net/pdf?id=Yo06F8kfMa1)\]
+[[arXiv](https://arxiv.org/abs/2112.12542)\]
 [[Code](https://github.com/yutxie/exploration-measures)\] 
 [[SlidesLive](https://iclr.cc/virtual/2023/poster/11769)\] 
 [[Slides](https://drive.google.com/file/d/15Jfl64W7-E_lb5-ecT8n5Qehv4mxEn3A/view?usp=sharing)\] 
@@ -108,6 +127,7 @@ ICLR, 2023. \\
 **Yutong Xie**, Chence Shi, Hao Zhou, Yuwei Yang, Weinan Zhang, Yong Yu, Lei Li.\\
 ICLR, 2021 (<a href="https://iclr.cc/virtual/2021/spotlight/3417">Spotlight presentation <i class="fas fa-video"></i> </a>). \\
 [[PDF](https://openreview.net/pdf?id=kHSu4ebxFXY)\]
+[[arXiv](https://arxiv.org/abs/2103.10432)\]
 [[Code](https://github.com/yutxie/MARS)\] 
 [[SlidesLive](https://iclr.cc/virtual/2021/spotlight/3417)\] 
 [[Slides](https://drive.google.com/file/d/1vbdP1CjAuYj4eB9GX2-3uqmfgSqISIxD/view?usp=sharing)\] 
@@ -115,7 +135,7 @@ ICLR, 2021 (<a href="https://iclr.cc/virtual/2021/spotlight/3417">Spotlight pres
 [[AI Time Talk](https://www.bilibili.com/video/BV1Eo4y1172a)\] 
 [[WeChat Article](https://mp.weixin.qq.com/s/RfxKVF9nuG0_DkorTeWxJQ)\]
 
-> We have also previously created a short video showing the evolution of AI and data mining over half a century (1969-2022), featured by KDD 2023. Come take a look :). [[YouTube](https://www.youtube.com/watch?v=J0nB0uRRCo4)\]
+> We also have a short video showing the evolution of AI and data mining over half a century (1969-2022), featured by KDD 2023. Come take a look :). [[YouTube](https://www.youtube.com/watch?v=J0nB0uRRCo4)\]
 
 #### Other Topics
 
@@ -123,7 +143,7 @@ ICLR, 2021 (<a href="https://iclr.cc/virtual/2021/spotlight/3417">Spotlight pres
 **Yutong Xie**<sup>\*</sup>, Zhaoying Pan<sup>\*</sup>, Jinge Ma<sup>\*</sup>, Luo Jie, Qiaozhu Mei. \\
 WebConf (WWW), 2023 (The Creative Web Track). \\
 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3543507.3587430)\]
-[[arXiv](https://arxiv.org/pdf/2303.04587.pdf)\]
+[[arXiv](https://arxiv.org/abs/2303.04587)\]
 [[Code](https://github.com/zhaoyingpan/prompt_log_analysis)\] 
 [[Video](https://youtu.be/D-N1_lwhNnk)\]
 <!-- [[SlidesLive]()\]  -->
@@ -134,6 +154,7 @@ WebConf (WWW), 2023 (The Creative Web Track). \\
 **Yutong Xie**<sup>\*</sup>, Ting Long<sup>\*</sup>, Xianyu Chen, Weinan Zhang, Qinxiang Cao, Yong Yu.\\
 AAAI, 2022. \\
 [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20522/20281)\]
+[[arXiv](https://arxiv.org/abs/2202.12481)\]
 [[Code](https://github.com/githubg0/mvg)\] 
 [[SlidesLive](https://aaai-2022.virtualchair.net/poster_aaai928)\] 
 [[Slides](https://drive.google.com/file/d/1vOYiwoyWEQ1K1aAH-6muqYIcyUiRGGlt/view?usp=sharing)\] 
