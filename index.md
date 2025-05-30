@@ -59,11 +59,11 @@ We just launched [a new research topic of AI Behavioral Science in the Frontiers
 #### AI Behavioral Science
 
 1. [**Be.FM: Open Foundation Models for Human Behavior**](https://arxiv.org/abs/2505.23058) \\
-**Yutong Xie**<sup>\*</sup>, Zhuoheng Li<sup>\*</sup>, Xiyuan Wang<sup>\*</sup>, Walter Yuan, Matthew O. Jackson, Qiaozhu Mei, et al. \\
+**Yutong Xie**<sup>\*</sup>, Zhuoheng Li<sup>\*</sup>, Xiyuan Wang<sup>\*</sup>, Yijun Pan, Qijia Liu, Xingzhi Cui, Kuang-Yu Lo, Ruoyi Gao, Xingjian Zhang, Jin Huang, Walter Yuan, Matthew O. Jackson, Qiaozhu Mei. \\
 [[PDF](https://arxiv.org/pdf/2505.23058)\]
 [[arXiv](https://arxiv.org/abs/2505.23058)\]
 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5274559)\]
-[[Access](https://forms.gle/DAvxJYReqg7midQn9)\]
+[[Access Request](https://forms.gle/DAvxJYReqg7midQn9)\]
 
 1. [**Using Language Models to Decipher the Motivation Behind Human Behaviors**](https://arxiv.org/abs/2503.15752) \\
 **Yutong Xie**, Qiaozhu Mei, Walter Yuan, Matthew O. Jackson. \\
