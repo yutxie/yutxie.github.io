@@ -24,13 +24,13 @@ Prior to this, I received my Bachelor's degree from [Shanghai Jiao Tong Universi
 
 ## RESEARCH
 
-My current research focuses on the emerging interdisciplinary field of [<em>AI Behavioral Science</em>](#ai-behavioral-science), whose core research questions have been discussed in our [recent workshops](https://ai-behavioral-science.github.io/). 
+My current research focuses on the emerging interdisciplinary field of [<em>AI Behavioral Science</em>](#ai-behavioral-science), whose core research questions have been discussed in our [perspective paper](https://papers.ssrn.com/abstract=5395006) and [recent workshops](https://ai-behavioral-science.github.io/). 
 Particularly, my interests include (but are not limited to) the following aspects:
 <ul style="margin-top: -20px;margin-bottom: -10px;">
 <li>Understanding the behaviors exhibited by AI <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/10.1073/pnas.2313925121">PNAS'24</a>, <a href="https://arxiv.org/abs/2412.12362">AIBS'24</a>]</span>; </li>
 <li>Leveraging AI to understand human behaviors and facilitate behavioral science research <span style="font-size:11px;">[<a href="https://arxiv.org/abs/2503.15752">arXiv'25</a>]</span>; </li>
 <!-- <li>Aligning AI with human behaviors, objectives, and values. </li> -->
-<li>Foundation models for human behaviors (<a href="https://arxiv.org/abs/2505.23058">Be.FM</a>) <span style="font-size:11px;">[<a href="">arXiv'25</a>]</span>. </li>
+<li>Foundation models for human behaviors (<a href="https://huggingface.co/befm">Be.FM</a>) <span style="font-size:11px;">[<a href="https://arxiv.org/abs/2505.23058">arXiv'25</a>]</span>. </li>
 </ul>
 <!-- </p> -->
 
@@ -63,14 +63,16 @@ We just launched [a new research topic of AI Behavioral Science in the Frontiers
 [[PDF](https://arxiv.org/pdf/2505.23058)\]
 [[arXiv](https://arxiv.org/abs/2505.23058)\]
 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5274559)\]
+[[Hugging Face](https://huggingface.co/befm)\]
 [[Access Request](https://forms.gle/DAvxJYReqg7midQn9)\]
 
-1. [**Using Language Models to Decipher the Motivation Behind Human Behaviors**](https://arxiv.org/abs/2503.15752) \\
+1. [**Using Large Language Models to Categorize Strategic Situations and Decipher Motivations Behind Human Behaviors**](https://arxiv.org/abs/2503.15752) \\
 **Yutong Xie**, Qiaozhu Mei, Walter Yuan, Matthew O. Jackson. \\
 Manuscript in submission. \\
 [[PDF](https://arxiv.org/pdf/2503.15752)\]
 [[arXiv](https://arxiv.org/abs/2503.15752)\]
 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5185865)\]
+[[Code](https://github.com/yutxie/llm-behavioral-codes)\]
 [[Slides](https://drive.google.com/file/d/1si3lwqvA69tVEHREpxbgSjBjwQu-kxKa/view?usp=sharing)\]
 <!-- [[Code]()\] -->
 
@@ -84,7 +86,7 @@ The First Workshop on AI Behavioral Science (AIBS) at KDD, 2024. \\
 
 1. [**A Turing test of whether AI chatbots are behaviorally similar to humans**](https://www.pnas.org/doi/10.1073/pnas.2313925121) \\
 Qiaozhu Mei, **Yutong Xie**, Walter Yuan, Matthew O. Jackson. \\
-PNAS, 2024.  \\
+Proceedings of the National Academy of Sciences of the United States of America (PNAS), 2024. \\
 [[PDF](https://www.pnas.org/doi/epdf/10.1073/pnas.2313925121)\]
 [[arXiv](https://arxiv.org/abs/2312.00798)\]
 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4637354)\]
@@ -105,7 +107,7 @@ Manuscript in submission. \\
 
 1. [**MASSW: A New Dataset and Benchmark Tasks for AI-Assisted Scientific Workflows**](https://aclanthology.org/2025.findings-naacl.127/) \\
 Xingjian Zhang<sup>\*</sup>, **Yutong Xie**<sup>\*</sup>, Jin Huang, Jinge Ma, Zhaoying Pan, Qijia Liu, Ziyang Xiong, Tolga Ergen, Dongsub Shim, Honglak Lee, Qiaozhu Mei. \\
-NAACL 2025 Findings. \\
+Findings of the Association for Computational Linguistics (NAACL), 2025. \\
 [[PDF](https://aclanthology.org/2025.findings-naacl.127.pdf)\]
 [[arXiv](https://arxiv.org/abs/2406.06357)\]
 [[Code](https://github.com/xingjian-zhang/massw)\]
@@ -113,7 +115,7 @@ NAACL 2025 Findings. \\
 
 1. [**How Much Space Has Been Explored? Measuring the Chemical Space Covered by Databases and Machine-Generated Molecules**](https://openreview.net/forum?id=Yo06F8kfMa1) \\
 **Yutong Xie**, Ziqiao Xu, Jiaqi Ma, Qiaozhu Mei. \\
-ICLR, 2023. \\
+International Conference on Learning Representations (ICLR), 2023.\\
 <!-- AI for Science Workshop at ICML, 2022. \\ -->
 [[PDF](https://openreview.net/pdf?id=Yo06F8kfMa1)\]
 [[arXiv](https://arxiv.org/abs/2112.12542)\]
@@ -125,7 +127,7 @@ ICLR, 2023. \\
 
 1. [**MARS: Markov Molecular Sampling for Multi-objective Drug Discovery**](https://openreview.net/forum?id=kHSu4ebxFXY) \\
 **Yutong Xie**, Chence Shi, Hao Zhou, Yuwei Yang, Weinan Zhang, Yong Yu, Lei Li.\\
-ICLR, 2021 (<a href="https://iclr.cc/virtual/2021/spotlight/3417">Spotlight presentation <i class="fas fa-video"></i> </a>). \\
+International Conference on Learning Representations (ICLR), 2021 (<a href="https://iclr.cc/virtual/2021/spotlight/3417">Spotlight presentation <i class="fas fa-video"></i> </a>). \\
 [[PDF](https://openreview.net/pdf?id=kHSu4ebxFXY)\]
 [[arXiv](https://arxiv.org/abs/2103.10432)\]
 [[Code](https://github.com/yutxie/MARS)\] 
@@ -141,7 +143,7 @@ ICLR, 2021 (<a href="https://iclr.cc/virtual/2021/spotlight/3417">Spotlight pres
 
 1. [**A Prompt Log Analysis of Text-to-Image Generation Systems**](https://dl.acm.org/doi/abs/10.1145/3543507.3587430) \\
 **Yutong Xie**<sup>\*</sup>, Zhaoying Pan<sup>\*</sup>, Jinge Ma<sup>\*</sup>, Luo Jie, Qiaozhu Mei. \\
-WebConf (WWW), 2023 (The Creative Web Track). \\
+The ACM Web Conference (WWW), 2023 (Creative Web Track). \\
 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3543507.3587430)\]
 [[arXiv](https://arxiv.org/abs/2303.04587)\]
 [[Code](https://github.com/zhaoyingpan/prompt_log_analysis)\] 
@@ -152,7 +154,7 @@ WebConf (WWW), 2023 (The Creative Web Track). \\
 
 1. [**Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection**](https://ojs.aaai.org/index.php/AAAI/article/view/20522) \\
 **Yutong Xie**<sup>\*</sup>, Ting Long<sup>\*</sup>, Xianyu Chen, Weinan Zhang, Qinxiang Cao, Yong Yu.\\
-AAAI, 2022. \\
+AAAI Conference on Artificial Intelligence (AAAI), 2022. \\
 [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20522/20281)\]
 [[arXiv](https://arxiv.org/abs/2202.12481)\]
 [[Code](https://github.com/githubg0/mvg)\] 
