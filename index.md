@@ -18,7 +18,7 @@ yutongxie98 AT gmail DOT com \\
 I am a Ph.D. candidate and a [Barbour Scholar](https://rackham.umich.edu/rackham-life/diversity-equity-and-inclusion/barbour-scholars/) at the [University of Michigan](https://umich.edu/) [School of Information](https://www.si.umich.edu), advised by [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/). 
 Prior to this, I received my Bachelor's degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) as a member of the [ACM Class](https://acm.sjtu.edu.cn/home), advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net).
 
-<span style="font-weight: bold; color: red;">I will be on the job market this year! If my research aligns with your interest or you know of any relevant opportunities, I would be more than happy to get in touch :). Please find my</span> [**CV here**](https://drive.google.com/file/d/17HsrAQy3KGlnQOSLAHNBNzqU2rVOJ3hI/view?usp=sharing). 
+<span style="font-weight: bold; color: red;">I will be on the job market this year! If my research aligns with your interest or you know of any relevant opportunities, I would be more than happy to get in touch :). Please find my</span> [**CV here**](https://drive.google.com/file/d/1VAOH52IN4Nn5o5b_IvXcgiqSbq2okLUf/view?usp=sharing). 
 
 ---
 
@@ -177,4 +177,4 @@ AAAI Conference on Artificial Intelligence (AAAI), 2022. \\
 <sup>\*</sup> = equal contribution
 
 <p style="color: grey; font-style: normal; text-align: right" >
-Last updated: Aug, 2025 <br>
+Last updated: Sep, 2025 <br>
