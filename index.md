@@ -18,23 +18,28 @@ yutongxie98 AT gmail DOT com \\
 I am a Ph.D. candidate and a [Barbour Scholar](https://rackham.umich.edu/rackham-life/diversity-equity-and-inclusion/barbour-scholars/) at the [University of Michigan](https://umich.edu/) [School of Information](https://www.si.umich.edu), advised by [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/). 
 Prior to this, I received my Bachelor's degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) as a member of the [ACM Class](https://acm.sjtu.edu.cn/home), advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net).
 
-<span style="font-weight: bold; color: red;">I will be on the job market this year! If my research aligns with your interest or you know of any relevant opportunities, I would be more than happy to get in touch :). Please find my</span> [**CV here**](https://drive.google.com/file/d/1VAOH52IN4Nn5o5b_IvXcgiqSbq2okLUf/view?usp=sharing). 
+<span style="font-weight: bold; color: red;">I am searching for academic jobs that start from Fall 2026! If my research aligns with your interest or you know of any relevant opportunities, I would be more than happy to get in touch :). Please find my</span> [**CV here**](https://drive.google.com/file/d/1VAOH52IN4Nn5o5b_IvXcgiqSbq2okLUf/view?usp=sharing). 
 
 ---
 
 ## RESEARCH
 
-My current research focuses on [<em>AI Behavioral Science</em>](#ai-behavioral-science), an emerging interdisciplinary field, whose core research questions have been discussed in our [perspective paper](https://papers.ssrn.com/abstract=5395006) and [recent workshops](https://ai-behavioral-science.github.io/). 
-Particularly, my interests include (but are not limited to) the following aspects:
+My research lies in the interdisciplinary field of [<em>AI Behavioral Science</em>](#ai-behavioral-science), with core research directions:
+<!-- an emerging interdisciplinary field, whose core research questions have been discussed in our [perspective paper](https://papers.ssrn.com/abstract=5395006) and [recent workshops](https://ai-behavioral-science.github.io/).  -->
+<!-- Particularly, my interests include (but are not limited to) the following aspects: -->
 <ul style="margin-top: -20px;margin-bottom: -10px;">
-<li>Understanding the behaviors exhibited by AI <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/10.1073/pnas.2313925121">PNAS'24</a>, <a href="https://arxiv.org/abs/2412.12362">AIBS'24</a>]</span>; </li>
-<li>Leveraging AI to understand human behaviors and facilitate behavioral science research <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/full/10.1073/pnas.2512075122">PNAS'25</a>]</span>; </li>
-<li>Aligning AI with human behaviors, objectives, and values <span style="font-size:11px;">[<a href="https://openreview.net/forum?id=6KM1siLL8a">Social Sim'25</a>]</span>; </li>
-<li>Foundation models for behavioral science (<a href="https://huggingface.co/befm">Be.FM</a>) <span style="font-size:11px;">[<a href="https://arxiv.org/abs/2505.23058">arXiv'25</a>]</span>. </li>
+<li>Assessing and guiding AI behavior using tools from behavioral science <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/10.1073/pnas.2313925121">PNAS'24</a>, <a href="https://arxiv.org/abs/2412.12362">AIBS'24</a>]</span>; </li>
+<li>Illuminating human actions and motivations with AI as a reflective and analytical lens <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/full/10.1073/pnas.2512075122">PNAS'25</a>]</span>; </li>
+<li>Investigating the dynamics of human-AI interaction and collaboration <span style="font-size:11px;">[<a href="https://openreview.net/forum?id=6KM1siLL8a">Social Sim'25</a>]</span>; </li>
+<!-- <li>Foundation models for behavioral science (<a href="https://huggingface.co/befm">Be.FM</a>) <span style="font-size:11px;">[<a href="https://arxiv.org/abs/2505.23058">arXiv'25</a>]</span>. </li> -->
 </ul>
 <!-- </p> -->
 
-In addition, I also have a general interest in: 
+I also develop behavioral foundation models (<a href="https://huggingface.co/befm">Be.FM</a>) that provide a shared scientific representation of behavior across humans and AI. 
+
+More broadly, I have a general interest in: 
+<!-- AI for Science and AI for Creativity.
+In addition, I also have a general interest in:  -->
 <ul style="margin-top: -20px;margin-bottom: 15px;">
 <li><a href="#ai-for-science-ai4science"><em>AI for Science</em></a>
 <span style="font-size:11px;">[<a href="https://aclanthology.org/2025.findings-naacl.127/">NAACL'25</a>, 
