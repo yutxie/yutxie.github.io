@@ -24,34 +24,43 @@ Prior to this, I received my Bachelor's degree from [Shanghai Jiao Tong Universi
 
 ## RESEARCH
 
-My research lies in the interdisciplinary field of [<em>AI Behavioral Science</em>](#ai-behavioral-science), with core research directions:
-<!-- an emerging interdisciplinary field, whose core research questions have been discussed in our [perspective paper](https://papers.ssrn.com/abstract=5395006) and [recent workshops](https://ai-behavioral-science.github.io/).  -->
+My research lies in the interdisciplinary field of [<em>AI Behavioral Science</em>](#ai-behavioral-science), with three core directions:
 <!-- Particularly, my interests include (but are not limited to) the following aspects: -->
-<ul style="margin-top: -20px;margin-bottom: -10px;">
+<ol style="margin-top: -20px;margin-bottom: -10px;">
 <li>Assessing and guiding AI behavior using tools from behavioral science <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/10.1073/pnas.2313925121">PNAS'24</a>, <a href="https://arxiv.org/abs/2412.12362">AIBS'24</a>]</span>; </li>
-<li>Illuminating human actions and motivations with AI as a reflective and analytical lens <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/full/10.1073/pnas.2512075122">PNAS'25</a>]</span>; </li>
-<li>Investigating the dynamics of human-AI interaction and collaboration <span style="font-size:11px;">[<a href="https://openreview.net/forum?id=6KM1siLL8a">Social Sim'25</a>]</span>; </li>
+<li>Simulating and interpreting human behavior with AI <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/full/10.1073/pnas.2512075122">PNAS'25</a>, <a href="https://openreview.net/forum?id=6KM1siLL8a">Social Sim'25</a>]</span>; </li>
+<li>Investigating the dynamics of human-AI collaboration and how they co-evolve with each other. </li>
+<!-- <span style="font-size:11px;">[]</span> -->
 <!-- <li>Foundation models for behavioral science (<a href="https://huggingface.co/befm">Be.FM</a>) <span style="font-size:11px;">[<a href="https://arxiv.org/abs/2505.23058">arXiv'25</a>]</span>. </li> -->
-</ul>
+</ol>
 <!-- </p> -->
 
-I also develop behavioral foundation models (<a href="https://huggingface.co/befm">Be.FM</a>) that provide a shared scientific representation of behavior across humans and AI. 
+I also develop behavioral foundation models (<a href="https://arxiv.org/pdf/2505.23058">Be.FM</a>), which aim to provide a shared scientific representation of behavior across humans and AI. Further details and community discussions about this emerging field can be found in our [perspective paper](https://papers.ssrn.com/abstract=5395006) and [recent workshops](https://ai-behavioral-science.github.io/).
 
-More broadly, I have a general interest in: 
-<!-- AI for Science and AI for Creativity.
-In addition, I also have a general interest in:  -->
-<ul style="margin-top: -20px;margin-bottom: 15px;">
+More broadly, I have a general interest in [<em>AI for Science</em>](#ai-for-science-ai4science) 
+<span style="font-size:11px;">[<a href="https://aclanthology.org/2025.findings-naacl.127/">NAACL'25</a>, 
+<!-- <a href="https://arxiv.org/abs/2412.09628">arXiv'24</a>, -->
+<a href="https://openreview.net/forum?id=Yo06F8kfMa1">ICLR'23</a>, 
+<a href="https://openreview.net/forum?id=kHSu4ebxFXY">ICLR'21</a>]</span> 
+and [<em>AI for Creativity</em>](#other-topics)
+<span style="font-size:11px;">[<a href="https://dl.acm.org/doi/abs/10.1145/3543507.3587430">WWW'23</a>]</span>.
+
+<!-- <ul style="margin-top: -20px;margin-bottom: 15px;">
 <li><a href="#ai-for-science-ai4science"><em>AI for Science</em></a>
 <span style="font-size:11px;">[<a href="https://aclanthology.org/2025.findings-naacl.127/">NAACL'25</a>, 
 <a href="https://arxiv.org/abs/2412.09628">arXiv'24</a>,
 <a href="https://openreview.net/forum?id=Yo06F8kfMa1">ICLR'23</a>, 
 <a href="https://openreview.net/forum?id=kHSu4ebxFXY">ICLR'21</a>]</span>; </li>
-<li><em>AI for Innovation and Creativity</em>
+<li><em>AI for Creativity</em>
 <span style="font-size:11px;">[<a href="https://dl.acm.org/doi/abs/10.1145/3543507.3587430">WWW'23</a>]</span>. </li> 
-</ul>
+</ul> -->
 
 <!-- For undergraduate and master students who find my research interesting and would like to work with me, please feel free to reach out! -->
 
+> <span style="font-weight: bold; color: red;">NEW! </span>
+Our paper on [using LLMs to decipher human behaviors](https://www.pnas.org/doi/full/10.1073/pnas.2512075122) is now published in PNAS! \\
+> <span style="font-weight: bold; color: red;">NEW! </span>
+Our [behavioral foundation models (Be.FM)](https://arxiv.org/pdf/2505.23058) are reported by [UofM News](https://news.umich.edu/ai-that-thinks-like-us-u-m-researchers-unveil-new-model-to-predict-human-behavior/)! \\
 > <span style="font-weight: bold; color: red;">CFP! </span>
 We just launched [a new research topic of AI Behavioral Science in the Frontiers in AI journal](https://www.frontiersin.org/research-topics/69861)! Look forward to your contributions and let's build the conversation together! (Submission deadline Sep 29, 2025)
 
@@ -63,20 +72,6 @@ We just launched [a new research topic of AI Behavioral Science in the Frontiers
 
 #### AI Behavioral Science
 
-1. [**Be.FM: Open Foundation Models for Human Behavior**](https://arxiv.org/abs/2505.23058) \\
-**Yutong Xie**<sup>\*</sup>, Zhuoheng Li<sup>\*</sup>, Xiyuan Wang<sup>\*</sup>, Yijun Pan, Qijia Liu, Xingzhi Cui, Kuang-Yu Lo, Ruoyi Gao, Xingjian Zhang, Jin Huang, Walter Yuan, Matthew O. Jackson, Qiaozhu Mei. \\
-[[PDF](https://arxiv.org/pdf/2505.23058)\]
-[[arXiv](https://arxiv.org/abs/2505.23058)\]
-[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5274559)\]
-[[Hugging Face](https://huggingface.co/befm)\]
-[[Access Request](https://forms.gle/DAvxJYReqg7midQn9)\]
-[[UMich News](https://news.umich.edu/ai-that-thinks-like-us-u-m-researchers-unveil-new-model-to-predict-human-behavior/)\]
-
-1. [**AI Behavioral Science**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395006) \\
-Matthew O. Jackson, Qiaozhu Mei, Stephanie Wang, **Yutong Xie**, Walter Yuan, Seth G. Benzell, Erik Brynjolfsson, Colin Camerer, James A. Evans, Brian Jabarian, Jon Kleinberg, Juanjuan Meng, Sendhil Mullainathan, Asuman E. Ozdaglar, Thomas Pfeiffer, Moshe Tennenholtz, Robb Willer, Diyi Yang, Teng Ye. \\
-Manuscript in submission. \\
-[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395006)\]
-
 1. [**Using large language models to categorize strategic situations and decipher motivations behind human behaviors**](https://www.pnas.org/doi/full/10.1073/pnas.2512075122) \\
 **Yutong Xie**, Qiaozhu Mei, Walter Yuan, Matthew O. Jackson. \\
 Proceedings of the National Academy of Sciences of the United States of America (PNAS), 2025. \\
@@ -85,20 +80,16 @@ Proceedings of the National Academy of Sciences of the United States of America 
 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5185865)\]
 [[Code](https://github.com/yutxie/llm-behavioral-codes)\]
 [[Slides](https://drive.google.com/file/d/1si3lwqvA69tVEHREpxbgSjBjwQu-kxKa/view?usp=sharing)\]
-<!-- [[Code]()\] -->
 
-1. [**Distributional Alignment for Social Simulation with LLMs: A Prompt Mixture Modeling Approach**](https://openreview.net/forum?id=6KM1siLL8a) \\
-**Yutong Xie**<sup>\*</sup>, Ruoyi Gao<sup>\*</sup>, Qiaozhu Mei. \\
-The First Workshop on Social Simulation with LLMs (Social Sim) at COLM, 2025. \\
-[[PDF](https://openreview.net/pdf?id=6KM1siLL8a)\]
 
-1. [**How Different AI Chatbots Behave? Benchmarking Large Language Models in Behavioral Economics Games**](https://arxiv.org/abs/2412.12362) \\
-**Yutong Xie**, Yiyao Liu, Zhuang Ma, Lin Shi, Xiyuan Wang, Walter Yuan, Matthew O. Jackson, Qiaozhu Mei. \\
-The First Workshop on AI Behavioral Science (AIBS) at KDD, 2024. \\
-[[PDF](https://arxiv.org/pdf/2412.12362)\]
-[[arXiv](https://arxiv.org/abs/2412.12362)\]
-<!-- [[Code]()\] -->
-[[Slides](https://drive.google.com/file/d/1-DahTc0Ps-X3jvgeEGev6BMBB7hrDZco/view?usp=sharing)\]
+1. [**Be.FM: Open Foundation Models for Human Behavior**](https://arxiv.org/abs/2505.23058) \\
+**Yutong Xie**<sup>\*</sup>, Zhuoheng Li<sup>\*</sup>, Xiyuan Wang<sup>\*</sup>, Yijun Pan, Qijia Liu, Xingzhi Cui, Kuang-Yu Lo, Ruoyi Gao, Xingjian Zhang, Jin Huang, Walter Yuan, Matthew O. Jackson, Qiaozhu Mei. \\
+[[PDF](https://arxiv.org/pdf/2505.23058)\]
+[[arXiv](https://arxiv.org/abs/2505.23058)\]
+[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5274559)\]
+[[Hugging Face](https://huggingface.co/befm)\]
+[[Access Request](https://forms.gle/DAvxJYReqg7midQn9)\]
+[[UMich News](https://news.umich.edu/ai-that-thinks-like-us-u-m-researchers-unveil-new-model-to-predict-human-behavior/)\]
 
 1. [**A Turing test of whether AI chatbots are behaviorally similar to humans**](https://www.pnas.org/doi/10.1073/pnas.2313925121) \\
 Qiaozhu Mei, **Yutong Xie**, Walter Yuan, Matthew O. Jackson. \\
@@ -111,6 +102,24 @@ Proceedings of the National Academy of Sciences of the United States of America 
 [[UMich News](https://news.umich.edu/chatgpt-acts-more-altruistically-cooperatively-than-humans/)\] 
 [[Stanford News](https://humsci.stanford.edu/feature/study-finds-chatgpts-latest-bot-behaves-humans-only-better)\] 
 [[Swarma Club](https://pattern.swarma.org/study_group_issue/640)\]
+[[Follow-up Study](https://arxiv.org/abs/2412.12362)\]
+
+1. [**AI Behavioral Science**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395006) (perspective paper) \\
+Matthew O. Jackson, Qiaozhu Mei, Stephanie Wang, **Yutong Xie**, Walter Yuan, Seth G. Benzell, Erik Brynjolfsson, Colin Camerer, James A. Evans, Brian Jabarian, Jon Kleinberg, Juanjuan Meng, Sendhil Mullainathan, Asuman E. Ozdaglar, Thomas Pfeiffer, Moshe Tennenholtz, Robb Willer, Diyi Yang, Teng Ye. \\
+Manuscript in submission. \\
+[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395006)\]
+
+<!-- 1. [**Distributional Alignment for Social Simulation with LLMs: A Prompt Mixture Modeling Approach**](https://openreview.net/forum?id=6KM1siLL8a) \\
+**Yutong Xie**<sup>\*</sup>, Ruoyi Gao<sup>\*</sup>, Qiaozhu Mei. \\
+The First Workshop on Social Simulation with LLMs (Social Sim) at COLM, 2025. \\
+[[PDF](https://openreview.net/pdf?id=6KM1siLL8a)\] -->
+
+<!-- 1. [**How Different AI Chatbots Behave? Benchmarking Large Language Models in Behavioral Economics Games**](https://arxiv.org/abs/2412.12362) \\
+**Yutong Xie**, Yiyao Liu, Zhuang Ma, Lin Shi, Xiyuan Wang, Walter Yuan, Matthew O. Jackson, Qiaozhu Mei. \\
+The First Workshop on AI Behavioral Science (AIBS) at KDD, 2024. \\
+[[PDF](https://arxiv.org/pdf/2412.12362)\]
+[[arXiv](https://arxiv.org/abs/2412.12362)\]
+[[Slides](https://drive.google.com/file/d/1-DahTc0Ps-X3jvgeEGev6BMBB7hrDZco/view?usp=sharing)\] -->
 
 #### AI for Science (AI4Science)
 
