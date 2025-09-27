@@ -18,8 +18,6 @@ yutongxie98 AT gmail DOT com \\
 I am a Ph.D. candidate and a [Barbour Scholar](https://rackham.umich.edu/rackham-life/diversity-equity-and-inclusion/barbour-scholars/) at the [University of Michigan](https://umich.edu/) [School of Information](https://www.si.umich.edu), advised by [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/). 
 Prior to this, I received my Bachelor's degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) as a member of the [ACM Class](https://acm.sjtu.edu.cn/home), advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net).
 
-<span style="font-weight: bold; color: red;">I am searching for academic jobs that start from Fall 2026! If my research aligns with your interest or you know of any relevant opportunities, I would be more than happy to get in touch :). Please find my</span> [**CV here**](https://drive.google.com/file/d/1VAOH52IN4Nn5o5b_IvXcgiqSbq2okLUf/view?usp=sharing). 
-
 ---
 
 ## RESEARCH
@@ -54,6 +52,8 @@ and [<em>AI for Creativity</em>](#other-topics)
 <li><em>AI for Creativity</em>
 <span style="font-size:11px;">[<a href="https://dl.acm.org/doi/abs/10.1145/3543507.3587430">WWW'23</a>]</span>. </li> 
 </ul> -->
+
+<span style="font-weight: bold; color: red;">I am searching for academic jobs that start from Fall 2026! If my research aligns with your interest or you know of any relevant opportunities, I would be more than happy to get in touch :). Please find my</span> [**CV here**](https://drive.google.com/file/d/1VAOH52IN4Nn5o5b_IvXcgiqSbq2okLUf/view?usp=sharing). 
 
 <!-- For undergraduate and master students who find my research interesting and would like to work with me, please feel free to reach out! -->
 
