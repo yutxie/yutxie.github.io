@@ -31,8 +31,8 @@ My research lies in [`AI Behavioral Science`](/aibs), with three core directions
 
 I also develop behavioral foundation models ([Be.FM](https://arxiv.org/pdf/2505.23058)), which aim to provide a shared scientific representation of behavior across humans and AI. Further details and community discussions about this emerging field can be found in our [perspective paper](https://papers.ssrn.com/abstract=5395006) and [recent workshops](https://ai-behavioral-science.github.io/).
 
-More broadly, I have a general interest in [`AI for Science`](#ai-for-science-ai4science) [[NAACL'25](https://aclanthology.org/2025.findings-naacl.127/), [ICLR'23](https://openreview.net/forum?id=Yo06F8kfMa1), [ICLR'21](https://openreview.net/forum?id=kHSu4ebxFXY)]
-and [`AI for Creativity`](#other-topics) [[WWW'23](https://dl.acm.org/doi/abs/10.1145/3543507.3587430)].
+More broadly, I have a general interest in `AI for Science` [[NAACL'25](https://aclanthology.org/2025.findings-naacl.127/), [ICLR'23](https://openreview.net/forum?id=Yo06F8kfMa1), [ICLR'21](https://openreview.net/forum?id=kHSu4ebxFXY)]
+and `AI for Creativity` [[WWW'23](https://dl.acm.org/doi/abs/10.1145/3543507.3587430)].
 
 > <span style="font-weight: bold; color: red;">I am searching for academic jobs that start from Fall 2026! If my research aligns with your interest or you know of any relevant opportunities, I would be more than happy to get in touch :). Please find my</span> [**CV here**](https://drive.google.com/file/d/1VAOH52IN4Nn5o5b_IvXcgiqSbq2okLUf/view?usp=sharing). 
 
