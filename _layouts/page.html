@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{%-include back_link.html-%}
+
+{% if page.show_title != false %}
+  <h1>{{ page.title }}</h1>
+{% endif %}
+
+{{ content }}

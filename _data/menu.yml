@@ -1,0 +1,49 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: this is the homepage for Yutong Xie 
+      - title: learn more <a href='/'>about me and my research</a>
+
+  - title: pages
+    entries:
+      - title: bio
+        url: bio
+      - title: miscellaneous
+        url: misc
+
+  # - title: all posts
+  #   post_list:
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: See archive...
+  #     show_more_url: archive.html
+
+  # - title: posts by category
+  #   post_list:
+  #     category: example2
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: example2-archive.html
+
+  - title: acknowledgement
+    entries:
+      - title: the site is built with <a href='https://github.com/riggraz/no-style-please'>no style, please!</a>
+      - title: and i'm lovin' it
+
+  # - title: rss
+  #   url: feed.xml
+  
+  # - title: another list
+  #   entries:
+  #     - title: with subitems
+  #       entries:
+  #         - title: with subsubitems
+  #         - title: example page
+  #           url: about
+
+  # - title: PRO TIP
+  #   entries:
+  #     - title: to edit this menu, edit _data/menu.yml file
