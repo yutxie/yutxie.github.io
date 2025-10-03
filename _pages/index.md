@@ -27,7 +27,7 @@ My research lies in [`AI Behavioral Science`](/aibs), with three core directions
 
 1. Assessing and guiding AI behavior using tools from behavioral science [[PNAS'24](https://www.pnas.org/doi/10.1073/pnas.2313925121), [AIBS'24](https://arxiv.org/abs/2412.12362)];
 2. Simulating and interpreting human behavior with AI [[PNAS'25](https://www.pnas.org/doi/full/10.1073/pnas.2512075122), [Social Sim'25](https://openreview.net/forum?id=6KM1siLL8a)];
-3. Investigating the dynamics of human-AI collaboration and how they co-evolve with each other.
+3. Analyzing and fostering human-AI collaboration as well as their coevolution.
 
 I also develop behavioral foundation models ([Be.FM](https://arxiv.org/pdf/2505.23058)), which aim to provide a shared scientific representation of behavior across humans and AI. Further details and community discussions about this emerging field can be found in our [perspective paper](https://papers.ssrn.com/abstract=5395006) and [recent workshops](https://ai-behavioral-science.github.io/).
 
@@ -38,6 +38,8 @@ and `AI for Creativity` [[WWW'23](https://dl.acm.org/doi/abs/10.1145/3543507.358
 
 <!-- For undergraduate and master students who find my research interesting and would like to work with me, please feel free to reach out! -->
 
+> <span style="font-weight: bold; color: red;">NEW! </span>
+I will be attending the [Rising Stars in EECS Workshop](https://risingstars-eecs.mit.edu/) at MIT on Oct 30-31! Happy to connect :) \\
 > <span style="font-weight: bold; color: red;">NEW! </span>
 Our paper on [using LLMs to decipher human behaviors](https://www.pnas.org/doi/full/10.1073/pnas.2512075122) is now published in PNAS! \\
 > <span style="font-weight: bold; color: red;">NEW! </span>
