@@ -5,38 +5,43 @@ title: Yutong Xie
 # show_title: false
 ---
 
-<img align="right" src="assets/img/IMG_4342.jpg" style="margin-left:40px; margin-bottom:20px; margin-top:0px; border:1.5px solid #000000ff;border-radius:0px; max-width:200px; width:20%; height:auto">
+<img align="right" src="assets/img/IMG_4342.jpg" style="margin-left:40px; margin-bottom:20px; margin-top:0px; border:1.5px solid #000000ff;border-radius:0px; max-width:200px; width:25%; height:auto">
 
-I am a Ph.D. candidate and a [Barbour Scholar](https://rackham.umich.edu/rackham-life/diversity-equity-and-inclusion/barbour-scholars/) at the [University of Michigan](https://umich.edu/) [School of Information](https://www.si.umich.edu), advised by [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/). 
-Prior to this, I received my Bachelor's degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) as a member of the [ACM Class](https://acm.sjtu.edu.cn/home), advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net).
+I am a Ph.D. candidate and a [Barbour Scholar](https://rackham.umich.edu/rackham-life/diversity-equity-and-inclusion/barbour-scholars/) at the [University of Michigan](https://umich.edu/) [School of Information](https://www.si.umich.edu), advised by [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/) in the [Foreseer Group](https://umich-foreseer.github.io/). I was selected as a [Rising Star in EECS](https://risingstars-eecs.mit.edu/) in 2025. 
+<!-- Prior to this,  -->
+Before studying at UMich, I received my Bachelor's degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) as a member of the [ACM Class](https://acm.sjtu.edu.cn/home), advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net).
 
-> Email: yutxie AT umich DOT edu \\
 > Links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ),
 [LinkedIn](https://www.linkedin.com/in/yutxie),
 [Twitter](https://twitter.com/yutxie),
 [Github](https://github.com/yutxie),
-[CV](https://drive.google.com/file/d/1VAOH52IN4Nn5o5b_IvXcgiqSbq2okLUf/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1VAOH52IN4Nn5o5b_IvXcgiqSbq2okLUf/view?usp=sharing) \\
+> Email: yutxie AT umich DOT edu 
 
-Jump to: [RESEARCH](#research) / [PUBLICATIONS](#selected-publications) / [BIO](/bio)
+> <span style="font-weight: bold; color: red;">I am searching for academic jobs that start from Fall 2026! If my research aligns with your interest or you know of any relevant opportunities, I would be more than happy to get in touch :). Please find my</span> [**CV here**](https://drive.google.com/file/d/1VAOH52IN4Nn5o5b_IvXcgiqSbq2okLUf/view?usp=sharing). 
+
+Jump to: [RESEARCH](#research) / [NEWS](#news) / [PUBLICATIONS](#selected-papers) / [BIO](/bio)
 
 ---
 
 ## RESEARCH
 
-My research lies in [`AI Behavioral Science`](/aibs), with three core directions:
+My research lies in `AI Behavioral Science`, with three core directions:
 
 1. Assessing and guiding AI behavior using tools from behavioral science [[PNAS'24](https://www.pnas.org/doi/10.1073/pnas.2313925121), [AIBS'24](https://arxiv.org/abs/2412.12362)];
 2. Simulating and interpreting human behavior with AI [[PNAS'25](https://www.pnas.org/doi/full/10.1073/pnas.2512075122), [Social Sim'25](https://openreview.net/forum?id=6KM1siLL8a)];
 3. Analyzing and fostering human-AI collaboration as well as their coevolution.
 
-I also develop behavioral foundation models ([Be.FM](https://arxiv.org/pdf/2505.23058)), which aim to provide a shared scientific representation of behavior across humans and AI. Further details and community discussions about this emerging field can be found in our [perspective paper](https://papers.ssrn.com/abstract=5395006) and [recent workshops](https://ai-behavioral-science.github.io/).
+I also develop behavioral foundation models ([Be.FM](https://arxiv.org/pdf/2505.23058)), which aim to support a wide range of behavioral tasks across disciplines. Further details and community discussions about this emerging field can be found in our [perspective paper](https://papers.ssrn.com/abstract=5395006) and [recent workshops](https://ai-behavioral-science.github.io/).
 
 More broadly, I have a general interest in `AI for Science` [[NAACL'25](https://aclanthology.org/2025.findings-naacl.127/), [ICLR'23](https://openreview.net/forum?id=Yo06F8kfMa1), [ICLR'21](https://openreview.net/forum?id=kHSu4ebxFXY)]
 and `AI for Creativity` [[WWW'23](https://dl.acm.org/doi/abs/10.1145/3543507.3587430)].
 
-> <span style="font-weight: bold; color: red;">I am searching for academic jobs that start from Fall 2026! If my research aligns with your interest or you know of any relevant opportunities, I would be more than happy to get in touch :). Please find my</span> [**CV here**](https://drive.google.com/file/d/1VAOH52IN4Nn5o5b_IvXcgiqSbq2okLUf/view?usp=sharing). 
-
 <!-- For undergraduate and master students who find my research interesting and would like to work with me, please feel free to reach out! -->
+
+---
+
+## NEWS
 
 > <span style="font-weight: bold; color: red;">NEW! </span>
 I will be attending the [Rising Stars in EECS Workshop](https://risingstars-eecs.mit.edu/) at MIT on Oct 30-31! Happy to connect :) \\
@@ -49,7 +54,7 @@ We just launched [a new research topic of AI Behavioral Science in the Frontiers
 
 ---
 
-## SELECTED PUBLICATIONS
+## SELECTED PAPERS
 
 [AI Behavioral Science](#ai-behavioral-science) / [AI for Science](#ai-for-science-ai4science) / [Other Topics](#other-topics) 
 
@@ -176,4 +181,4 @@ AAAI Conference on Artificial Intelligence (AAAI), 2022. \\
 <sup>\*</sup> = equal contribution
 
 <p style="color: grey; font-style: normal; text-align: right" >
-Last Updated: Oct, 2025 <br>
+Last updated: Nov, 2025 <br>

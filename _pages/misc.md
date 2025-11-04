@@ -28,11 +28,11 @@ What Might [@Yutong](/) Be Doing 🤔
 * Playing 🎮, e.g., 
 [<span style="color: #DAAC42; font-family: Arial Rounded MT Bold; font-size: 16px"> ***norco*** </span>](http://norcogame.com/), 
 [<span style="color: white;"> <span style="font-family: SF Distant Galaxy;"> **STAR WARS** </span> <span style="font-family: Times New Roman, narrow;"> JEDI: FALLEN ORDER </span> </span>](https://www.ea.com/games/starwars/jedi/jedi-fallen-order)
-* Taking pictures 📸 (come check my [<span style="color: white"><span style="font-family: Apple Chancery">**portfolio**</span></span>](https://umbicico.myportfolio.com/))
+* Taking pictures 📸 (come check my [<span style="color: white"><span style="font-family: Apple Chancery">**portfolio**</span></span>](https://umbicico.myportfolio.com/) and [<span style="color: white"><span style="font-family: Apple Chancery">**first album**</span></span>](https://drive.google.com/file/d/1Kg7-nW1V4jD2BXDqupYDuFTuklQgpDtT/view?usp=sharing))
 <!-- * Taking pictures 📸 (come check this [<span style="color: white"><i class="fab fa-instagram"></i> <span style="font-family: Apple Chancery">**Instagram**</span> </span>](https://www.instagram.com/umbucico) account) -->
 
-<p style="color: grey; font-style: normal; text-align: right" >
-Last updated on Mar. 2, 2023 </p>
+<!-- <p style="color: grey; font-style: normal; text-align: right" >
+Last updated on Mar. 2, 2023 </p> -->
 
 <span style="font-size:24px; font-weight: bold">**
 Some Boring Facts 🥱
@@ -47,8 +47,8 @@ Some Boring Facts 🥱
     Remedy games,  -->
     [<span style="font-family: Chalkduster, fantasy; color: white;"> LIFE IS <i class="fa fa-peace" style="color: #C130B1;"></i> STRANGE: BEFORE THE STORM</span>](https://www.square-enix-games.com/en_US/games/life-is-strange-before-the-storm), 
     [<span style="font-family: Times New Roman; color: white;"> ASSASSIN'S <span style="color: #BF1716">CREED</span></span>](https://www.ubisoft.com/en-us/game/assassins-creed), *etc.*
-    * Films 🎬: films directed by Ryusuke Hamaguchi, Satoshi Kon, Ang Lee, Edward Yang, Wes Anderson, ... and many many others!
-    * Series 📺: Ghost in the Shell S.A.C. 2nd GIG, Cowboy Bebop, Neon Genesis Evangelion, Twin Peaks, Monster, *etc.*
+    * Film directors 🎬: Ryusuke Hamaguchi, Satoshi Kon, Ang Lee, Edward Yang, Wes Anderson, ... and many many others!
+    <!-- * Series 📺: Ghost in the Shell S.A.C. 2nd GIG, Cowboy Bebop, Neon Genesis Evangelion, Twin Peaks, Monster, *etc.* -->
     * Music artists or bands 🎧: <span style="color: grey">Under construction 🚧 ...</span>
     * Photography artists 📷: <span style="color: grey">Under construction 🚧 ...</span>
 * This page can be updated *from time to time* (or NEVER) 
@@ -56,7 +56,7 @@ Some Boring Facts 🥱
 <!-- <span style="color: grey">Under construction 🚧 ...</span> -->
 
 <p style="color: grey; font-style: normal; text-align: right" >
-Last updated on Mar. 12, 2024 <br>
+Last updated: Someday sometime  <br>
 
 <!-- ------- -->
 
