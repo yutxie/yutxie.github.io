@@ -29,7 +29,7 @@ Jump to: [RESEARCH](#research) / [NEWS](#news) / [PUBLICATIONS](#selected-papers
 My research lies in `AI Behavioral Science`, with three core directions:
 
 1. Assessing and guiding AI behavior using tools from behavioral science [[PNAS'24](https://www.pnas.org/doi/10.1073/pnas.2313925121), [AIBS'24](https://arxiv.org/abs/2412.12362)];
-2. Simulating and interpreting human behavior with AI [[PNAS'25](https://www.pnas.org/doi/full/10.1073/pnas.2512075122), [Social Sim'25](https://openreview.net/forum?id=6KM1siLL8a)];
+2. Interpreting and simulating human behavior with AI [[PNAS'25](https://www.pnas.org/doi/full/10.1073/pnas.2512075122), [Social Sim'25](https://openreview.net/forum?id=6KM1siLL8a)];
 3. Analyzing and fostering human-AI collaboration as well as their coevolution.
 
 I also develop behavioral foundation models ([Be.FM](https://arxiv.org/pdf/2505.23058)), which aim to support a wide range of behavioral tasks across disciplines. Further details and community discussions about this emerging field can be found in our [perspective paper](https://papers.ssrn.com/abstract=5395006) and [recent workshops](https://ai-behavioral-science.github.io/).
