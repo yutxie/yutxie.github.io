@@ -11,8 +11,8 @@ entries:
     entries:
       - title: bio
         url: bio
-      - title: miscellaneous
-        url: misc
+      # - title: miscellaneous
+      #   url: misc
       - title: album
         url: album
 
