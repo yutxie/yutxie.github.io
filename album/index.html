@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>photos</title>
+  <title>album</title>
   <style>
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
     html, body { width: 100%; height: 100%; background: #000; overflow: hidden; }
@@ -100,6 +100,15 @@
       text-decoration: none;
     }
     #mobile-toggle-row a:hover { color: #ccc; }
+
+    /* Start hint */
+    #mob-start-hint {
+      display: none;
+      font-size: 0.65rem;
+      color: #555;
+      font-family: 'Courier New', monospace;
+      margin-top: 4px;
+    }
 
     /* Rotate hint */
     #mob-rotate-hint {
@@ -212,6 +221,7 @@
     <div id="mob-history-grid"></div>
     <div id="mobile-toggle-row"></div>
     <div id="history-bar"></div>
+    <p id="mob-start-hint">click → at the bottom to start</p>
     <p id="mob-rotate-hint">enable auto-rotate for better experience</p>
     <button id="btn-welcome-clear" class="mob-btn">↺</button>
     <button id="btn-welcome-next"  class="mob-btn">→</button>
@@ -324,6 +334,7 @@
     const mobileControls      = document.getElementById('mobile-controls');
     const mobHeartIcon        = document.getElementById('mob-heart-icon');
     const mobLoveCount        = document.getElementById('mob-love-count');
+    const mobStartHint        = document.getElementById('mob-start-hint');
     const mobRotateHint       = document.getElementById('mob-rotate-hint');
     const btnWelcomeClear     = document.getElementById('btn-welcome-clear');
     const btnWelcomeNext      = document.getElementById('btn-welcome-next');
@@ -415,12 +426,14 @@
           historyBar.style.display        = 'none';
           rebuildMobHistoryGrid();
           mobHistoryGrid.style.display    = 'grid';
+          mobStartHint.style.display      = 'block';
           mobRotateHint.style.display     = 'block';
           btnWelcomeClear.style.display   = stack.length > 0 ? 'block' : 'none';
           btnWelcomeNext.style.display    = 'block';
         } else {
           welcomeShortcuts.style.display  = '';
           mobHistoryGrid.style.display    = 'none';
+          mobStartHint.style.display      = 'none';
           mobRotateHint.style.display     = 'none';
           btnWelcomeClear.style.display   = 'none';
           btnWelcomeNext.style.display    = 'none';
