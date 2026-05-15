@@ -17,3 +17,21 @@ const THANKYOU_HINT = [
   { label: '←',     desc: 'last photo' },
   { label: 'space', desc: 'back to welcome' },
 ];
+
+const MOBILE_BUTTON_ROWS = [
+  { label: '→', desc: 'random jump / next in chain' },
+  { label: '←', desc: 'previous in chain' },
+  { label: '♥', desc: 'love / unlove this photo' },
+  { label: '⌂', desc: 'back to welcome screen' },
+  { label: '↺', desc: 'clear history chain' },
+];
+
+const DESKTOP_HINTS = [
+  'press → on keyboard to start',
+  'enter fullscreen for better experience',
+];
+
+const MOBILE_HINTS = [
+  'tap → at the bottom right corner to start',
+  'enable auto-rotate for better experience',
+];

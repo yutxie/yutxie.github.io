@@ -101,22 +101,17 @@
     }
     #mobile-toggle-row a:hover { color: #ccc; }
 
-    /* Start hint */
-    #mob-start-hint {
-      display: none;
-      font-size: 0.65rem;
-      color: #555;
-      font-family: 'Courier New', monospace;
-      margin-top: 4px;
-    }
+    /* Mobile welcome button descriptions */
+    #mob-welcome-shortcuts { display: none; flex-direction: column; gap: 6px; }
 
-    /* Rotate hint */
-    #mob-rotate-hint {
+    /* Welcome hints — shared style for desktop and mobile */
+    #welcome-hints, #mob-welcome-hints {
       display: none;
       font-size: 0.65rem;
       color: #555;
       font-family: 'Courier New', monospace;
-      margin-top: 4px;
+      text-align: center;
+      line-height: 1.8;
     }
 
     /* Shared mobile button style */
@@ -218,11 +213,12 @@
   <div id="welcome">
     <p class="screen-title">welcome</p>
     <div id="welcome-shortcuts"></div>
+    <div id="mob-welcome-shortcuts"></div>
     <div id="mob-history-grid"></div>
-    <div id="mobile-toggle-row"></div>
     <div id="history-bar"></div>
-    <p id="mob-start-hint">click → at the bottom to start</p>
-    <p id="mob-rotate-hint">enable auto-rotate for better experience</p>
+    <div id="welcome-hints"></div>
+    <div id="mob-welcome-hints"></div>
+    <div id="mobile-toggle-row"></div>
     <button id="btn-welcome-clear" class="mob-btn">↺</button>
     <button id="btn-welcome-next"  class="mob-btn">→</button>
   </div>
@@ -299,9 +295,16 @@
       row.appendChild(k); row.appendChild(d);
       return row;
     }
-    function buildShortcutRows(container) {
+    function buildShortcutRows(container, rows) {
       container.innerHTML = '';
-      SHORTCUT_ROWS.forEach(({ label, desc, dim }) => container.appendChild(kbdRow(label, desc, dim)));
+      (rows || SHORTCUT_ROWS).forEach(({ label, desc, dim }) => container.appendChild(kbdRow(label, desc, dim)));
+    }
+    function buildDesktopHints(container, hints) {
+      container.innerHTML = '';
+      (hints || DESKTOP_HINTS).forEach(text => {
+        const p = document.createElement('p'); p.textContent = text;
+        container.appendChild(p);
+      });
     }
     function buildThankyouHint() {
       const hint = document.getElementById('thankyou-hint');
@@ -317,6 +320,9 @@
     }
     buildShortcutRows(document.getElementById('welcome-shortcuts'));
     buildShortcutRows(document.getElementById('cheatsheet-shortcuts'));
+    buildShortcutRows(document.getElementById('mob-welcome-shortcuts'), MOBILE_BUTTON_ROWS);
+    buildDesktopHints(document.getElementById('welcome-hints'));
+    buildDesktopHints(document.getElementById('mob-welcome-hints'), MOBILE_HINTS);
     buildThankyouHint();
 
     // DOM refs
@@ -334,8 +340,9 @@
     const mobileControls      = document.getElementById('mobile-controls');
     const mobHeartIcon        = document.getElementById('mob-heart-icon');
     const mobLoveCount        = document.getElementById('mob-love-count');
-    const mobStartHint        = document.getElementById('mob-start-hint');
-    const mobRotateHint       = document.getElementById('mob-rotate-hint');
+    const mobWelcomeHints     = document.getElementById('mob-welcome-hints');
+    const mobWelcomeShortcuts = document.getElementById('mob-welcome-shortcuts');
+    const welcomeHints        = document.getElementById('welcome-hints');
     const btnWelcomeClear     = document.getElementById('btn-welcome-clear');
     const btnWelcomeNext      = document.getElementById('btn-welcome-next');
     const mobThankyouControls = document.getElementById('mob-thankyou-controls');
@@ -423,22 +430,24 @@
         const welcomeShortcuts = document.getElementById('welcome-shortcuts');
         if (mobile) {
           welcomeShortcuts.style.display  = 'none';
+          mobWelcomeShortcuts.style.display = 'flex';
           historyBar.style.display        = 'none';
+          welcomeHints.style.display      = 'none';
           rebuildMobHistoryGrid();
           mobHistoryGrid.style.display    = 'grid';
-          mobStartHint.style.display      = 'block';
-          mobRotateHint.style.display     = 'block';
+          mobWelcomeHints.style.display   = 'block';
           btnWelcomeClear.style.display   = stack.length > 0 ? 'block' : 'none';
           btnWelcomeNext.style.display    = 'block';
         } else {
           welcomeShortcuts.style.display  = '';
+          mobWelcomeShortcuts.style.display = 'none';
           mobHistoryGrid.style.display    = 'none';
-          mobStartHint.style.display      = 'none';
-          mobRotateHint.style.display     = 'none';
+          mobWelcomeHints.style.display   = 'none';
           btnWelcomeClear.style.display   = 'none';
           btnWelcomeNext.style.display    = 'none';
           rebuildHistoryBar();
           historyBar.style.display        = '';
+          welcomeHints.style.display      = 'block';
         }
         updateMobileToggle();
         updateHeart();
