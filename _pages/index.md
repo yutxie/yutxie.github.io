@@ -18,7 +18,7 @@ Before studying at UMich, I received my Bachelor's degree from [Shanghai Jiao To
 [CV](https://drive.google.com/file/d/1VAOH52IN4Nn5o5b_IvXcgiqSbq2okLUf/view?usp=sharing) \\
 > Email: yutxie AT umich DOT edu 
 
-> <span style="font-weight: bold; color: red;">I am searching for academic jobs that start from Fall 2026! If my research aligns with your interest or you know of any relevant opportunities, I would be more than happy to get in touch :). Please find my</span> [**CV here**](https://drive.google.com/file/d/1VAOH52IN4Nn5o5b_IvXcgiqSbq2okLUf/view?usp=sharing). 
+<!-- > <span style="font-weight: bold; color: red;">I am searching for academic jobs that start from Fall 2026! If my research aligns with your interest or you know of any relevant opportunities, I would be more than happy to get in touch :). Please find my</span> [**CV here**](https://drive.google.com/file/d/1VAOH52IN4Nn5o5b_IvXcgiqSbq2okLUf/view?usp=sharing).  -->
 
 Jump to: [RESEARCH](#research) / [NEWS](#news) / [PUBLICATIONS](#selected-papers) / [BIO](/bio)
 

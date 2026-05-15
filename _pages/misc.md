@@ -28,7 +28,8 @@ What Might [@Yutong](/) Be Doing 🤔
 * Playing 🎮, e.g., 
 [<span style="color: #DAAC42; font-family: Arial Rounded MT Bold; font-size: 16px"> ***norco*** </span>](http://norcogame.com/), 
 [<span style="color: white;"> <span style="font-family: SF Distant Galaxy;"> **STAR WARS** </span> <span style="font-family: Times New Roman, narrow;"> JEDI: FALLEN ORDER </span> </span>](https://www.ea.com/games/starwars/jedi/jedi-fallen-order)
-* Taking pictures 📸 (come check my [<span style="color: white"><span style="font-family: Apple Chancery">**portfolio**</span></span>](https://umbicico.myportfolio.com/) and [<span style="color: white"><span style="font-family: Apple Chancery">**first album**</span></span>](https://drive.google.com/file/d/1Kg7-nW1V4jD2BXDqupYDuFTuklQgpDtT/view?usp=sharing))
+* Taking pictures 📸 (come check my [<span style="color: white"><span style="font-family: Apple Chancery">**album**</span></span>](/album)) 
+<!-- and [<span style="color: white"><span style="font-family: Apple Chancery">**first album**</span></span>](https://drive.google.com/file/d/1Kg7-nW1V4jD2BXDqupYDuFTuklQgpDtT/view?usp=sharing)) -->
 <!-- * Taking pictures 📸 (come check this [<span style="color: white"><i class="fab fa-instagram"></i> <span style="font-family: Apple Chancery">**Instagram**</span> </span>](https://www.instagram.com/umbucico) account) -->
 
 <!-- <p style="color: grey; font-style: normal; text-align: right" >

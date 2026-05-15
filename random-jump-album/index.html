@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>photos</title>
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body { width: 100%; height: 100%; background: #000; overflow: hidden; }
+
+    #welcome, #cheatsheet, #thankyou {
+      position: absolute;
+      inset: 0;
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      font-family: 'Courier New', monospace;
+    }
+
+    #cheatsheet { background: rgba(0,0,0,0.82); }
+
+    .screen-title { font-size: 1rem; color: #fff; margin-bottom: 4px; }
+
+    .row {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .label { font-size: 0.85rem; color: #666; }
+    .dim   { font-size: 0.85rem; color: #444; }
+
+    kbd {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 22px;
+      padding: 1px 6px;
+      border: 1px solid #444;
+      border-radius: 4px;
+      font-family: 'Courier New', monospace;
+      font-size: 0.85rem;
+      color: #ccc;
+      background: #111;
+    }
+
+    /* Desktop history bar — horizontal strip */
+    #history-bar {
+      position: absolute;
+      bottom: 48px; left: 0; right: 0;
+      display: flex;
+      flex-direction: row;
+      gap: 12px;
+      padding: 0 48px 10px;
+      overflow-x: auto;
+      scrollbar-width: thin;
+      scrollbar-color: #444 transparent;
+    }
+    #history-bar::-webkit-scrollbar         { height: 4px; }
+    #history-bar::-webkit-scrollbar-track   { background: transparent; }
+    #history-bar::-webkit-scrollbar-thumb   { background: #444; border-radius: 2px; }
+    #history-bar img {
+      width: 96px; height: 72px;
+      object-fit: cover; cursor: pointer;
+      opacity: 0.5; flex-shrink: 0;
+      transition: opacity 0.15s;
+    }
+    #history-bar img:hover { opacity: 1; }
+
+    /* Mobile history grid — vertical scrollable grid */
+    #mob-history-grid {
+      display: none;
+      grid-template-columns: repeat(3, 96px);
+      gap: 8px;
+      overflow-y: auto;
+      max-height: 55vh;
+      padding: 0 24px;
+      scrollbar-width: thin;
+      scrollbar-color: #444 transparent;
+    }
+    #mob-history-grid::-webkit-scrollbar       { width: 4px; }
+    #mob-history-grid::-webkit-scrollbar-track { background: transparent; }
+    #mob-history-grid::-webkit-scrollbar-thumb { background: #444; border-radius: 2px; }
+    #mob-history-grid img {
+      width: 96px; height: 72px;
+      object-fit: cover; cursor: pointer;
+      opacity: 0.6;
+      transition: opacity 0.15s;
+    }
+    #mob-history-grid img:hover { opacity: 1; }
+
+    /* Toggle link */
+    #mobile-toggle-row { margin-top: 4px; }
+    #mobile-toggle-row a {
+      color: #999;
+      font-size: 0.7rem;
+      font-family: 'Courier New', monospace;
+      text-decoration: none;
+    }
+    #mobile-toggle-row a:hover { color: #ccc; }
+
+    /* Rotate hint */
+    #mob-rotate-hint {
+      display: none;
+      font-size: 0.65rem;
+      color: #555;
+      font-family: 'Courier New', monospace;
+      margin-top: 4px;
+    }
+
+    /* Shared mobile button style */
+    .mob-btn {
+      background: rgba(0,0,0,0.35);
+      border: none; border-radius: 6px;
+      color: #aaa; font-size: 1.1rem;
+      padding: 7px 10px;
+      cursor: pointer; user-select: none;
+      -webkit-tap-highlight-color: transparent;
+      font-family: 'Courier New', monospace;
+    }
+
+    /* Mobile welcome buttons */
+    #btn-welcome-clear {
+      display: none;
+      position: absolute;
+      top: 16px; left: 16px;
+    }
+    #btn-welcome-next {
+      display: none;
+      position: absolute;
+      bottom: 28px; right: 16px;
+    }
+
+    /* Mobile thank-you controls */
+    #mob-thankyou-controls {
+      display: none;
+      flex-direction: row;
+      gap: 48px;
+    }
+
+    /* Viewer */
+    #viewer {
+      position: absolute; inset: 0;
+      display: none;
+    }
+    #viewer > img {
+      width: 100%; height: 100%;
+      object-fit: contain;
+    }
+
+    /* Desktop heart indicator */
+    #heart {
+      position: absolute;
+      top: 24px; right: 32px;
+      font-size: 1.2rem;
+      display: none;
+      pointer-events: none; user-select: none;
+      font-family: 'Courier New', monospace;
+    }
+    #heart-icon  { color: #444; transition: color 0.15s; }
+    #love-count  { font-size: 0.7rem; color: #666; vertical-align: middle; margin-left: 6px; }
+
+    /* Viewer history strip */
+    #viewer-history {
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      display: none;
+      flex-direction: row;
+      gap: 12px;
+      padding: 16px 48px 10px;
+      background: rgba(0,0,0,0.6);
+      overflow-x: auto;
+      scrollbar-width: thin;
+      scrollbar-color: #555 transparent;
+    }
+    #viewer-history::-webkit-scrollbar         { height: 4px; }
+    #viewer-history::-webkit-scrollbar-track   { background: transparent; }
+    #viewer-history::-webkit-scrollbar-thumb   { background: #555; border-radius: 2px; }
+    #viewer-history img {
+      width: 96px; height: 72px;
+      object-fit: cover; cursor: pointer;
+      opacity: 0.6; flex-shrink: 0;
+      transition: opacity 0.15s; outline: none;
+    }
+    #viewer-history img.current { opacity: 1; outline: 2px solid #fff; outline-offset: 2px; }
+    #viewer-history img:hover   { opacity: 1; }
+
+    /* Mobile viewer controls */
+    #mobile-controls {
+      position: absolute; inset: 0;
+      display: none;
+      pointer-events: none;
+    }
+    #mobile-controls button {
+      position: absolute;
+      pointer-events: all;
+    }
+    #btn-home { top: 16px;    left: 16px;  }
+    #btn-love { top: 16px;    right: 16px; }
+    #btn-prev { bottom: 28px; left: 16px;  }
+    #btn-next { bottom: 28px; right: 16px; }
+    #mob-love-count { font-size: 0.6rem; color: #888; margin-left: 4px; vertical-align: middle; }
+  </style>
+</head>
+<body>
+
+  <div id="welcome">
+    <p class="screen-title">welcome</p>
+    <div id="welcome-shortcuts"></div>
+    <div id="mob-history-grid"></div>
+    <div id="mobile-toggle-row"></div>
+    <div id="history-bar"></div>
+    <p id="mob-rotate-hint">enable auto-rotate for better experience</p>
+    <button id="btn-welcome-clear" class="mob-btn">↺</button>
+    <button id="btn-welcome-next"  class="mob-btn">→</button>
+  </div>
+
+  <div id="viewer">
+    <img id="photo" src="" alt="">
+    <div id="heart"><span id="heart-icon">♥</span><span id="love-count"></span></div>
+    <div id="viewer-history"></div>
+    <div id="mobile-controls">
+      <button id="btn-home" class="mob-btn">⌂</button>
+      <button id="btn-love" class="mob-btn"><span id="mob-heart-icon">♥</span><span id="mob-love-count"></span></button>
+      <button id="btn-prev" class="mob-btn">←</button>
+      <button id="btn-next" class="mob-btn">→</button>
+    </div>
+  </div>
+
+  <div id="cheatsheet">
+    <div id="cheatsheet-shortcuts"></div>
+  </div>
+
+  <div id="thankyou">
+    <p class="screen-title">all photos seen</p>
+    <p class="screen-title">thank you</p>
+    <div id="thankyou-hint"></div>
+    <div id="mob-thankyou-controls">
+      <button id="btn-ty-prev" class="mob-btn">←</button>
+      <button id="btn-ty-home" class="mob-btn">⌂</button>
+    </div>
+  </div>
+
+  <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-database-compat.js"></script>
+  <script src="firebase-config.js"></script>
+  <script src="shortcuts-data.js"></script>
+  <script src="photos.js"></script>
+  <script>
+
+    const KEYS = {
+      next:          'ArrowRight',
+      prev:          'ArrowLeft',
+      love:          'ArrowUp',
+      toggleHistory: 'ArrowDown',
+      showHelp:      '/',
+      clearHistory:  'Escape',
+      home:          ' ',
+    };
+
+    // Firebase
+    let db = null;
+    let loveCounts  = {};
+    let viewCounts  = {};
+    try {
+      if (FIREBASE_CONFIG.databaseURL) {
+        firebase.initializeApp(FIREBASE_CONFIG);
+        db = firebase.database();
+        db.ref('loves').on('value', snap => { loveCounts = snap.val() || {}; updateHeart(); });
+        db.ref('views').on('value', snap => { viewCounts = snap.val() || {}; });
+      }
+    } catch (e) { console.warn('Firebase init failed:', e); }
+
+    function fbKey(src) { return src.replace(/[./]/g, '_'); }
+    function isLovedByMe(src) { return localStorage.getItem('loved:' + src) === '1'; }
+    function setLovedByMe(src, val) {
+      if (val) localStorage.setItem('loved:' + src, '1');
+      else localStorage.removeItem('loved:' + src);
+    }
+
+    // Shortcut UI
+    function kbdRow(label, desc, dim) {
+      const row = document.createElement('div');
+      row.className = 'row';
+      const k = document.createElement('kbd'); k.textContent = label;
+      const d = document.createElement('span'); d.className = dim ? 'dim' : 'label'; d.textContent = desc;
+      row.appendChild(k); row.appendChild(d);
+      return row;
+    }
+    function buildShortcutRows(container) {
+      container.innerHTML = '';
+      SHORTCUT_ROWS.forEach(({ label, desc, dim }) => container.appendChild(kbdRow(label, desc, dim)));
+    }
+    function buildThankyouHint() {
+      const hint = document.getElementById('thankyou-hint');
+      hint.innerHTML = '';
+      const row = document.createElement('div'); row.className = 'row';
+      THANKYOU_HINT.forEach(({ label, desc }, i) => {
+        if (i > 0) { const sep = document.createElement('span'); sep.className = 'dim'; sep.textContent = '·'; row.appendChild(sep); }
+        const k = document.createElement('kbd'); k.textContent = label;
+        const d = document.createElement('span'); d.className = 'label'; d.textContent = desc;
+        row.appendChild(k); row.appendChild(d);
+      });
+      hint.appendChild(row);
+    }
+    buildShortcutRows(document.getElementById('welcome-shortcuts'));
+    buildShortcutRows(document.getElementById('cheatsheet-shortcuts'));
+    buildThankyouHint();
+
+    // DOM refs
+    const welcome             = document.getElementById('welcome');
+    const viewer              = document.getElementById('viewer');
+    const photo               = document.getElementById('photo');
+    const heart               = document.getElementById('heart');
+    const heartIcon           = document.getElementById('heart-icon');
+    const loveCount           = document.getElementById('love-count');
+    const cheatsheet          = document.getElementById('cheatsheet');
+    const thankyou            = document.getElementById('thankyou');
+    const historyBar          = document.getElementById('history-bar');
+    const mobHistoryGrid      = document.getElementById('mob-history-grid');
+    const viewerHistory       = document.getElementById('viewer-history');
+    const mobileControls      = document.getElementById('mobile-controls');
+    const mobHeartIcon        = document.getElementById('mob-heart-icon');
+    const mobLoveCount        = document.getElementById('mob-love-count');
+    const mobRotateHint       = document.getElementById('mob-rotate-hint');
+    const btnWelcomeClear     = document.getElementById('btn-welcome-clear');
+    const btnWelcomeNext      = document.getElementById('btn-welcome-next');
+    const mobThankyouControls = document.getElementById('mob-thankyou-controls');
+
+    // State
+    let stack       = [];
+    let pos         = -1;
+    let seen        = new Set();
+    let historyOpen = false;
+    let mobile      = false;
+
+    function setMobile(val) {
+      mobile = val;
+      pos    = -1;
+      render();
+    }
+
+    function updateMobileToggle() {
+      const row = document.getElementById('mobile-toggle-row');
+      row.innerHTML = '';
+      const a = document.createElement('a');
+      a.href = '#';
+      a.textContent = mobile ? 'click to switch to desktop mode' : 'click to switch to mobile mode';
+      a.addEventListener('click', e => { e.preventDefault(); setMobile(!mobile); });
+      row.appendChild(a);
+    }
+
+    function updateHeart() {
+      if (pos === -1) { heart.style.display = 'none'; return; }
+      const src   = stack[pos];
+      const mine  = isLovedByMe(src);
+      const count = loveCounts[fbKey(src)] || 0;
+      heart.style.display = (!mobile && mine) ? 'block' : 'none';
+      if (!mobile && mine) { heartIcon.style.color = '#e05'; loveCount.textContent = count > 0 ? count : ''; }
+      mobHeartIcon.style.color = mine ? '#e05' : '#aaa';
+      mobLoveCount.textContent = count > 0 ? count : '';
+    }
+
+    function rebuildHistoryBar() {
+      historyBar.innerHTML = '';
+      stack.forEach((src, i) => {
+        const img = document.createElement('img'); img.src = src;
+        img.addEventListener('click', () => { pos = i; render(); });
+        historyBar.appendChild(img);
+      });
+      requestAnimationFrame(() => { historyBar.scrollLeft = historyBar.scrollWidth; });
+    }
+
+    function rebuildMobHistoryGrid() {
+      mobHistoryGrid.innerHTML = '';
+      stack.forEach((src, i) => {
+        const img = document.createElement('img'); img.src = src;
+        img.addEventListener('click', () => { pos = i; render(); });
+        mobHistoryGrid.appendChild(img);
+      });
+      requestAnimationFrame(() => { mobHistoryGrid.scrollTop = mobHistoryGrid.scrollHeight; });
+    }
+
+    function rebuildViewerHistory() {
+      viewerHistory.innerHTML = '';
+      stack.forEach((src, i) => {
+        const img = document.createElement('img'); img.src = src;
+        if (i === pos) img.classList.add('current');
+        img.addEventListener('click', () => { pos = i; render(); });
+        viewerHistory.appendChild(img);
+      });
+      requestAnimationFrame(() => {
+        viewerHistory.scrollLeft = viewerHistory.scrollWidth;
+        const cur = viewerHistory.querySelector('.current');
+        if (cur) cur.scrollIntoView({ inline: 'center', block: 'nearest' });
+      });
+    }
+
+    function render() {
+      cheatsheet.style.display = 'none';
+      if (pos === -1) {
+        historyOpen = false;
+        viewer.style.display              = 'none';
+        thankyou.style.display            = 'none';
+        viewerHistory.style.display       = 'none';
+        mobileControls.style.display      = 'none';
+        welcome.style.display             = 'flex';
+        welcome.onclick                   = null;
+        // mode-specific welcome content
+        const welcomeShortcuts = document.getElementById('welcome-shortcuts');
+        if (mobile) {
+          welcomeShortcuts.style.display  = 'none';
+          historyBar.style.display        = 'none';
+          rebuildMobHistoryGrid();
+          mobHistoryGrid.style.display    = 'grid';
+          mobRotateHint.style.display     = 'block';
+          btnWelcomeClear.style.display   = stack.length > 0 ? 'block' : 'none';
+          btnWelcomeNext.style.display    = 'block';
+        } else {
+          welcomeShortcuts.style.display  = '';
+          mobHistoryGrid.style.display    = 'none';
+          mobRotateHint.style.display     = 'none';
+          btnWelcomeClear.style.display   = 'none';
+          btnWelcomeNext.style.display    = 'none';
+          rebuildHistoryBar();
+          historyBar.style.display        = '';
+        }
+        updateMobileToggle();
+        updateHeart();
+      } else {
+        photo.src = stack[pos];
+        welcome.style.display             = 'none';
+        thankyou.style.display            = 'none';
+        viewer.style.display              = 'block';
+        mobileControls.style.display      = mobile ? 'block' : 'none';
+        if (historyOpen) {
+          rebuildViewerHistory();
+          viewerHistory.style.display = 'flex';
+        } else {
+          viewerHistory.style.display = 'none';
+        }
+        updateHeart();
+      }
+    }
+
+    function showThankYou() {
+      historyOpen = false;
+      welcome.style.display             = 'none';
+      viewer.style.display              = 'none';
+      cheatsheet.style.display          = 'none';
+      viewerHistory.style.display       = 'none';
+      mobileControls.style.display      = 'none';
+      thankyou.style.display            = 'flex';
+      // mode-specific thank-you content
+      document.getElementById('thankyou-hint').style.display     = mobile ? 'none' : '';
+      mobThankyouControls.style.display = mobile ? 'flex' : 'none';
+      updateHeart();
+    }
+
+    function clearHistory() {
+      stack = []; pos = -1; seen = new Set();
+      render();
+    }
+
+    function toggleLove() {
+      if (pos === -1) return;
+      const src = stack[pos];
+      const wasLoved = isLovedByMe(src);
+      setLovedByMe(src, !wasLoved);
+      if (db) db.ref('loves/' + fbKey(src)).transaction(n => Math.max(0, (n || 0) + (wasLoved ? -1 : 1)));
+      updateHeart();
+    }
+
+    function goRight() {
+      if (pos === -1 && stack.length > 0) {
+        pos = 0;
+      } else if (pos < stack.length - 1) {
+        pos++;
+      } else {
+        const next = pickUnseen();
+        if (!next) { showThankYou(); return; }
+        seen.add(next); stack.push(next); pos++;
+        if (db) db.ref('views/' + fbKey(next)).transaction(n => (n || 0) + 1);
+      }
+      render();
+    }
+
+    function goToEnd() {
+      if (stack.length === 0) return;
+      pos = stack.length - 1; render();
+    }
+
+    function goLeft() {
+      if (thankyou.style.display === 'flex') {
+        pos = stack.length - 1; render(); return;
+      }
+      if (pos === -1) return;
+      pos--; render();
+    }
+
+    function pickUnseen() {
+      const available = PHOTOS.filter(p => !p.hide && !seen.has(p.src));
+      if (!available.length) return null;
+      const weights = available.map(p => 1 / ((viewCounts[fbKey(p.src)] || 0) + 1));
+      const total   = weights.reduce((a, b) => a + b, 0);
+      let r = Math.random() * total;
+      for (let i = 0; i < available.length; i++) {
+        r -= weights[i];
+        if (r <= 0) return available[i].src;
+      }
+      return available[available.length - 1].src;
+    }
+
+    // Mobile viewer button handlers
+    const btnHome = document.getElementById('btn-home');
+    const btnLove = document.getElementById('btn-love');
+    const btnPrev = document.getElementById('btn-prev');
+    const btnNext = document.getElementById('btn-next');
+
+    function addTouchClick(el, fn) {
+      el.addEventListener('touchend', e => { e.preventDefault(); fn(); }, { passive: false });
+      el.addEventListener('click', fn);
+    }
+    addTouchClick(btnHome, () => { pos = -1; render(); });
+    addTouchClick(btnLove, toggleLove);
+    addTouchClick(btnPrev, goLeft);
+
+    let mobRpTimer = null, mobRpFired = false;
+    btnNext.addEventListener('touchstart', e => {
+      e.preventDefault(); mobRpFired = false;
+      mobRpTimer = setTimeout(() => { mobRpFired = true; goToEnd(); }, 500);
+    }, { passive: false });
+    btnNext.addEventListener('touchend', e => {
+      e.preventDefault(); clearTimeout(mobRpTimer);
+      if (!mobRpFired) goRight();
+    });
+    btnNext.addEventListener('click', () => { if (!mobRpFired) goRight(); });
+
+    // Mobile welcome nav handlers
+    addTouchClick(btnWelcomeClear, clearHistory);
+    let welRpTimer = null, welRpFired = false;
+    btnWelcomeNext.addEventListener('touchstart', e => {
+      e.preventDefault(); welRpFired = false;
+      welRpTimer = setTimeout(() => { welRpFired = true; goToEnd(); }, 500);
+    }, { passive: false });
+    btnWelcomeNext.addEventListener('touchend', e => {
+      e.preventDefault(); clearTimeout(welRpTimer);
+      if (!welRpFired) goRight();
+    });
+    btnWelcomeNext.addEventListener('click', () => { if (!welRpFired) goRight(); });
+
+    // Mobile thank-you handlers
+    addTouchClick(document.getElementById('btn-ty-home'), () => { pos = -1; render(); });
+    addTouchClick(document.getElementById('btn-ty-prev'), () => { pos = stack.length - 1; render(); });
+
+    // Keyboard handlers (desktop)
+    let rpTimer = null, rpFired = false;
+    document.addEventListener('keydown', e => {
+      if (e.key === KEYS.next) {
+        if (e.repeat) return;
+        rpFired = false; rpTimer = setTimeout(() => { rpFired = true; goToEnd(); }, 500);
+        return;
+      }
+      if (e.key === KEYS.prev) { goLeft(); return; }
+      if (e.key === KEYS.love) { if (pos !== -1) toggleLove(); return; }
+      if (e.key === KEYS.home) {
+        e.preventDefault();
+        if (thankyou.style.display === 'flex') { pos = -1; render(); return; }
+        if (pos !== -1) { pos = -1; render(); }
+        return;
+      }
+      if (e.key === KEYS.clearHistory) { clearHistory(); return; }
+      if (e.key === KEYS.showHelp) {
+        if (pos !== -1) {
+          viewerHistory.style.display = 'none';
+          cheatsheet.style.display = cheatsheet.style.display === 'flex' ? 'none' : 'flex';
+        }
+        return;
+      }
+      if (e.key === KEYS.toggleHistory) {
+        e.preventDefault();
+        if (pos !== -1) {
+          cheatsheet.style.display = 'none';
+          historyOpen = !historyOpen;
+          if (historyOpen) { rebuildViewerHistory(); viewerHistory.style.display = 'flex'; }
+          else viewerHistory.style.display = 'none';
+        }
+        return;
+      }
+    });
+    document.addEventListener('keyup', e => {
+      if (e.key === KEYS.next) { clearTimeout(rpTimer); if (!rpFired) goRight(); }
+    });
+
+    render();
+  </script>
+
+</body>
+</html>
